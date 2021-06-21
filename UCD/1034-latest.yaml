@@ -1,0 +1,37 @@
+---
+type: taxonomic
+identifier: {}
+title: Universal Chalcidoidea Database
+alias: UCD
+description: Work on the Universal Chalcidoidea Database was started, with the help
+  of small grants from Unilever and Tate & Lyle plc, in August 1991 with the aim of
+  making it freely available in electronic format. The Chalcidoidea is a large group
+  of insects, currently numbering about 23,000 species, many of which have an important
+  impact on major ecosystems and are frequently used for the biocontrol of insect
+  pests. The database is intended to provide comprehensive information on the taxonomy,
+  biology and distribution of all included species.
+issued: 2007-09-17
+version: Sep 2007
+contact:
+  given: J
+  family: Noyes
+creator:
+ -
+  given: J.
+  family: Noyes
+contributor:
+ -
+  organisation: Natural History Museum
+ -
+  organisation: London
+ -
+  organisation: UK
+geographicScope: Global
+taxonomicScope: Chalcidoid wasps
+confidence: 4
+completeness: 95
+license: other
+url: http://www.nhm.ac.uk/entomology/chalcidoids
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/UCD.png
+source: []
+notes: ""

@@ -1,0 +1,37 @@
+---
+type: taxonomic
+identifier: {}
+title: Checklist of the Collembola of the World
+alias: Collembola.org
+description: The Checklist of the Collembola of the World constitutes a comprehensive
+  resource in the field of Collembola systematics. The checklist is searchable by
+  taxon and is linked, at three taxon ranks (family, genus and species), to global
+  distribution maps. In addition, the site contains complementary information including
+  biology, identification, collecting techniques, bibliography and images. Crawling
+  of the website for the Catalogue of Life was facilitated by Anton Potapov.
+issued: 2020-05-15
+version: Apr 2020
+contact:
+  family: Anton Potapov for Frans Janssens
+creator:
+ -
+  given: P.F.
+  family: Bellinger
+ -
+  given: K.A.
+  family: Christiansen
+ -
+  given: F.
+  family: Janssens
+editor: []
+contributor:
+ -
+  organisation: Individual custodian
+geographicScope: Global
+taxonomicScope: Springtails
+confidence: 4
+completeness: 92
+license: cc by
+url: https://www.collembola.org
+logo: https://www.collembola.org/favicon.ico
+source: []

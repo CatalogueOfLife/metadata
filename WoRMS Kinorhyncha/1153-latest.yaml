@@ -1,0 +1,50 @@
+---
+type: taxonomic
+identifier: {}
+title: World Kinorhyncha Database
+alias: WoRMS Kinorhyncha
+description: Kinorhyncha (= Echinodera) is a taxon of marine animals ranging in size
+  from 0.13-1.04 mm body length. The animals live in muddy to sandy sediments or appear
+  on algae and invertebrates from the intertidal zone to the deep sea. Kinorhyncha
+  feeds on bacteria, algae, diatoms, and detritus. Some 200+ species have been described  based
+  on descriptions from adult stages plus 50 species based on the description from
+  juvenile stages. Species known only from juvenile stages are generally regarded
+  as nomina dubia, but names are available and valid according to the International
+  Code of Zoological Nomenclature. The species are grouped in two subtaxa, namely
+  Cyclorhagida and Homalorhagida. Further subdivision is in 22 genera using as distinguishing
+  characters a) habitus, b) arrangement, shape and surface structure of cuticular
+  plates, c) size, shape and arrangement of inner and outer oral styles as well as
+  of scalids, and d) size, shape and distribution of spines, sensory spots, gland
+  cell outlets and papillae.
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Birger
+  family: Neuhaus
+  email: birger.neuhaus@mfn.berlin
+creator:
+ -
+  given: B.
+  family: Neuhaus
+editor:
+ -
+  given: Birger
+  family: Neuhaus
+  email: birger.neuhaus@mfn.berlin
+contributor:
+ -
+  country: DE
+  address: Germany
+  organisation: Leibniz Institute for Evolution and Biodiversity Museum für Naturkunde
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Kinorhyncha
+confidence: 5
+completeness: 97
+license: cc by
+url: http://www.marinespecies.org/kinorhyncha
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

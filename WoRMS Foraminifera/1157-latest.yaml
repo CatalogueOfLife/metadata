@@ -1,0 +1,110 @@
+---
+type: taxonomic
+identifier: {}
+title: World Foraminifera Database
+alias: WoRMS Foraminifera
+description: "This World Database of all species of Foraminifera ever described, is\
+  \ part of the World Register of Marine Species (WoRMS), a global initiative to provide\
+  \ a register of all marine organisms.\r\nForaminifera (‘hole bearers’) or forams\
+  \ for short, are a large phylum of amoeboid protozoans (single celled) with reticulating\
+  \ pseudopods, fine strands of cytoplasm that branch and merge to form a dynamic\
+  \ net. They usually produce a test (or shell) which can have one or more chambers,\
+  \ and are made of calcium carbonate (CaCO3) or mineral grains or other particles\
+  \ glued together. The tests are usually less than 0.5 mm in size, but the largest\
+  \ can be up to 20 cm across. Foraminifera are among the most abundant and scientifically\
+  \ important groups of marine organisms. The tests of recently dead planktic foraminifera\
+  \ are so abundant that they form a thick blanket over one third of the surface of\
+  \ the Earth (as Globigerina ooze on the ocean floor). Foraminifera are essentially\
+  \ marine- and estuarine-dwelling protozoans living in all environments from the\
+  \ greatest depths right up to highest astronomical tide level and from the equator\
+  \ to the poles.\r\n\r\nThe importance of foraminifera comes from the use of their\
+  \ fossil tests in biostratigraphy, paleoenvironmental studies, and isotope geochemistry.\
+  \ Their ubiquity in most marine sedimentary rocks, often as large, well-preserved,\
+  \ diverse assemblages, has resulted in their being the most studied group of fossils\
+  \ worldwide. Because modern foraminifera have attracted little interest from biologists,\
+  \ paleontologists have been forced to undertake most studies, including genetic\
+  \ research, on the living fauna.\r\nThis site has the following aims:\r\n    to\
+  \ provide a catalogue of the world's foraminiferal species\r\n    to promote stability\
+  \ in foraminiferal nomenclature\r\n    to act as a tool for higher taxonomic revisions\
+  \ and regional monographs"
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Bruce W.
+  family: Hayward
+  email: b.hayward@geomarine.org.nz
+creator:
+ -
+  given: B.W.
+  family: Hayward
+ -
+  given: F.
+  family: Le Coze
+ -
+  given: D.
+  family: Vachard
+ -
+  given: O.
+  family: Gross
+editor:
+ -
+  given: Sarita Camacho da
+  family: Encarnação
+  email: scamacho@ualg.pt
+ -
+  given: Onno
+  family: Gross
+  email: info@deepwave.org
+ -
+  orcid: 0000-0003-1302-7686
+  given: Bruce W.
+  family: Hayward
+  email: b.hayward@geomarine.org.nz
+ -
+  given: François
+  family: Le Coze
+  email: info@marinespecies.org
+ -
+  given: Briony
+  family: Mamo
+  email: briony.mamo@mq.edu.au
+ -
+  given: Daniel
+  family: Vachard
+  email: daniel.vachard@free.fr
+contributor:
+ -
+  country: PT
+  address: Portugal
+  organisation: University of Algarve; Faculty of Marine and Environmental Sciences
+    Centre for Marine and Environmental Research
+ -
+  country: DE
+  address: Germany
+  organisation: Deepwave
+ -
+  country: NZ
+  address: New Zealand
+  organisation: Geomarine Research
+ -
+  organisation: WoRMS Editorial Board
+ -
+  organisation: Macquarie University; Faculty of Science; Department of Biological
+    Sciences Palaeobiology Laboratory
+ -
+  country: FR
+  address: France
+  organisation: Université des Sciences et Technologies de Lille Institut de Recherche
+    Pluridisciplinaire en Sciences de l&#039;Environnement
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Foraminifera
+confidence: 4
+completeness: 98
+license: cc by
+url: http://www.marinespecies.org/foraminifera
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

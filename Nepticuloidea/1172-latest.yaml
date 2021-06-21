@@ -1,0 +1,39 @@
+---
+type: taxonomic
+identifier: {}
+title: Nepticulidae and Opostegidae of the World
+alias: Nepticuloidea
+description: 'This database covers all global extant and fossil species of Nepticuloidea.
+  It is based on the scratchpad Nepticuloidea.info, and the fixed publication Nieukerken
+  EJ van, Doorenweerd C, Hoare RJB, Davis DR (2016). Revised classification and catalogue
+  of global Nepticulidae and Opostegidae (Lepidoptera: Nepticuloidea). ZooKeys 628:
+  65-246. <a href="https://doi.org/10.3897/zookeys.628.9799" target="_blank">doi:
+  10.3897/zookeys.628.9799, all published on October 31st, 2016. The database covers
+  all current valid names, and all known synonyms, various combinations and synonymic
+  infra-subspecific names. The publication also provides biogeographic regions, the
+  full classification, including species groups, many notes and a taxonomic history
+  and "state of the art". The scratchpad also contains details on types, country distribution,
+  and a growing number of multimedia and descriptions. Excluded names and dubious
+  names, not present in CoL can also be found in both other sources.'
+issued: 2016-10-31
+version: Oct 2016
+contact: {}
+creator: []
+editor:
+ -
+  given: E.J.
+  family: van Nieukerken
+contributor:
+ -
+  organisation: Naturalis Biodiversity Center
+ -
+  organisation: Leiden
+ -
+  organisation: The Netherlands
+taxonomicScope: Pigmy moths & white eyecap moths
+confidence: 5
+completeness: 100
+license: cc by
+url: http://nepticuloidea.info
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Nepticuloidea.png
+source: []

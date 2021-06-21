@@ -1,0 +1,39 @@
+---
+type: taxonomic
+identifier: {}
+title: Conifer Database
+alias: Conifer Database
+description: The Conifer database is a taxonomic and specimen database of all 615
+  species of conifers in the world based on herbarium specimens from many herbaria.
+  The database has been compiled primarily as a tool for taxonomic revisions and to
+  produce checklists and monographs. Recent outputs have been A Handbook of the World's
+  Conifers (2010) and An Atlas of the World's Conifers (2013), both by A. Farjon and
+  published by Brill in Leiden. Work on the database is in progress. Over 4,000 new
+  conifer common names in 20 languages and additional references have been contributed
+  as a result of 4D4Life pilot projects.
+issued: 2014-06-18
+version: Jan 2014
+contact: {}
+creator:
+ -
+  given: A.
+  family: Farjon
+ -
+  given: M.
+  family: Gardner
+ -
+  given: P.
+  family: Thomas
+contributor:
+ -
+  organisation: Royal Botanic Garden
+ -
+  organisation: Edinburgh
+ -
+  organisation: UK
+taxonomicScope: Conifers
+confidence: 5
+completeness: 100
+license: cc by
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Conifer_Database.png
+source: []

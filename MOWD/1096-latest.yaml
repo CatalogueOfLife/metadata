@@ -1,0 +1,36 @@
+---
+type: taxonomic
+identifier: {}
+title: Membracoidea of the World Database
+alias: MOWD
+description: MOWD includes almost all valid names of Membracoidea worldwide. Synonyms
+  and unpublished combinations will be added later. MOWD also includes country distributions
+  of all species. In the original species description citations (1758-1955), letter
+  designations refer to the Catalogue of the Homoptera, available online (www.lib.ncsu.edu/specialcollections/digital/metcalf/index.html).
+  MOWD was developed and is maintained by Dr. Stuart McKamey, with some financial
+  assistance from Dr. Christopher Dietrich (Illinois Natural History Survey).
+issued: 2010-11-23
+version: 1011, Nov 2010
+contact:
+  given: D
+  family: Ouvrard
+creator:
+ -
+  given: S.
+  family: McKamey
+editor: []
+contributor:
+ -
+  organisation: USDA Agricultural Research Service
+ -
+  organisation: Systematc Entomology Laboratory
+ -
+  organisation: Washington DC
+ -
+  organisation: USA
+taxonomicScope: Treehoppers and leafhoppers
+confidence: 4
+completeness: 95
+license: cc0
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/MOWD.png
+source: []

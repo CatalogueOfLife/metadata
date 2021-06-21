@@ -1,0 +1,129 @@
+---
+type: taxonomic
+identifier: {}
+title: World Marine, Freshwater and Terrestrial Isopod Crustaceans database
+alias: WoRMS Isopoda
+description: 'This list began as an initiative of the US National Museum of Natural
+  History, Smithsonian Institution, maintained by the late Brian Kensley and Marilyn
+  Schotte. It grew into a valuable resource http://invertebrates.si.edu/isopod/ for
+  providing nomenclature on the Isopoda: Schotte, M., B.F. Kensley, and S. Shilling
+  (1995 onwards). World list of Marine, Freshwater and Terrestrial Crustacea Isopoda.
+  National Museum of Natural History Smithsonian Institution: Washington D.C., USA.
+  This list is now reconstructed at http://www.marinespecies.org, with more detailed
+  information on synonymies and distributions, and a capability to host more information,
+  such as images, original literature, and specimen data. This list will be transferred
+  on a monthly basis back to the Smithsonian site. Data have been contributed to the
+  Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  email: info@marinespecies.org
+creator:
+ -
+  given: C.B.
+  family: Boyko
+ -
+  given: N.L.
+  family: Bruce
+ -
+  given: K.A.
+  family: Hadfield
+ -
+  given: K.L.
+  family: Merrin
+ -
+  given: Y.
+  family: Ota
+ -
+  given: G.C.B.
+  family: Poore
+ -
+  given: S.
+  family: Taiti
+ -
+  given: M.
+  family: Schotte
+ -
+  given: G.D.F. (Eds)
+  family: Wilson
+editor:
+ -
+  given: Christopher
+  family: Boyko
+  email: cboyko@amnh.org
+ -
+  given: Niel
+  family: Bruce
+  email: niel.bruce@qm.qld.gov.au
+ -
+  orcid: 0000-0003-1308-6360
+  given: Kerry A.
+  family: Hadfield
+  email: kerryh26@yahoo.com
+ -
+  given: Kelly
+  family: Merrin
+  email: kellymerrin@hotmail.com
+ -
+  given: Yuzo
+  family: Ota
+  email: ootayu@pref.tottori.jp
+ -
+  given: Gary
+  family: Poore
+  email: gpoore@museum.vic.gov.au
+ -
+  given: Marilyn
+  family: Schotte
+ -
+  given: Stefano
+  family: Taiti
+  email: stefano.taiti@ise.cnr.it
+ -
+  given: George D.F.
+  family: Wilson
+  email: buz@optusnet.com.au
+contributor:
+ -
+  organisation: American Museum of Natural History Division of Invertebrate Zoology
+ -
+  country: AU
+  address: Australia
+  organisation: Queensland Museum Museum of Tropical Queensland
+ -
+  country: ZA
+  address: South Africa
+  organisation: North-West University Department of Biological Sciences
+ -
+  country: ZA
+  address: South Africa
+  organisation: Monash University
+ -
+  country: JP
+  address: Japan
+  organisation: University of Ryukyus Graduate School of Engineering and Science
+ -
+  country: AU
+  address: Australia
+  organisation: Museums Victoria
+ -
+  country: IT
+  address: Italy
+  organisation: Italian National Research Council Istituto per lo Studio degli Ecosistemi
+    - Sede di Firenze
+ -
+  country: IT
+  address: Italy
+  organisation: University of Sydney
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Isopoda
+confidence: 5
+completeness: 100
+license: cc by
+url: http://www.marinespecies.org/isopoda
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

@@ -1,0 +1,94 @@
+---
+type: taxonomic
+identifier: {}
+title: World Ostracoda Database
+alias: WoRMS Ostracoda
+description: "The Recent or extant taxa from the World Ostracoda Database-World Register\
+  \ of Marine Species includes mostly marine species, and was data-mined from thousands\
+  \ of publications (see sources in WoRMS). Concerning the Recent non-marine  Ostracoda,\
+  \ very few of the 2,000 species and approximately 200 genera of are included in\
+  \ the present data, because they have already been compiled by Martens et al. (2007).\
+  \ Concerning the high level classification (i.e., down to family level), we follow\
+  \ different authors. The Recent Podocopa classification mostly follows Horne et\
+  \ al. (2002), with two exceptions. First, we include Platycopida within the subclass\
+  \ Platycopa, while Horne et al. (2002) place it within Podocopa. Second, we place\
+  \ the superfamily Puncioidea (which includes a few Recent species) directly in the\
+  \ subclass Palaeocopa, while Horne et al (2002) include it within Subclass Podocopa,\
+  \ order Palaeocopida and  Suborder Kirkbyocopina. The classification of Recent Myodocopa\
+  \ follows diverse classifications of Kornicker and collaborators (e.g. Kornicker\
+  \ et al., 2007).\r\n\r\nHorne, D.J., Cohen, A.C. & Martens, K. (2002). Taxonomy,\
+  \ morphology and biology of Quaternary and living Ostracoda. In: J. Holmes and A.\
+  \ Chivas (Eds), The Ostracoda. Applications in Quaternary Research. Geophysical\
+  \ Monograph. American Geophysical Union, Washington, DC, pp. 5-35. \r\n\r\nKornicker,\
+  \ L.S., Iliffe, T.M. & Harrison-Nelson, E. (2007) Ostracoda (Myodocopa) from anchialine\
+  \ caves and ocean blue holes. Zootaxa 1565, 3-151. \r\n\r\nMartens, K., Schön, I.,\
+  \ Meisch, C. & Horne, D.J. (2008) Global diversity of ostracods (Ostracoda, Crustacea)\
+  \ in freshwater. Hydrobiologia 595, 185-193."
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Simone
+  family: Brandão
+  email: brandao.sn.100@gmail.com
+creator:
+ -
+  given: S.N.
+  family: Brandão
+ -
+  given: I.
+  family: Karanovic
+editor:
+ -
+  given: Martin
+  family: Angel
+  email: mvangel37@gmail.com
+ -
+  orcid: 0000-0002-3487-6129
+  given: Simone
+  family: Brandão
+  email: brandao.sn.100@gmail.com
+ -
+  given: Ivana
+  family: Karanovic
+  email: ivana.karanovic@utas.edu.au
+ -
+  given: Tõnu
+  family: Meidla
+  email: Tonu.Meidla@ut.ee
+ -
+  given: Vincent
+  family: Perrier
+  email: vincent.perrier@univ-lyon1.fr
+contributor:
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Natural History Museum
+ -
+  country: BR
+  address: Brazil
+  organisation: Universidade Estadual de Santa Cruz Departamento de Ciências Biológicas
+ -
+  country: AU
+  address: Australia
+  organisation: University of Tasmania
+ -
+  country: AU
+  address: Australia
+  organisation: University of Tartu Faculty of Biology and Geography
+ -
+  country: FR
+  address: France
+  organisation: Université Claude Bernard Lyon 1
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Ostracoda
+confidence: 3
+completeness: 60
+license: cc by
+url: http://www.marinespecies.org/ostracoda
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

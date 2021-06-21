@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: Parhost World Database of Fleas
+alias: Parhost
+description: The Parhost World Database of Fleas is a complete electronic taxonomic
+  checklist of order Siphonaptera. This is part of the original analytical system
+  PARHOST, which contains extensive data on flea morphology, parasite–host associations,
+  and geographical distribution.
+issued: 2005-11-14
+version: 2, Nov 2005
+contact:
+  family: S Medvedev, A Lobanov
+creator:
+ -
+  given: S.
+  family: Medvedev
+ -
+  given: A.
+  family: Lobanov
+ -
+  given: I.
+  family: Lyangouzov
+contributor:
+ -
+  organisation: Zoological Institute
+ -
+  organisation: Russian Academy of Sciences
+ -
+  organisation: St Petersburg
+ -
+  organisation: Russia
+taxonomicScope: Fleas
+confidence: 4
+completeness: 99
+url: http://www.zin.ru/Animalia/Siphonaptera
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Parhost.png
+source: []

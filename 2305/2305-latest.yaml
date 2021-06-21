@@ -1,0 +1,62 @@
+---
+type: taxonomic
+gbifKey: 94308742-058c-46d5-b763-06e9207a6b15
+identifier: {}
+title: Update on the Brassicaceae Species Checklist
+description: 'Here we present a revised species checklist for the Brassicaceae updated
+  from Warwick SI, Francis, A., Al-Shehbaz IA (2006). Brassicaceae: Species checklist
+  and database on CD-ROM. Plant Systematics and Evolution 259: 249─25. This update
+  of the checklist was initiated on the basis of recent taxonomic and molecular studies
+  on the Brassicaceae that have resulted in new species names, combinations and associated
+  synonyms. New data has been added indicating tribal affiliations within the family
+  and where type specimens have been designated. In addition, information from many
+  early publications was checked and added to the database. The database now includes
+  information on 14,980 taxa, 4,634 of which are currently accepted and divided into
+  340 genera and 52 tribes. A selected bibliography of recent publications on the
+  Brassicaceae is included.'
+issued: 2021-01-19
+contact:
+  orcid: 0000-0003-3533-3318
+  given: Beatriz E..
+  family: Lujan-Toro
+  email: bibilujan@gmail.com
+creator:
+ -
+  given: Ardath
+  family: Francis
+  email: ardath.francis@canada.ca
+ -
+  orcid: 0000-0003-3533-3318
+  given: Beatriz E.
+  family: Lujan-Toro
+  email: bibilujan@gmail.com
+ -
+  given: Suzanne
+  family: Warwick
+ -
+  orcid: 0000-0001-9508-1349
+  given: James A.
+  family: Macklin
+  email: james.macklin@canada.ca
+ -
+  orcid: 0000-0003-2055-6498
+  given: Sara L.
+  family: Martin
+  email: sara.martin@canada.ca
+editor:
+ -
+  orcid: 0000-0001-9508-1349
+  given: James A.
+  family: Macklin
+  email: james.macklin@canada.ca
+contributor:
+ -
+  country: CA
+  address: Canada
+  organisation: Agriculture and Agri-Food Canada
+ -
+  organisation: Agriculture and Agri-Food Canada
+taxonomicScope: The database includes information on 14,980 taxa, 4,634 of which are
+  currently accepted and divided into 340 genera and 52 tribes.
+license: cc by
+source: []

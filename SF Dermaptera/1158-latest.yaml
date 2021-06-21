@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: Dermaptera Species File
+alias: SF Dermaptera
+description: The Dermaptera Species File website and database contain taxonomic information
+  about earwigs.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: H.
+  family: Hopkins
+ -
+  given: M.D.
+  family: Maehr
+ -
+  given: F.
+  family: Haas
+ -
+  given: L.S.
+  family: Deem
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Earwigs
+confidence: 4
+completeness: 95
+url: http://Dermaptera.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Dermaptera.png
+source: []

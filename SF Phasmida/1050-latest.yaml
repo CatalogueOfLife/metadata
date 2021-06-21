@@ -1,0 +1,44 @@
+---
+type: taxonomic
+identifier: {}
+title: Phasmida Species File
+alias: SF Phasmida
+description: The Phasmida Species File (PSF) is a taxonomic database of the world's
+  Phasmida (stick and leaf insects, known as walking sticks and walking leaves in
+  the U.S.). There is full synonymic and taxonomic information for 3,269 valid species
+  and 5,000 taxonomic names, 35,300 citations to 3,000 references, also 7,000 specimen
+  records and 16,000 images of 75% of valid species, with more being added to on a
+  regular basis. Another future aim of this database is to provide high quality images
+  of living phasmids in the wild and in captivity. Colleagues have kindly collaborated
+  by providing photos (with particular thanks to Oskar Conle & Frank Hennemann).
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: P.D.
+  family: Brock
+ -
+  given: T.
+  family: Büscher
+ -
+  given: E.
+  family: Baker
+ -
+  given: D.
+  family: Otte
+contributor:
+ -
+  organisation: The Natural History Museum
+ -
+  organisation: London
+ -
+  organisation: UK
+taxonomicScope: Stick and leaf insects
+confidence: 5
+completeness: 100
+url: http://phasmida.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Phasmida.png
+source: []

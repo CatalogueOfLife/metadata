@@ -1,0 +1,86 @@
+---
+type: taxonomic
+identifier: {}
+title: ICTV Master Species List
+alias: ICTV MSL
+description: |-
+  The 7th lCTV Report formalized for the first time the concept of the virus species as the lowest taxon (group) in a branching hierarchy of viral taxa. As defined therein, “a virus species is a polythetic class of viruses that constitute a replicating lineage and occupy a particular ecological niche”. A “polythetic class” is one whose members have several properties in common, although they do not necessarily all share a single common defining property. In other words, the members of a virus species are defined collectively by a consensus group of properties. Virus species thus differ from the higher viral taxa, which are “universal” classes and as such are defined by properties that are necessary for membership.
+
+  Viruses are real physical entities produced by biological evolution and genetics, whereas virus species and higher taxa are abstract concepts produced by rational thought and logic. The virus/species relationship thus represents the front line of the interface between biology and logic.
+  Viruses (including virus isolates, strains, variants, types, sub-types, serotypes, etc.) should wherever possible be assigned as members of the appropriate virus species, although many viruses remain unassigned because they are inadequately characterized.
+  All virus species must be represented by at least one virus isolate.
+  Almost all virus species are members of recognized genera. A few species remain unassigned in their families although they have been clearly identified as new species.
+  Some genera are members of recognized sub-families.
+  All sub-families and most genera are members of recognized families. Some genera are not yet assigned to a family; in the future they may either join an existing family or constitute a new family with other unassigned genera.
+  Some families are members of the following recognized orders: Caudovirales, Nidovirales and Mononegavirales.
+  The hierarchy of recognized viral taxa is therefore:
+
+  (Order), Family, (Sub-family), Genus, Species
+
+  Only the aforementioned taxa are recognized by the ICTV. Other groupings (from clade to super-family), may communicate useful descriptive information in some circumstances but they have no formally recognized taxonomic meaning. Similarly, the term “quasi-species”, although it captures an important concept, has no recognized taxonomic meaning.
+  The creation or elimination, (re)naming, and (re)assignment of a virus species, genus, (sub)family, or order are all taxonomic acts that require public scrutiny and debate, leading to formal approval by the full membership of the ICTV. In contrast, the naming of a virus isolate and its assignment to a pre-existing species are not considered taxonomic acts and therefore do not require formal ICTV approval. Instead they will typically be accomplished by publication of a paper describing the virus isolate in the peer-reviewed virology literature.
+issued: 2020-04-23
+version: MSL35, 2019, v1
+contact:
+  family: info@ictvonline.org
+creator:
+ -
+  family: Davison, Andrew J.
+ -
+  given: Stuart
+  family: Siddell
+ -
+  given: Arcady
+  family: Mushegian
+ -
+  family: Walker, Peter J.
+ -
+  family: Lefkowitz, Elliot J.
+ -
+  family: Adriaenssens, Evelien
+ -
+  given: Balázs
+  family: Harrach
+ -
+  family: Kuhn, Jens H.
+ -
+  family: Knowles, Nick J.
+ -
+  given: Peter
+  family: Simmonds
+ -
+  family: Zerbini, F. Murilo
+ -
+  given: Bas
+  family: Dutilh
+ -
+  given: Robert
+  family: Harrison
+ -
+  given: Sandra
+  family: Junglen
+ -
+  given: Mart
+  family: Krupovic
+ -
+  family: Nibert, Max L.
+ -
+  given: Luisa
+  family: Rubino
+ -
+  given: Sead
+  family: Sabanadzovic
+ -
+  given: Arvind
+  family: Varsani
+contributor:
+ -
+  organisation: International Committee on Taxonomy of Viruses (ICTV)
+geographicScope: Global
+taxonomicScope: Viruses
+confidence: 5
+completeness: 100
+license: cc by
+url: https://talk.ictvonline.org/taxonomy/w/ictv-taxonomy
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ICTV_MSL.png
+source: []

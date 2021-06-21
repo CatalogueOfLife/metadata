@@ -1,0 +1,37 @@
+---
+type: taxonomic
+identifier: {}
+title: Cerambycidae database
+alias: TITAN
+description: Database started in 1986 with Cerambycids of the whole American Continent
+  and extended to world wide species since 2002. It contains about 35.000 species
+  and more than 215.000 bibliographic links including first publications, types locations,
+  synonyms, flight period, host plants, behaviour, chorology, mimectics, parasites,
+  phoretics and predators.
+issued: 2015-04-03
+version: Apr 2015
+contact:
+  given: G
+  family: Tavakilian
+creator:
+ -
+  given: G.
+  family: Tavakilian
+ -
+  given: H.
+  family: Chevillotte
+contributor:
+ -
+  organisation: Institut de Recherche pour le Développement (IRD)
+ -
+  organisation: MNHN
+ -
+  organisation: Paris
+ -
+  organisation: France
+taxonomicScope: Longhorn beetles, timber beetles
+confidence: 2
+completeness: 99
+url: http://titan.gbif.fr/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/TITAN.png
+source: []

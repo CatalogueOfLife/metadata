@@ -1,0 +1,36 @@
+---
+type: taxonomic
+identifier: {}
+title: Catalogue of the Alucitoidea of the World
+alias: Alucitoidea
+description: This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea
+  (Lepidoptera) (World Catalogue of Insects, volume 4). The database has been edited
+  for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version
+  of the dataset is presented as a web document at https://alucitoidea.hobern.net/.
+  Version 1.0 includes updates to reflect recent changes in taxonomy and new species.
+issued: 2021-02-17
+version: 1.0.2148 (17 Feb 2021)
+contact:
+  orcid: 0000-0001-6492-4016
+  given: Donald
+  family: Hobern
+creator:
+ -
+  orcid: 0000-0001-6492-4016
+  given: Donald
+  family: Hobern
+  email: dhobern@gmail.com
+ -
+  orcid: 0000-0003-0857-1679
+  given: Cees
+  family: Gielis
+editor: []
+contributor: []
+geographicScope: Global
+taxonomicScope: Alucitoidea
+confidence: 5
+completeness: 100
+license: cc0
+url: https://alucitoidea.hobern.net/
+logo: https://hobern.net/img/Alucita_hexadactyla.png
+source: []

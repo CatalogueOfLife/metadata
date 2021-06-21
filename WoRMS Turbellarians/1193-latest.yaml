@@ -1,0 +1,56 @@
+---
+type: taxonomic
+identifier: {}
+title: 'World List of turbellarian worms: Acoelomorpha, Catenulida, Rhabditophora'
+alias: WoRMS Turbellarians
+description: The world list of Turbellarian worms, including the Acoelomorpha, Catenulida
+  and Rhabditophora contains 3.425 accepted species names and is one of the most complete
+  existing resources for Turbellarian taxa. This taxonomic database covers all turbellarian
+  flatworms, freshwater as well as marine ones, and including parasitic turbellarians.
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Seth
+  family: Tyler
+  email: styler@maine.edu
+creator: []
+editor:
+ -
+  given: Tom
+  family: Artois
+  email: tom.artois@uhasselt.be
+ -
+  given: Louise
+  family: Bush
+ -
+  given: Matthew
+  family: Hooge
+ -
+  given: Steve
+  family: Schilling
+ -
+  given: Seth
+  family: Tyler
+  email: styler@maine.edu
+contributor:
+ -
+  country: BE
+  address: Belgium
+  organisation: 'Universiteit Hasselt; Faculteit Wetenschappen; Vakgroep Biologie
+    en Geologie; Centrum voor Milieukunde Onderzoeksgroep Dierkunde: Biodiversiteit
+    en Toxicologie'
+ -
+  country: US
+  address: United States of America
+  organisation: University of Maine School of Biology and Ecology
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+taxonomicScope: Turbellarians
+confidence: 5
+completeness: 98
+license: cc by
+url: http://www.marinespecies.org/turbellarians
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/WoRMS_Turbellarians.png
+source: []

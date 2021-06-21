@@ -1,0 +1,41 @@
+---
+type: taxonomic
+identifier: {}
+title: Isoptera Species File
+alias: SF Isoptera
+description: 'Isoptera Species File is a digital global checklist of extant and fossil
+  termite species. The list of valid names is derived from seven volumes of Treatise
+  on the Isoptera of the World by Krishna, K., Grimaldi, D. A., Krishna, V., and M.
+  S. Engel (2013) published in the Bulletin of the American Museum of Natural History,
+  377: 1-2704. <a href="https://doi.org/10.1206/377.1" target="_blank">doi: 10.1206/377.1.
+  Future versions of the database will include synonyms, references, and distribution
+  data.'
+issued: 2018-01-18
+version: Jan 2018
+contact:
+  given: Eric
+  family: South
+creator:
+ -
+  family: South E.J. after Krishna K.
+ -
+  given: D.A.
+  family: Grimaldi
+ -
+  given: V.
+  family: Krishna
+ -
+  given: M.S.
+  family: Engel
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Termites
+confidence: 5
+completeness: 100
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Isoptera.png
+source: []

@@ -1,0 +1,31 @@
+---
+type: taxonomic
+identifier: {}
+title: The Paleobiology Database
+alias: PaleoBioDB
+description: The Paleobiology Database (PaleoBioDB) is a non-governmental, non-profit
+  public resource for paleontological data. It has been organized and operated by
+  a multi-disciplinary, multi-institutional, international group of paleobiological
+  researchers. Its purpose is to provide global, collection-based occurrence and taxonomic
+  data for organisms of all geological ages, as well data services to allow easy access
+  to data for independent development of analytical tools, visualization software,
+  and applications of all types. The Database’s broader goal is to encourage and enable
+  data-driven collaborative efforts that address large-scale paleobiological questions.
+issued: 2018-02-16
+version: Feb 2018
+contact:
+  family: Matthew Clapham <sec@paleobiodb.org>, Mark Uhen <muhen@gmu.edu>
+creator:
+ -
+  family: Paleobiology Database contributors
+editor: []
+contributor:
+ -
+  organisation: The Paleobiology Database Executive Committee
+taxonomicScope: Trilobites, belemnites
+confidence: 4
+completeness: 0
+license: cc by
+url: https://paleobiodb.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/PaleoBioDB.png
+source: []

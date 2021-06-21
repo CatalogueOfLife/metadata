@@ -1,0 +1,251 @@
+---
+type: taxonomic
+identifier: {}
+title: World Porifera Database
+alias: WoRMS Porifera
+description: The World Porifera database is a searchable catalogue of recent sponge
+  species and higher taxon names. The catalogue is intended to promote stability and
+  act as a tool for higher taxon revisions, regional monographs, and eventually as
+  a catalogue of the world’s sponge specimen databases as these are slowly being accumulated
+  through EurOBIS and GBIF. Data are contributed to the Catalogue of Life via the
+  World Register of Marine Species (WoRMS), hosted by the Flanders Marine Institute
+  (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Rob
+  family: van Soest
+  email: Rob.vanSoest@naturalis.nl
+creator:
+ -
+  given: R.W.M.
+  family: Van Soest
+ -
+  given: N.
+  family: Boury-Esnault
+ -
+  given: J.N.A.
+  family: Hooper
+ -
+  given: K.
+  family: Rützler
+ -
+  given: N.J.
+  family: de Voogd
+ -
+  given: B.
+  family: Alvarez
+ -
+  given: E.
+  family: Hajdu
+ -
+  given: A.B.
+  family: Pisera
+ -
+  given: R.
+  family: Manconi
+ -
+  given: C.
+  family: Schönberg
+ -
+  given: M.
+  family: Klautau
+ -
+  given: M.
+  family: Kelly
+ -
+  given: J.
+  family: Vacelet
+ -
+  given: M.
+  family: Dohrmann
+ -
+  family: Díaz, M.-C.
+ -
+  given: P.
+  family: Cárdenas
+ -
+  given: J.L.
+  family: Carballo
+ -
+  given: P.
+  family: Ríos
+ -
+  given: R.
+  family: Downey
+ -
+  given: C.C.
+  family: Morrow
+editor:
+ -
+  given: Belinda
+  family: Alvarez
+  email: Belinda.glasby@gmail.com
+ -
+  given: Nicole
+  family: Boury-Esnault
+  email: info@marinespecies.org
+ -
+  given: José Luis
+  family: Carballo
+  email: jlcarballo@ola.icmyl.unam.mx
+ -
+  given: Paco
+  family: Cárdenas
+  email: paco.cardenas@fkog.uu.se
+ -
+  orcid: 0000-0002-7985-5604
+  given: Nicole
+  family: de Voogd
+  email: nicole.devoogd@naturalis.nl
+ -
+  given: Maria-Cristina
+  family: Díaz
+  email: taxochica@gmail.com
+ -
+  given: Martin
+  family: Dohrmann
+  email: m.dohrmann@lrz.uni-muenchen.de
+ -
+  given: Rachel
+  family: Downey
+  email: Rachel.downey@anu.edu.au
+ -
+  given: Eduardo
+  family: Hajdu
+  email: eduardo.hajdu@gmail.com
+ -
+  orcid: 0000-0003-1722-5954
+  given: John
+  family: Hooper
+  email: john.hooper@qm.qld.gov.au
+ -
+  given: Michelle
+  family: Kelly
+  email: Michelle.Kelly@niwa.co.nz
+ -
+  given: Michelle
+  family: Klautau
+  email: mklautau@biologia.ufrj.br
+ -
+  orcid: 0000-0002-7619-8493
+  given: Renata
+  family: Manconi
+  email: rmanconi@uniss.it
+ -
+  given: Christine
+  family: Morrow
+  email: christinemorrow@gmail.com
+ -
+  given: Andrzej
+  family: Pisera
+  email: apis@twarda.pan.pl
+ -
+  given: Pilar
+  family: Ríos
+  email: pilar.rios.lopez@gmail.com
+ -
+  given: Klaus
+  family: Rützler
+  email: RUETZLER@si.edu
+ -
+  orcid: 0000-0001-6286-8196
+  given: Christine
+  family: Schönberg
+  email: christine.schonberg@uwa.edu.au
+ -
+  given: Jean
+  family: Vacelet
+  email: info@marinespecies.org
+ -
+  given: Rob
+  family: van Soest
+  email: Rob.vanSoest@naturalis.nl
+contributor:
+ -
+  country: AU
+  address: Australia
+  organisation: Museum and Art Galleries of the Northern Territory
+ -
+  organisation: WoRMS Editorial Board
+ -
+  organisation: Universidad Nacional Autonoma de Mexico Instituto de Ciencias del
+    Mar y Limnologia
+ -
+  country: SE
+  address: Sweden
+  organisation: Uppsala University; Department of Medicinal Chemistry Division of
+    Pharmacognosy, BioMedical Center
+ -
+  country: NL
+  address: Netherlands
+  organisation: Naturalis Biodiversity Center
+ -
+  country: VE
+  address: Venezuela, Bolivarian Republic of
+  organisation: Museo do Mar
+ -
+  country: DE
+  address: Germany
+  organisation: Ludwig Maximilians University Munich; Department of Earth and Environmental
+    Sciences Paleontology and Geobiology
+ -
+  country: AU
+  address: Australia
+  organisation: Australia National University Research School of Earth Sciences
+ -
+  country: BR
+  address: Brazil
+  organisation: Universidade Federal do Estado do Rio de Janeiro Museu Nacional
+ -
+  country: AU
+  address: Australia
+  organisation: Queensland Museum
+ -
+  country: AU
+  address: Australia
+  organisation: National Institute of Water and Atmospheric Research National Centre
+    for Aquatic Biodiversity &amp; Biosecurity
+ -
+  country: BR
+  address: Brazil
+  organisation: Universidade Federal do Estado do Rio de Janeiro
+ -
+  country: IT
+  address: Italy
+  organisation: Università degli studi di Sassari Dipartimento di Zoologia e Genetica
+    Evoluzionistica
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Queen&#039;s University Belfast Marine Laboratory
+ -
+  country: PL
+  address: Poland
+  organisation: Polish Academy of Sciences Institute of Paleobiology
+ -
+  country: ES
+  address: Spain
+  organisation: Spanish Ministry of Economy and Competiveness; Instituto Español de
+    Oceanografía Centro Oceanográfico de Gijón
+ -
+  country: US
+  address: United States of America
+  organisation: Smithsonian Institution; National Museum of Natural History Department
+    of Invertebrate Zoology
+ -
+  country: AU
+  address: Australia
+  organisation: University of Western Australia
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Porifera
+confidence: 5
+completeness: 96
+license: cc by
+url: http://www.marinespecies.org/porifera
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

@@ -1,0 +1,35 @@
+---
+type: taxonomic
+identifier: {}
+title: The World Ciliate Catalog
+alias: CilCat
+description: The phylum embraces heterotrophic species with a heterokaryotic nuclear
+  apparatus, multiple cilia over body, pellicular alveoli, and always an infraciliature
+  (highly developed cortical system with kinetid as central feature). Ciliates play
+  a significant role in food chains and nutrient recycling; most taxa are found free-living
+  in marine or freshwater habitats, while about one third are symbiotic forms, less
+  then 10 percent are possibly endemic in soils or known only as fossils, respectively.
+issued: 2012-01-16
+version: 4.0, Jan 2012
+contact:
+  given: M
+  family: Malicky
+creator:
+ -
+  given: E.
+  family: Aescht
+contributor:
+ -
+  organisation: Oberostereichisches Landesmuseum
+ -
+  organisation: Biologiezentrum
+ -
+  organisation: Linz
+ -
+  organisation: Austria
+taxonomicScope: Ciliates
+confidence: 4
+completeness: 60
+url: http://www.zobodat.at
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/CilCat.png
+source: []

@@ -1,0 +1,43 @@
+---
+type: taxonomic
+identifier: {}
+title: Mites GSD Phytoseiidae
+alias: Mites GSD Phytoseiidae
+description: The Phytoseiidae are predatory mites found mostly on plants, playing
+  an important role in the control of mite and small insect pests. This database was
+  prepared based mostly on information summarized by Moraes et al. (1986, 2004), updated
+  to include the new species described in the last 5 years and in accordance with
+  the publications by Chant & McMurtry (2003-2007). It provides information on the
+  2186 species names.
+issued: 2009-09-24
+version: Sep 2009
+contact:
+  given: G
+  family: de Moraes
+creator:
+ -
+  given: R.C.
+  family: Castilho
+ -
+  given: J.P.Z.
+  family: Narita
+ -
+  family: Moraes G.J. de
+ -
+  given: J.A.
+  family: McMurtry
+contributor:
+ -
+  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
+ -
+  organisation: Universidade de São Paulo
+ -
+  organisation: Brazil"
+geographicScope: Global
+taxonomicScope: Phytoseiid mites
+confidence: 5
+completeness: 99
+license: other
+url: http://www.lea.esalq.usp.br/phytoseiidae/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/PhytoseiidBase.png
+source: []

@@ -1,0 +1,28 @@
+---
+type: taxonomic
+identifier: {}
+title: The dinoflagellate genus Gymnodinium checklist
+alias: Gymnodinium
+description: This dynamic, working classification of the genus Gymnodinium contains
+  all Gymnodinium names and organizes them into proper reconciliation groups. It was
+  created for the purpose of automated names reconciliation by the Global Names Project.
+  The classification originated in http://dx.doi.org/10.1371/journal.pone.0044015
+  and has been improved since publication. The current data set can be found at https://github.com/diatomsRcool/gymnodiniales.
+  The data set itself can be cited as 10.5281/zenodo.437529
+issued: 2017-06-12
+version: 0.1
+contact: {}
+creator:
+ -
+  given: A.
+  family: Thessen
+editor: []
+contributor:
+ -
+  organisation: Individual custodian
+confidence: 5
+completeness: 100
+license: cc0
+url: https://github.com/diatomsRcool/gymnodiniales
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Gymnodinium.png
+source: []

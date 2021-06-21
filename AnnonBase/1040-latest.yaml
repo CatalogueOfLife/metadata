@@ -1,0 +1,32 @@
+---
+type: taxonomic
+identifier: {}
+title: Annonaceae GSD
+alias: AnnonBase
+description: AnnonBase includes all published names of Annonaceae of any rank worldwide.
+  The idea of this development is to serve as a concise taxonomic backbone for basic
+  as well as applied scientific studies. The AnnonBase source database also includes
+  references to type material and their location of deposit. This releases includes
+  information on vernacular names, distributional data and links to relevant information
+  sources. Database development and maintenance has been done at the Austrian Academy
+  of Sciences, the Natural History Museum of Vienna, and the University of Vienna
+  and was partly funded by the European Commission.
+issued: 2014-01-22
+version: Jan 2014
+contact:
+  given: Heimo
+  family: Rainer
+creator:
+ -
+  given: (eds)
+  family: Rainer H. & Chatrou L.W.
+contributor:
+ -
+  organisation: Annonaceae Working Group
+taxonomicScope: Custard apples
+confidence: 5
+completeness: 100
+license: cc by
+url: http://herbarium.botanik.univie.ac.at/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/AnnonBase.png
+source: []

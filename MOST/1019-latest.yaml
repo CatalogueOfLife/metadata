@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: Moss TROPICOS Database
+alias: MOST
+description: The World Checklist of Mosses (W3MOST) provides current information on
+  bryophyte species from the TROPICOS MOST database compiled by the Index of Mosses
+  project, at the Missouri Botanical Garden. This database extraction, unlike the
+  Index of Mosses, includes taxonomic opinions of numerous authors. All the known
+  species of mosses are included.
+issued: 2004-07-19
+version: 1, Jul 2004
+contact:
+  given: Bob
+  family: Magill
+editor:
+ -
+  given: M.R.
+  family: Crosby
+ -
+  given: R.
+  family: Magill
+contributor:
+ -
+  organisation: Missouri Botanical Garden
+ -
+  organisation: St Louis
+ -
+  organisation: USA
+geographicScope: Global
+taxonomicScope: Mosses
+confidence: 4
+completeness: 95
+license: other
+url: http://www.mobot.org/mobot/tropicos/most/checklist.shtml
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/MOST.png
+source: []
+notes: ""

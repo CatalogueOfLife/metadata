@@ -1,0 +1,31 @@
+---
+type: taxonomic
+identifier: {}
+title: World Wide Wattle
+alias: WWW
+description: Includes all currently accepted names in Acacia s.l. together with commonly
+  used synonyms (mostly basionyms). Full synonymy is not included yet. Distribution
+  information is provided, but apart from Australia, these data are of a general nature.
+issued: 2018-01-22
+version: 2, Jan 2018
+contact:
+  given: Bruce
+  family: Maslin
+creator:
+ -
+  given: B.
+  family: Maslin
+contributor:
+ -
+  organisation: Western Australian Herbarium
+ -
+  organisation: Perth
+ -
+  organisation: Australia
+taxonomicScope: Wattles, thorntrees, acacias
+confidence: 5
+completeness: 100
+license: other
+url: http://www.worldwidewattle.com
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/WWW.png
+source: []

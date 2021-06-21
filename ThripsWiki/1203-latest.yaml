@@ -1,0 +1,55 @@
+---
+type: taxonomic
+identifier: {}
+title: Providing information on the World's thrips
+alias: ThripsWiki
+description: ThripsWiki site was designed and produced in Canberra by Inkeri Lehtinen
+  with Laurence Mound. Data was drawn from a web-based checklist that since 2005 was
+  available through CSIRO Australia, but which for technical reasons has had to be
+  abandoned. "Thysanoptera (Thrips) of the World - a checklist" originated from card-catalogues
+  maintained over many years at the Natural History Museum, London, and at the Senckenberg
+  Museum, Frankfurt. GBIF funded visits to check data at the major thrips collections
+  in Frankfurt, London and Washington DC for the 2005 system. The available data has
+  been extensively revised and enriched through bibliographic and web searches, and
+  production of this new site was supported by DAFF Australia.
+issued: 2020-09-24
+version: Sep 2020
+contact:
+  given: Laurence
+  family: Mound
+creator:
+ -
+  family: ThripsWiki
+editor: []
+contributor:
+ -
+  organisation: Universidade Federal do Rio Grande
+ -
+  organisation: Rio Grande
+ -
+  organisation: Brazil; Yokohama Plant Protection Station
+ -
+  organisation: Tokyo
+ -
+  organisation: Japan; Department of Plant Protection
+ -
+  organisation: Shiraz University
+ -
+  organisation: Shiraz
+ -
+  organisation: Iran; Australian National Insect Collection CSIRO
+ -
+  organisation: Canberra
+ -
+  organisation: Australia; The Natural History Museum
+ -
+  organisation: London
+ -
+  organisation: UK
+taxonomicScope: Thrips
+confidence: 5
+completeness: 100
+license: cc by
+url: https://thrips.info
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ThripsWiki.png
+source: []

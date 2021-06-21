@@ -1,0 +1,66 @@
+---
+type: taxonomic
+identifier: {}
+title: World Ophiuroidea Database
+alias: WoRMS Ophiuroidea
+description: This first ever world database of extant ophiuroid species names is the
+  result of long term accumulation of taxonomic information from the literature. It
+  is the most recent and up-to-date census of the taxon available. Data are contributed
+  to the Catalogue of Life via the World Register of Marine Species (WoRMS), hosted
+  by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Sabine
+  family: Stöhr
+  email: sabine.stohr@nrm.se
+creator:
+ -
+  given: S.
+  family: Stöhr
+ -
+  given: T.
+  family: O’Hara
+ -
+  given: B. (Eds)
+  family: Thuy
+editor:
+ -
+  orcid: 0000-0003-0885-6578
+  given: Tim
+  family: O&#039;Hara
+  email: tohara@museum.vic.gov.au
+ -
+  orcid: 0000-0002-2586-7239
+  given: Sabine
+  family: Stöhr
+  email: sabine.stohr@nrm.se
+ -
+  given: Ben
+  family: Thuy
+  email: nebyuht@yahoo.com
+contributor:
+ -
+  country: AU
+  address: Australia
+  organisation: Museums Victoria
+ -
+  country: SE
+  address: Sweden
+  organisation: Swedish Museum of Natural History Department of Invertebrate Zoology
+ -
+  country: SE
+  address: Sweden
+  organisation: University of Göttingen Geological Museum
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Ophiuroidea
+confidence: 5
+completeness: 95
+license: cc by
+url: http://www.marinespecies.org/ophiuroidea
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

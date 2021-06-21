@@ -1,0 +1,43 @@
+---
+type: taxonomic
+identifier: {}
+title: Synonymic Checklists of the Vascular Plants of the World
+alias: World Plants
+description: World Ferns and World Plants are synonymic checklists of the vascular
+  plants of the world (including ferns and lycophytes). The data set has been compiled
+  over the last 20 years by starting from the basic data of the Kew Index and the
+  Index Filicum. These names (roughly 1 million) have been cross-checked against local
+  floras, checklists and treatments. In the current status about 95% of the species
+  names have been verified, and distribution data are available for about 95% of the
+  countries and families (incomplete only for a major part of families in Malesia
+  for Sumatra, New Guinea, Moluccas, Solomons and Lesser Sunda Islands). Countries
+  without recent checklists include El Salvador, Rwanda, Burundi, Tajikistan, Uzbekistan,
+  Laos, Equatorial Guinea, some smaller Pacific islands, Vanuatu and some families
+  of India. The states of the former Yugoslavia have not yet been completely separated,
+  and the sixth and last part of the Caucasus and Transcaucasus checklist has yet
+  to appear. The listings for the Democratic Republic of Congo (Zaire) are partially
+  badly outdated. Literature for Bangladesh has not yet been received completely.
+issued: 2021-05-25
+version: 2021-05-25
+contact:
+  given: M.
+  family: Hassler
+creator:
+ -
+  given: M.
+  family: Hassler
+contributor:
+ -
+  city: Karlsruhe
+  country: DE
+  address: Karlsruhe, Germany
+  organisation: Individual custodian in cooperation with the Botanical Garden of the
+    Karlsruhe Institute of Technology
+geographicScope: Global
+taxonomicScope: 340 families of flowering plants
+confidence: 4
+completeness: 100
+license: cc by
+url: https://www.worldplants.de
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/World_Plants.png
+source: []

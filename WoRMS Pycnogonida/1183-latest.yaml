@@ -1,0 +1,57 @@
+---
+type: taxonomic
+identifier: {}
+title: 'Pycnobase: World Pycnogonida Database'
+alias: WoRMS Pycnogonida
+description: This global marine species list is part of the World Register of Marine
+  Species database, which aims to provide the most authoritative list of names of
+  all marine species globally. Data have been contributed to the Catalogue of Life
+  via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  email: info@marinespecies.org
+creator:
+ -
+  given: R.N.
+  family: Bamber
+ -
+  given: A.
+  family: El Nagar
+ -
+  given: C.P. (Eds)
+  family: Arango
+editor:
+ -
+  given: Claudia
+  family: Arango
+  email: claudia.arango@qm.qld.gov.au
+ -
+  given: Roger
+  family: Bamber
+ -
+  given: Aliya
+  family: El Nagar
+  email: A.ElNagar@leeds.ac.uk
+contributor:
+ -
+  country: AU
+  address: Australia
+  organisation: Queensland Museum
+ -
+  country: GB
+  address: United Kingdom
+  organisation: University of Leeds; Faculty of Biological Sciences The School of
+    Biology
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Pycnogonida
+confidence: 4
+completeness: 95
+license: cc by
+url: http://www.marinespecies.org/pycnobase
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

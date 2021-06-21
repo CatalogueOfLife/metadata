@@ -1,0 +1,29 @@
+---
+type: taxonomic
+identifier: {}
+title: Unicellular spore-forming protozoan parasites
+alias: Microsporidia
+issued: 2015-11-22
+version: Nov 2015
+contact:
+  family: Dr Paul M. Kirk
+creator:
+ -
+  given: P.M.
+  family: Kirk
+contributor:
+ -
+  organisation: Royal Botanic Gardens Kew
+ -
+  organisation: Richmond
+ -
+  organisation: Surrey
+ -
+  organisation: UK
+taxonomicScope: Microsporidians
+confidence: 2
+completeness: 95
+license: cc by
+url: http://www.speciesfungorum.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Microsporidia.png
+source: []

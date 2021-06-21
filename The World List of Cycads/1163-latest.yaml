@@ -1,0 +1,48 @@
+---
+type: taxonomic
+identifier: {}
+title: The World List of Cycads, online edition
+alias: The World List of Cycads
+description: The World List of Cycads is a working list of known cycad species names
+  with the primary goal of providing reliable information on the taxonomy of cycads
+  for use by researchers, conservation planners, and others. It is developed in close
+  collaboration with world's foremost cycad experts and published under the auspices
+  of the IUCN's Cycad Specialist Group. The printed edition is published in the proceedings
+  of the International Conference of Cycad Biology, which is held every three years.
+issued: 2019-02-15
+version: Feb 2019
+contact:
+  given: Michael
+  family: Calonje
+creator:
+ -
+  given: M.
+  family: Calonje
+ -
+  given: D.W.
+  family: Stevenson
+ -
+  given: R.
+  family: Osborne
+contributor:
+ -
+  organisation: IUCN / SSC Cycad Specialist Group
+ -
+  organisation: Montgomery Botanical Center
+ -
+  organisation: Coral Gables
+ -
+  organisation: FL
+ -
+  organisation: USA; New York Botanical Garden
+ -
+  organisation: Bronx NY
+ -
+  organisation: USA.
+taxonomicScope: Cycads
+confidence: 5
+completeness: 100
+license: cc by
+url: http://cycadlist.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/The_World_List_of_Cycads.png
+source: []

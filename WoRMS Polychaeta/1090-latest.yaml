@@ -1,0 +1,187 @@
+---
+type: taxonomic
+identifier: {}
+title: World Polychaeta Database
+alias: WoRMS Polychaeta
+description: This global marine species list is part of the World Register of Marine
+  Species database, which aims to provide the most authoritative list of names of
+  all marine species globally. Data have been contributed to the Catalogue of Life
+  via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Geoffrey
+  family: Read
+  email: Geoffrey.Read@niwa.co.nz
+creator:
+ -
+  given: G.
+  family: Read
+ -
+  given: K. (Ed.)
+  family: Fauchald
+editor:
+ -
+  given: Christos
+  family: Arvanitidis
+  email: arvanitidis@her.hcmr.gr
+ -
+  given: Luis
+  family: Carrera-Parra
+  email: lcarrera@ecosur.mx
+ -
+  given: Stacy
+  family: Doner
+ -
+  given: Danny
+  family: Eibye-Jacobsen
+  email: dejacobsen@snm.ku.dk
+ -
+  given: Kristian
+  family: Fauchald
+ -
+  given: Vanessa
+  family: Fernández-Rodríguez
+  email: vannebiol@gmail.com
+ -
+  given: Christopher
+  family: Glasby
+  email: chris.glasby@nt.gov.au
+ -
+  given: Adrian G.
+  family: Glover
+  email: a.glover@nhm.ac.uk
+ -
+  given: Leslie
+  family: Harris
+  email: lharris@nhm.org
+ -
+  given: Mario
+  family: Londoño-Mesa
+  email: mariolon@gmail.com
+ -
+  given: Lenka
+  family: Nealova
+  email: l.nealova@nhm.ac.uk
+ -
+  given: Hannelore
+  family: Paxton
+  email: hannelore.paxton@mq.edu.au
+ -
+  given: Geoffrey
+  family: Read
+  email: Geoffrey.Read@niwa.co.nz
+ -
+  given: Michael
+  family: Reuscher
+  email: Michael.Reuscher@tamucc.edu
+ -
+  given: Sergio
+  family: Salazar-Vallejo
+  email: ssalazar@ecosur.mx
+ -
+  given: Jacek
+  family: Siciński
+  email: sicinski@biol.uni.lodz.pl
+ -
+  given: Harry
+  family: ten Hove
+  email: Harry.tenHove@naturalis.nl
+ -
+  given: Robin
+  family: Wilson
+  email: rwilson@museum.vic.gov.au
+ -
+  given: Joana
+  family: Zanol
+  email: joanazanol@ufrj.br
+contributor:
+ -
+  country: GR
+  address: Greece
+  organisation: Hellenic Centre for Marine Research Institute of Marine Biology, Biotechnology
+    and Aquaculture
+ -
+  country: GR
+  address: Greece
+  organisation: El Colegio de la Frontera Sur; Department of Aquatic Ecology Unidad
+    Chetumal
+ -
+  country: DK
+  address: Denmark
+  organisation: University of Copenhagen; Faculty of Science Natural History Museum
+    of Denmark
+ -
+  country: CO
+  address: Colombia
+  organisation: University of Antioquia; Faculty of Exact and Natural Sciences; Institute
+    of Biology Grupo de Limnología Básica y Experimental y  Biología y Taxonomía Marina
+ -
+  country: AU
+  address: Australia
+  organisation: Natural Sciences, Museum &amp; Art Gallery of the Northern Territory
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Natural History Museum Department of Zoology
+ -
+  country: US
+  address: United States of America
+  organisation: Natural History Museum of Los Angeles County
+ -
+  country: US
+  address: United States of America
+  organisation: University of Antioquia; Faculty of Exact and Natural Sciences Institute
+    of Biology
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Natural History Museum
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Macquarie University; Faculty of Science Department of Biological
+    Sciences
+ -
+  country: NZ
+  address: New Zealand
+  organisation: National Institute of Water and Atmospheric Research Wellington
+ -
+  country: US
+  address: United States of America
+  organisation: Texas A&amp;M University; Texas A&amp;M University-Corpus Christi
+    Harte Research Institute for Gulf of Mexico Studies
+ -
+  country: US
+  address: United States of America
+  organisation: El Colegio de la Frontera Sur Department of Aquatic Ecology
+ -
+  country: PL
+  address: Poland
+  organisation: University of Lodz; Dept. Invertebrate Zoology &amp; Hydrobiology
+    Laboratory of Polar Biology and Oceanobiology
+ -
+  country: NL
+  address: Netherlands
+  organisation: Naturalis Biodiversity Center
+ -
+  country: AU
+  address: Australia
+  organisation: Museums Victoria
+ -
+  country: BR
+  address: Brazil
+  organisation: Universidade Federal do Rio de Janeiro; Departamento de Zoologia Laboratório
+    de Poliquetas
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Polychaeta
+confidence: 4
+completeness: 92
+license: cc by
+url: http://www.marinespecies.org/polychaeta
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

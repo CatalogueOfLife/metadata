@@ -1,0 +1,30 @@
+---
+type: taxonomic
+identifier: {}
+title: Cockroach Species File
+alias: SF Cockroach
+description: The Cockroach Species File is an up-to-date taxonomic catalogue of the
+  world's cockroaches, excluding fossil species. Cockroaches belong to the order Blattodea
+  (sometimes known as Blattaria) as too do the termites. In the past termites were
+  thought to be a separate order, Isoptera, but recent work confirms that they are
+  in fact blattodeans. The CSF includes c. 6,700 scientific names (all ranks, valid
+  and not valid) and c. 4,600 valid species are recognised. Images of museum specimens
+  (especially types), plus pictures of living cockroaches are slowly being added.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: G.W.
+  family: Beccaloni
+contributor:
+ -
+  organisation: Individual custodian
+taxonomicScope: Cockroaches
+confidence: 5
+completeness: 100
+url: http://Cockroach.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Cockroach.png
+source: []

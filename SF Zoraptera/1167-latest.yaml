@@ -1,0 +1,32 @@
+---
+type: taxonomic
+identifier: {}
+title: Zoraptera Species File
+alias: SF Zoraptera
+description: Zoraptera Species File contains taxonomic and other information on the
+  zorapterans of the world.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: M.D.
+  family: Maehr
+ -
+  given: H.
+  family: Hopkins
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Zorapterans
+confidence: 5
+completeness: 99
+url: http://zoraptera.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Zoraptera.png
+source: []

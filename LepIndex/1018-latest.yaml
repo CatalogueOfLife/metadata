@@ -1,0 +1,54 @@
+---
+type: taxonomic
+identifier: {}
+title: The Global Lepidoptera Names Index
+alias: LepIndex
+description: LepIndex is a digitised and updated version of the unique index card
+  archive to the scientific names of the living and fossil butterflies and moths of
+  the world at the Natural History Museum (London). This card index was produced by
+  the museum’s lepidopterists over many decades and contains about 95 % of all currently
+  valid Lepidoptera names (15,578 genus and 157,474 species names in total), together
+  with synonyms, misspellings and misidentifications.
+issued: 2012-01-11
+version: 12.3, Jan 2012
+contact:
+  family: Adrian Hine, Natural History Museum
+creator:
+ -
+  given: G.
+  family: Beccaloni
+ -
+  given: M.
+  family: Scoble
+ -
+  given: I.
+  family: Kitching
+ -
+  given: T.
+  family: Simonsen
+ -
+  given: G.
+  family: Robinson
+ -
+  given: B.
+  family: Pitkin
+ -
+  given: A.
+  family: Hine
+ -
+  given: C.
+  family: Lyal
+editor: []
+contributor:
+ -
+  organisation: Natural History Museum
+ -
+  organisation: London
+ -
+  organisation: UK
+taxonomicScope: Butterflies and moths
+confidence: 2
+completeness: 95
+license: cc by
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/LepIndex.png
+source: []

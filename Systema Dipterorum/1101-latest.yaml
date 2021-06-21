@@ -1,0 +1,46 @@
+---
+type: taxonomic
+identifier: {}
+title: Systema Dipterorum
+alias: Systema Dipterorum
+description: 'Systema Dipterorum contains an estimated 99% of all names in Diptera
+  and has two main components: (1) the Nomenclator, which allows users to check names
+  and find the status (valid or invalid) and correct (valid) name for each nominal
+  dipteran taxon as well as basic information on typification, family classification
+  and range; and (2) the References database, which allows users to track the source
+  work for any particular record. More than 160,000 extant and 4,500 extinct species
+  of Diptera have been described and classified under some 250,000 names. Documentation
+  on Systema Dipterorum, its sources, standards, and structure, is provided online.'
+issued: 2021-05-12
+version: 3.1, May 2021
+contact:
+  given: N L
+  family: Evenhuis
+editor:
+ -
+  given: N L
+  family: Evenhuis
+ -
+  given: T
+  family: Pape
+contributor:
+ -
+  city: Honolulu
+  state: HI
+  country: US
+  address: Honolulu, HI, United States of America
+  organisation: Bishop Museum
+ -
+  department: Natural History Museum of Denmark
+  city: Copenhagen
+  country: DK
+  address: Copenhagen, Denmark
+  organisation: University of Copenhagen
+geographicScope: Global
+taxonomicScope: Flies, mosquitoes, bots, midges and gnats
+confidence: 4
+completeness: 98
+license: cc by
+url: http://www.diptera.org/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Systema_Dipterorum.png
+source: []

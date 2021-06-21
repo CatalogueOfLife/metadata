@@ -1,0 +1,72 @@
+---
+type: taxonomic
+identifier: {}
+title: World Placozoa Database
+alias: WoRMS Placozoa
+description: This global marine species list is part of the World Register of Marine
+  Species database, which aims to provide the most authoritative list of names of
+  all marine species globally. Data have been contributed to the Catalogue of Life
+  via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Bernd
+  family: Schierwater
+  email: bernado@trichoplax.com
+creator:
+ -
+  given: B.
+  family: Schierwater
+ -
+  given: M.
+  family: Eitel
+ -
+  given: R.
+  family: DeSalle
+editor:
+ -
+  given: Rob
+  family: DeSalle
+  email: desalle@amnh.org
+ -
+  given: Michael
+  family: Eitel
+  email: m.eitel@lmu.de
+ -
+  given: Hans-Jürgen
+  family: Osigus
+  email: h.j.osigus@ecolevol.de
+ -
+  given: Bernd
+  family: Schierwater
+  email: bernado@trichoplax.com
+contributor:
+ -
+  organisation: American Museum of Natural History Division of Invertebrate Zoology
+ -
+  country: DE
+  address: Germany
+  organisation: Ludwig Maximilians University Munich; Department of Earth and Environmental
+    Sciences Paleontology and Geobiology
+ -
+  country: DE
+  address: Germany
+  organisation: School of Veterinary Medicine Hannover Institute of Animal Ecology
+    and Cell Biology
+ -
+  country: DE
+  address: Germany
+  organisation: School of veterinary medicine Hannover; Institute of Animal Ecology
+    and Cell Biology ITZ, Ecology and Evolution
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Placozoa
+confidence: 4
+completeness: 60
+license: cc by
+url: http://www.marinespecies.org/placozoa
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

@@ -1,0 +1,39 @@
+---
+type: taxonomic
+identifier: {}
+title: Staphyliniformia world catalog database
+alias: StaphBase
+description: '"The project is an ongoing effort to build and maintain a catalog all
+  family-, genus- and species-group names in the beetle group Staphyliniformia (superfamilies
+  Staphylinoidea (including Jacobsoniidae), Hydrophiloidea & Histeroidea), including
+  all named fossils. All original descriptions were consulted to verify original data,
+  and the current status, distribution, and in many cases significant subsequent literature
+  and type depositories and type localities for species are indicated. It is an extension
+  of the database catalogs initiated as a US-NSF PEET project (see <a href = "http://archive.fieldmuseum.org/peet_staph/"
+  target = "_blank"> http://archive.fieldmuseum.org/peet_staph), initially based on
+  multiple sources as listed there, but subsequently extensively edited and actively
+  updated."'
+issued: 2018-11-23
+version: Nov 2018
+contact:
+  given: A.F.
+  family: Newton
+creator:
+ -
+  given: A.F.
+  family: Newton
+editor: []
+contributor:
+ -
+  organisation: Field Museum of Natural History
+ -
+  organisation: Chicago IL
+ -
+  organisation: USA
+taxonomicScope: Rove beetles, clown beetles & water scavenger beetles
+confidence: 5
+completeness: 100
+license: cc by
+url: http://archive.fieldmuseum.org/peet_staph
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/StaphBase.png
+source: []

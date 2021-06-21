@@ -1,0 +1,59 @@
+---
+type: taxonomic
+identifier: {}
+title: World catalogue of the tribe Sepidiini (Tenebrionidae, Coleoptera)
+alias: Sepidiini tribe
+description: 'The catalogue includes all valid family-group (six subtribes), genus-group
+  (55 genera, 33 subgenera), and species-group names (1009 species and subspecies)
+  of Sepidiini darkling beetles (Coleoptera: Tenebrionidae: Pimeliinae), and their
+  available synonyms. For each name, the author, year, and page number of the description
+  are provided, with additional information (e.g., type species for genus-group names,
+  author of synonymies for invalid taxa, notes) depending on the taxon rank. Verified
+  distributional records (loci typici and data acquired from revisionary publications)
+  for all the species are gathered. The Catalogue is published in ZooKeys 844: 1–121
+  (2019), https://doi.org/10.3897/zookeys.844.34241.'
+issued: 2019-06-13
+version: 22, 2019-04
+contact:
+  given: Marcin
+  family: Kamiński
+creator:
+ -
+  given: M.J.
+  family: Kamiński
+ -
+  given: K.
+  family: Kanda
+ -
+  given: R.
+  family: Lumen
+ -
+  given: J.M.
+  family: Ulmer
+ -
+  given: C.C.
+  family: Wirth
+ -
+  given: P.
+  family: Bouchard
+ -
+  given: R.
+  family: Aalbu
+ -
+  given: N.
+  family: Mal
+ -
+  given: A.
+  family: Smith
+contributor:
+ -
+  organisation: Museum and Institute of Zoology, Polish Academy of Sciences, Warsaw,
+    Poland
+geographicScope: Global
+taxonomicScope: Toktokkies
+confidence: 5
+completeness: 100
+license: cc by
+url: https://zookeys.pensoft.net/article/34241/
+source: []
+notes: ""

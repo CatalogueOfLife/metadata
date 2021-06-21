@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: World List of Actiniaria
+alias: WoRMS Actiniaria
+description: A compilation of publications concerning taxonomy, nomenclature, and
+  geographic distribution of extant hexacorallians - members of cnidarian order Actiniaria
+  (sea anemones in the strict sense)
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Daphne
+  family: Fautin
+creator:
+ -
+  given: M.
+  family: Daly
+ -
+  given: D.
+  family: Fautin
+editor:
+ -
+  given: Daphne
+  family: Fautin
+contributor:
+ -
+  country: US
+  address: United States of America
+  organisation: University of Kansas; Division of Invertebrate Zoology Department
+    of Ecology and Evolutionary Biology, KU Natural History Museum
+geographicScope: Global
+taxonomicScope: Actiniaria
+confidence: 3
+completeness: 90
+license: cc by
+url: http://www.marinespecies.org
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

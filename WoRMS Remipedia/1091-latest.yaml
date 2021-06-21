@@ -1,0 +1,54 @@
+---
+type: taxonomic
+identifier: {}
+title: World Remipedia Database
+alias: WoRMS Remipedia
+description: The Remipedia database contains all currently known and recognized species
+  (and higher taxa). Remipedes are crustaceans that live exclusively in coastal anchialine
+  caves. This global marine species list is part of the World Register of Marine Species
+  database, which aims to provide the most authoritative list of names of all marine
+  species globally. Data have been contributed to the Catalogue of Life via the WoRMS,
+  hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Stefan
+  family: Koenemann
+creator:
+ -
+  given: S.
+  family: Koenemann
+ -
+  given: M.
+  family: Hoenemann
+ -
+  given: T.
+  family: Stemme
+editor:
+ -
+  given: Mario
+  family: Hoenemann
+ -
+  given: Stefan
+  family: Koenemann
+ -
+  given: Torben
+  family: Stemme
+contributor:
+ -
+  country: DE
+  address: Germany
+  organisation: School of veterinary medicine Hannover; Institute of Animal Ecology
+    and Cell Biology Evolutionary Ecology and Systematics
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Remipedia
+confidence: 5
+completeness: 100
+license: cc by
+url: http://www.marinespecies.org/remipedia
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

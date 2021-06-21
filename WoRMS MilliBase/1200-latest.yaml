@@ -1,0 +1,171 @@
+---
+type: taxonomic
+identifier: {}
+title: MilliBase
+alias: WoRMS MilliBase
+description: MilliBase is a global taxonomic database, managed by a group of diplopod
+  experts that aims to capture all described millipede, pauropod and symphylan species
+  with the associated literature, the authorities and original descriptions of species,
+  genera and all units of higher classification
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Petra
+  family: Sierwald
+  email: psierwald@fieldmuseum.org
+creator:
+ -
+  given: P.
+  family: Sierwald
+ -
+  given: J.
+  family: Spelda
+editor:
+ -
+  given: Nesrine
+  family: Akkari
+  email: nesrine.akkari@nhm-wien.ac.at
+ -
+  given: Anthony
+  family: Barber
+  email: abarber159@btinternet.com
+ -
+  given: Joao Paulo
+  family: Barbosa
+  email: jpppbarbosa@gmail.com
+ -
+  given: Peter
+  family: Decker
+  email: Peter.Decker@senckenberg.de
+ -
+  given: Henrik
+  family: Enghoff
+  email: henghoff@snm.ku.dk
+ -
+  given: Luiz Felipe Moretti
+  family: Iniesta
+  email: luiz-moretti@hotmail.com
+ -
+  given: Paul
+  family: Marek
+  email: pmarek@vt.edu
+ -
+  given: Carlos Alberto
+  family: Martínez-Muñoz
+  email: biotemail@gmail.com
+ -
+  given: Anh
+  family: Nguyen
+  email: ducanh410@yahoo.com
+ -
+  given: Hans
+  family: Reip
+  email: reip@myriapoden-info.de
+ -
+  given: William
+  family: Shear
+  email: wshear@hsc.edu
+ -
+  given: Megan
+  family: Short
+  email: mshort@deakin.edu.au
+ -
+  orcid: 0000-0003-2592-1298
+  given: Petra
+  family: Sierwald
+  email: psierwald@fieldmuseum.org
+ -
+  given: Elizabeth
+  family: Simmons
+  email: esimmons@fieldmuseum.org
+ -
+  given: Jörg
+  family: Spelda
+  email: spelda@zsm.mwn.de
+ -
+  given: Pavel
+  family: Stoev
+  email: pavel.e.stoev@gmail.com
+ -
+  given: Thomas
+  family: Wesener
+  email: twesener@uni-bonn.de
+contributor:
+ -
+  country: AT
+  address: Austria
+  organisation: Natural History Museum Vienna
+ -
+  country: GB
+  address: United Kingdom
+  organisation: British Myriapod and Isopod Group
+ -
+  country: GB
+  address: United Kingdom
+  organisation: University of  São Paulo Instituto de Biociências
+ -
+  country: DE
+  address: Germany
+  organisation: Senckenberg Nature Research Society
+ -
+  country: DK
+  address: Denmark
+  organisation: University of Copenhagen Zoological Museum
+ -
+  country: DK
+  address: Denmark
+  organisation: Instituto Butantan Laboratório de coleções zoológicas
+ -
+  country: DK
+  address: Denmark
+  organisation: Virginia Polytechnic Institute and State University Department of
+    Entomology
+ -
+  country: DK
+  address: Denmark
+  organisation: University of Turku Zoological Museum
+ -
+  country: VN
+  address: Viet Nam
+  organisation: Institute of Ecology and Biological Resources
+ -
+  country: DE
+  address: Germany
+  organisation: Senckenberg Nature Research Society Research Institute and Natural
+    History Museum
+ -
+  country: DE
+  address: Germany
+  organisation: Hampden-Sydney College
+ -
+  country: DE
+  address: Germany
+  organisation: Deakin University
+ -
+  country: US
+  address: United States of America
+  organisation: Field Museum of Natural History
+ -
+  country: DE
+  address: Germany
+  organisation: Bavarian State Collection of Zoology
+ -
+  country: DE
+  address: Germany
+  organisation: Bulgarian Academy of Sciences National Museum of Natural History
+ -
+  country: DE
+  address: Germany
+  organisation: Zoologisches Forschungsinstitut und Museum Alexander Koenig
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Myriapoda
+confidence: 4
+completeness: 95
+license: cc by
+url: http://www.millibase.org
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

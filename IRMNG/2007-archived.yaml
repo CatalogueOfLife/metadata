@@ -1,0 +1,29 @@
+---
+type: taxonomic
+identifier: {}
+title: The Interim Register of Marine and Nonmarine Genera
+alias: IRMNG
+description: The Interim Register of Marine and Nonmarine Genera is a provisional
+  (or ‘interim’) compilation of genus names – including species names in many cases
+  – and covers both living and extinct biota into a single system to support taxonomic
+  and other queries dealing with e.g. homonyms, authorities, parent-child relationships,
+  spelling variations and distinctions between marine and non-marine or fossil and
+  recent taxa
+issued: 2019-03-02
+version: 2019-03
+contact:
+  given: (IRMNG)
+  family: The Interim Register of Marine and Nonmarine Genera
+creator:
+ -
+  given: T. (compiler)
+  family: Rees
+contributor: []
+geographicScope: Global
+taxonomicScope: ""
+confidence: 4
+completeness: 99
+license: unspecified
+url: http://www.irmng.org/
+source: []
+notes: ""

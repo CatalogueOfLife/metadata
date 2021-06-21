@@ -1,0 +1,21 @@
+---
+type: taxonomic
+identifier: {}
+title: Hymenoptera Information System, Pompilidae of the World
+alias: HymIS Pompilidae
+description: The HymIS database provides the taxonomic backbone for a global information
+  system on bees and wasps. For the family Pompilidae 4785 valid taxa and 8553 synonyms
+  are available.
+issued: 2019-09-04
+version: 2019-09
+contact:
+  given: A. S.
+  family: Kroupa
+contributor: []
+geographicScope: Global
+taxonomicScope: Spider wasps
+confidence: 5
+completeness: 0
+license: cc by
+url: http://hymis.eu
+source: []

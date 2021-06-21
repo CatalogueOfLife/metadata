@@ -1,0 +1,62 @@
+---
+type: taxonomic
+identifier: {}
+title: Early Land Plants Today
+alias: ELPT
+description: 'The Early Land Plants Today (ELPT) project aims to combine existing
+  data on nomenclature, taxonomy and distribution for liverworts and hornworts. The
+  project is jointly coordinated by Prof. Lars Söderström (Norwegian University of
+  Science and Technology, Trondheim, Norway) and Anders Hagborg and Dr. Matt von Konrat
+  (The Field Museum, Chicago, USA). This is an internationally coordinated effort
+  involving over 40 bryologists from more than 16 countries. The data presented here
+  is based on the first-ever worldwide checklist for liverworts (Marchantiophyta)
+  and hornworts (Anthocerotophyta) published in 2016 and some recent updates after
+  that. The checklist and the CoL data are derived from a working database centralizing
+  nomenclature, taxonomy and geography on a global scale. As of January 2019 the database
+  includes about 39,000 names of about 8,600 ‘accepted’ taxa, a bibliography of more
+  than 25,000 references and more than 700,000 distribution records. The data includes
+  all extant taxa for liverworts and hornworts and macrofossils closely related to
+  them. Prior to this effort a lack of centralization was a major impediment for the
+  study and analysis of species richness, conservation and systematic research at
+  both regional and global scales. The checklist as well as a list of contributors
+  can be accessed at: https://doi.org/10.3897/phytokeys.59.6261. The data maintained
+  in the database is constantly growing and has been used for several regional checklists
+  and nomenclature summaries of individual families. The data is made available for
+  other international databasing and conservation initiatives. This effort has been
+  partially funded over the past several years by a variety of institutions and agencies
+  including the Norwegian University of Science and Technology, The Field Museum,
+  GBIF and the National Science Foundation.'
+issued: 2019-01-15
+version: Jan 2019
+contact:
+  given: Lars
+  family: Söderström
+creator: []
+editor:
+ -
+  given: L.
+  family: Söderström
+ -
+  given: A.
+  family: Hagborg
+ -
+  given: M.
+  family: von Konrat
+contributor:
+ -
+  organisation: Norwegian University of Science and Technology (NTNU)
+ -
+  organisation: Trondheim
+ -
+  organisation: Norway; Field Museum of Natural History
+ -
+  organisation: Chicago IL
+ -
+  organisation: USA
+taxonomicScope: Liverworts, hornworts
+confidence: 5
+completeness: 100
+license: cc by
+url: http://www.elpt.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ELPT.png
+source: []

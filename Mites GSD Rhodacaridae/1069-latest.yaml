@@ -1,0 +1,36 @@
+---
+type: taxonomic
+identifier: {}
+title: Mites GSD Rhodacaridae
+alias: Mites GSD Rhodacaridae
+description: Rhodacaridae mites are cosmopolitan, edaphic and free-living. This data
+  base evolved as part of the MS thesis work conducted in collaboration with the Brazilian
+  “Escola Superior de Agricultura Luiz de Queiroz (ESALQ), Universidade de São Paulo
+  (USP)” and presented by the first author to the Brazilian “Universidade Estadual
+  Paulista (UNESP) – Jaboticabal”. It provides information on the 137 species of this
+  family.
+issued: 2009-10-15
+version: Oct 2009
+contact:
+  given: Gilberto
+  family: de Moraes
+creator:
+ -
+  given: R.C.
+  family: Castilho
+ -
+  family: Moraes G.J. de
+contributor:
+ -
+  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
+ -
+  organisation: Universidade de São Paulo
+ -
+  organisation: Brazil"
+geographicScope: Global
+taxonomicScope: Rhodacarid mites
+confidence: 5
+completeness: 99
+license: other
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/RhodacaridBase.png
+source: []

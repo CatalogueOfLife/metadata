@@ -1,0 +1,31 @@
+---
+type: taxonomic
+identifier: {}
+title: Illustrated catalog of Tessaratomidae
+alias: Tessaratomidae Database
+description: The objective of this database is to build an illustrated catalogue of
+  the world Tessaratomidae. It will take some time, as the author has not seen all
+  species in this family, not yet photographed all the bugs he has seen, and more
+  is not sure, for half of them, of the species they belong to. It will evolve with
+  the knowledge of the author, so any contribution is welcome (bugs, pictures, identification).
+issued: 2019-02-01
+version: Feb 2019
+contact: {}
+creator:
+ -
+  given: P.
+  family: Magnien
+contributor:
+ -
+  organisation: Muséum National d'Histoire Naturelle
+ -
+  organisation: Paris
+ -
+  organisation: France
+taxonomicScope: Tessaratomids
+confidence: 4
+completeness: 85
+license: cc by
+url: http://hemiptera-databases.com/tessaratomidae/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Tessaratomidae_Database.png
+source: []

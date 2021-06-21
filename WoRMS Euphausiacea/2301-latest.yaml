@@ -1,0 +1,27 @@
+---
+type: taxonomic
+identifier: {}
+title: World Euphausiacea Database
+alias: WoRMS Euphausiacea
+description: This global marine species list is part of the World Register of Marine
+  Species database, which aims to provide the most authoritative list of names of
+  all marine species globally. Data have been contributed to the Catalogue of Life
+  via WoRMS, hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact: {}
+creator:
+ -
+  given: V. (Ed)
+  family: Siegel
+editor:
+ - {}
+contributor:
+ - {}
+geographicScope: Global
+taxonomicScope: Euphausiacea
+confidence: 4
+completeness: 90
+license: cc by
+url: http://www.marinespecies.org
+source: []

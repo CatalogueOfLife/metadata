@@ -1,0 +1,40 @@
+---
+type: taxonomic
+identifier: {}
+title: Droseraceae Database
+alias: Droseraceae Database
+description: Droseraceae Database is a research database of names of the family Droseraceae
+  including infraspecific ranks. The database has been compiled to guide nomenclatural,
+  phylogenetic and distributional research into the family. Work on the database is
+  in progress and not all names and synonyms are currently included. Future releases
+  of the database will include reference to types, to DNA sequence data and enhanced
+  distributional data.
+issued: 2009-01-09
+version: 0.1, Dec 2008
+contact:
+  given: A
+  family: Culham
+creator:
+ -
+  given: A.
+  family: Culham
+ -
+  given: C.
+  family: Yesson
+contributor:
+ -
+  organisation: Centre for Plant Diversity and Systematics
+ -
+  organisation: School of Biological Sciences
+ -
+  organisation: The University of Reading
+ -
+  organisation: Reading
+ -
+  organisation: UK
+taxonomicScope: Sundew family
+confidence: 4
+completeness: 95
+license: cc by
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Droseraceae_Database.png
+source: []

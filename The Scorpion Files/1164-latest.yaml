@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: The Scorpion Files
+alias: The Scorpion Files
+description: The intention of The Scorpion Files is to present an updated list of
+  all extant scorpion species and the current situation in scorpion taxonomy. The
+  Scorpion Files' family and species lists reflect the most recent published works,
+  and not necessarily which system the editor believes is correct. The list does not
+  contain synonymy yet. Data have been harvested by Geoff Ower, CoL Database Manager,
+  from the original website into CoLDP format.
+issued: 2020-08-25
+version: Aug 2020
+contact:
+  given: Jan
+  family: Ove Rein
+creator: []
+editor:
+ -
+  given: J.O.
+  family: Rein
+contributor:
+ -
+  organisation: Medicine and Health Library
+ -
+  organisation: Norwegian University of Science & Technology
+ -
+  organisation: Trondheim
+ -
+  organisation: Norway
+geographicScope: Global
+taxonomicScope: Scorpions
+confidence: 4
+completeness: 99
+license: cc by
+url: http://www.ntnu.no/ub/scorpion-files
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/The_Scorpion_Files.png
+source: []

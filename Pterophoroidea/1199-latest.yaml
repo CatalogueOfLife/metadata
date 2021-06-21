@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: Catalogue of the Pterophoroidea of the World
+alias: Pterophoroidea
+description: This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea
+  (Lepidoptera) (World Catalogue of Insects, volume 4), as subsequently maintained
+  and updated by Cees Gielis. The database has been edited for inclusion in the Catalogue
+  of Life and updated by Donald Hobern. A current version of the dataset is presented
+  as a web document at https://hobern.net/Pterophoroidea. Version 1.1 has been updated
+  to correct a number of errors in processing of Cees Gielis' original dataset and
+  to reflect recent additions to the group. Additional page references have been added.
+issued: 2021-05-18
+version: 1.1.21138 (18 May 2021)
+contact:
+  orcid: 0000-0001-6492-4016
+  given: Donald
+  family: Hobern
+  email: dhobern@gmail.com
+creator:
+ -
+  orcid: 0000-0001-6492-4016
+  given: Donald
+  family: Hobern
+  email: dhobern@gmail.com
+ -
+  orcid: 0000-0003-0857-1679
+  given: Cees
+  family: Gielis
+editor: []
+contributor: []
+geographicScope: Global
+taxonomicScope: Pterophoroidea
+confidence: 5
+completeness: 100
+license: cc0
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Pterophoroidea.png
+source: []

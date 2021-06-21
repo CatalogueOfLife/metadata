@@ -1,0 +1,48 @@
+---
+type: taxonomic
+identifier: {}
+title: Bdellid & Cunaxid Databases
+alias: BdelloideaBase
+description: The Bdelloidea are free-living, predatory mites with a cosmopolitan distribution,
+  inhabiting practically all temperate zones. They inhabit the top soil layer, most
+  vegetation strata and the marine littoral zone. The CunaxidBase was compiled by
+  Dr. Jacob den Heyer (custodian), consisting of 329 species and 4 synonyms. The BdellidBase,
+  consisting of 246 valid species and 66 synonyms, was compiled by Drs Jacob den Heyer
+  and F.A. Hernandes (custodian). The BdelloideaBase substitutes for the CunaxidBase
+  of the 2011 Annual Checklist.
+issued: 2013-02-28
+version: Feb 2013
+contact:
+  given: J
+  family: Den Heyer
+creator:
+ -
+  given: J.
+  family: Den Heyer
+ -
+  given: F.A.
+  family: Hernandes
+editor: []
+contributor:
+ -
+  organisation: Department of Zoology & Entomology
+ -
+  organisation: University of the Free State
+ -
+  organisation: Bloemfontein
+ -
+  organisation: Republic of South Africa; Departamento de Zoologia e Botanica
+ -
+  organisation: Acarology laboratory
+ -
+  organisation: UNESP - Sao Paulo State University
+ -
+  organisation: Sao Paulo
+ -
+  organisation: Brazil
+taxonomicScope: Bdellid and cunaxid mites
+confidence: 5
+completeness: 100
+license: cc by
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/BdelloideaBase.png
+source: []

@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: World checklist of freshwater Cladocera species
+alias: FADA Cladocera
+description: The checklist is supplied for the Catalogue of Life by FADA project.
+  FADA, the Freshwater Animal Diversity Assessment is an informal network of scientists
+  specialized in freshwater biodiversity. FADA contributes freshwater taxa in the
+  CoL proto-GSD. Kotov, A., Forró, L., Korovchinsky, N.M. and A. Petrusek, 2013 Jan
+  25, World checklist of freshwater Cladocera species. World Wide Web electronic publication.
+  Available online at http://fada.biodiversity.be/group/show/17 [date accessed]
+issued: 2013-01-25
+version: Jan 2013
+contact:
+  family: A. Kotov,L.  Forró, N.M. Korovchinsky , A. Petrusek
+creator:
+ -
+  given: A.
+  family: Kotov
+ -
+  given: L.
+  family: Forró
+ -
+  given: N.M.
+  family: Korovchinsky
+ -
+  given: A.
+  family: Petrusek
+contributor:
+ -
+  organisation: Freshwater Animal Diversity Assessment project (FADA)
+taxonomicScope: Water fleas
+confidence: 5
+completeness: 100
+license: cc by
+url: https://web.archive.org/web/20180320182811/http%3A//fada.biodiversity.be/group/show/17
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/FADA_Cladocera.png
+source: []

@@ -1,0 +1,28 @@
+---
+type: taxonomic
+identifier: {}
+title: 'Lace Bugs Database (Hemiptera: Tingidae)'
+alias: Lace Bugs Database
+description: 'A database of all the species described in Tingidae family (Insecta:
+  Heteroptera) with references, distribution and pictures.'
+issued: 2019-02-01
+version: Feb 2019
+contact: {}
+creator:
+ -
+  given: E.
+  family: Guilbert
+contributor:
+ -
+  organisation: Muséum National d'Histoire Naturelle
+ -
+  organisation: Paris
+ -
+  organisation: France
+taxonomicScope: Lace bugs
+confidence: 4
+completeness: 85
+license: cc by
+url: http://hemiptera-databases.com/tingidae/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Lace_Bugs_Database.png
+source: []

@@ -1,0 +1,33 @@
+---
+type: taxonomic
+identifier: {}
+title: World Checklist of Selected Plant Families
+alias: WCSP
+description: |-
+  These global plant family checklists are facilitated by the Royal Botanic Gardens, Kew. Each family checklist aims to provide the correct scientific name and includes all known published and accepted species and infraspecific taxa with their synonyms. They include the global distribution both in a narrative form and as the Botanical country codes as defined by the Taxonomic Databases Working Group. Pertinent nomenclatural and other comments as well as life-forms are included. All data have been peer reviewed by nomenclatural, taxonomic and regional experts from accross the world. Please visit http://apps.kew.org/wcsp/compilersReviewers.do for the list of reviewers.
+  Poaceae data is derived from Grassbase - the online world grassflora, W.D. Clayton, K.T. Harman & H. Williamson (www.kew.org/data/grasses-db.html).
+issued: 2017-08-25
+version: Aug 2017
+contact:
+  given: Rafael (ed)
+  family: Govaerts
+editor:
+ -
+  given: R.
+  family: Govaerts
+contributor:
+ -
+  organisation: Royal Botanic Gardens Kew
+ -
+  organisation: Richmond
+ -
+  organisation: Surrey
+ -
+  organisation: UK
+taxonomicScope: 116 families of seed plants
+confidence: 5
+completeness: 99
+license: cc by
+url: http://apps.kew.org/wcsp/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/WCSP.png
+source: []

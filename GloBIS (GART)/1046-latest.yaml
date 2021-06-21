@@ -1,0 +1,46 @@
+---
+type: taxonomic
+identifier: {}
+title: Global Butterfly Information System
+alias: GloBIS (GART)
+description: The GloBIS/GART database provides the taxonomic backbone for a global
+  information system on butterflies. In addition to the data presented in the Catalogue
+  of Life, the original GloBIS/GART database provides information about the type material
+  such as type locality, status and current location of the type specimens and images,
+  as well as the original and current taxonomic placement. Currently data for the
+  families Papilionidae or "Swallowtails" (553 recognized species, more than 2,100
+  subordinate taxa), Pieridae or "Whites" (1,108 recognized species, more than 700
+  subordinate taxa), and Lycaenidae or "Hairstreaks, Blues, and Coppers" (10,879 entered
+  species names, more than 2,000 subordinate taxa) are available, and other butterfly
+  groups to follow.
+issued: 2013-09-01
+version: Sep 2013
+contact:
+  given: CL
+  family: Häuser
+editor:
+ -
+  given: C.
+  family: Häuser
+ -
+  given: J.
+  family: Holstein
+ -
+  given: A.S.
+  family: Kroupa
+ -
+  given: A.
+  family: Steiner
+ -
+  given: M.
+  family: Turiault
+contributor:
+ -
+  organisation: Museum für Naturkunde - Leibniz Institute for Research on Evolution
+    and Biodiversity
+taxonomicScope: Hairstreaks, blues, coppers, swallowtails and whites
+confidence: 5
+completeness: 100
+url: http://www.globis.insects-online.de/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/GloBIS_(GART).png
+source: []

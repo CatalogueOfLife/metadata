@@ -1,0 +1,41 @@
+---
+type: taxonomic
+identifier: {}
+title: Spider Mites Web
+alias: SpmWeb
+description: 'Spider Mites Web is designated to give all information about the spider
+  mites family (Acari: Tetranychidae). The aim is to provide comprehensive knowledge
+  on all the spider mites in the world: the taxonomic data relating the history of
+  nomenclature; the geographical distribution (with maps) and the host plants. All
+  this knowledge gives a synthetic view of the biodiversity of these mites. Spider
+  Mites Web contains 1,265 valid species recorded, 1,302 references, 12,004 host records
+  on 3938 different plants, 5,511 geographic distribution records.'
+issued: 2011-07-05
+version: Jul 2011
+contact:
+  given: A
+  family: Migeon
+creator:
+ -
+  given: A.
+  family: Migeon
+ -
+  given: F.
+  family: Dorkeld
+editor: []
+contributor:
+ -
+  organisation: Institut National de le Recherche Agronomique (INRA)
+ -
+  organisation: CBGP
+ -
+  organisation: Montpellier
+ -
+  organisation: France
+taxonomicScope: Spider mites
+confidence: 4
+completeness: 99
+license: cc by
+url: http://www1.montpellier.inra.fr/CBGP/spmweb/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SpmWeb.png
+source: []

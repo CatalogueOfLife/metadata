@@ -1,0 +1,35 @@
+---
+type: taxonomic
+identifier: {}
+title: Geranium Taxonomic Information System
+alias: RJB Geranium
+description: This is a database of Geranium names and synonymic checklist of the genus
+  which is a part of a project to prepare a worldwide monograph of cranesbills. It
+  is partly financed by the Spanish Government through the research projects REN2003-00982/GLO,
+  CGL2004-00172/BOS and CGL2007-60184/BOS.
+issued: 2017-09-28
+version: Sep 2017
+contact:
+  given: C
+  family: Aedo
+creator:
+ -
+  given: C.
+  family: Aedo
+editor: []
+contributor:
+ -
+  organisation: Real Jardín Botánico de Madrid
+ -
+  organisation: CSIC
+ -
+  organisation: Madrid
+ -
+  organisation: Spain
+taxonomicScope: Cranesbills, geraniums
+confidence: 5
+completeness: 98
+license: cc by
+url: http://www.rjb.csic.es/Geranium
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/RJB_Geranium.png
+source: []

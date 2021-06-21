@@ -1,0 +1,44 @@
+---
+type: taxonomic
+identifier: {}
+title: Plecoptera Species File
+alias: SF Plecoptera
+description: The Plecoptera Species File website includes valid names, their synonyms,
+  bibliographic data, specimen data, images, sounds, and distributions for stoneflies
+  of the world. A key to all 16 families is provided, but currently is not illustrated.
+  Authors of research involving stoneflies are encouraged to provide pdfs or full
+  references of their papers to the authors. We also accept images and sounds, attribution
+  and metadata included, for posting on the website.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: R.E.
+  family: DeWalt
+ -
+  given: M.D.
+  family: Maehr
+ -
+  given: U.
+  family: Neu-Becker
+ -
+  given: G.
+  family: Stueber
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA; Max Planck Institute
+ -
+  organisation: Germany
+taxonomicScope: Stoneflies
+confidence: 5
+completeness: 99
+url: http://plecoptera.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Plecoptera.png
+source: []

@@ -1,0 +1,26 @@
+---
+type: taxonomic
+identifier: {}
+title: The Integrated Taxonomic Information System
+alias: ITIS
+description: The Integrated Taxonomic Information System (ITIS, www.itis.gov) was
+  proposed in 1993 and established through a Memorandum of Understanding in 1996.
+  ITIS partners with U.S. Federal agencies, other government agencies and organizations
+  from the United States, Canada and Mexico, and with data stewards and experts from
+  around the world to maintain an authoritative reference of scientific and common
+  names of all seven Kingdoms of Life (Archaea, Bacteria, Protozoa, Chromista, Fungi,
+  Plantae, and Animalia). For news and information about recent ITIS updates see www.itis.gov/whatsnew.html.
+issued: 2021-05-26
+version: 2021-05-26
+contact:
+  family: itiswebmaster@itis.gov
+creator: []
+editor: []
+contributor: []
+geographicScope: Global & Regional
+taxonomicScope: Biota
+confidence: 5
+completeness: 100
+license: other
+url: https://itis.gov
+source: []

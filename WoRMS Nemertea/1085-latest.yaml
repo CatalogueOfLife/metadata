@@ -1,0 +1,74 @@
+---
+type: taxonomic
+identifier: {}
+title: World Nemertea Database
+alias: WoRMS Nemertea
+description: This global marine species list is part of the World Register of Marine
+  Species database, which aims to provide the most authoritative list of names of
+  all marine species globally. Data have been contributed to the Catalogue of Life
+  via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Jon
+  family: Norenburg
+  email: norenbur@si.edu
+creator:
+ -
+  given: J.
+  family: Norenburg
+ -
+  given: R.
+  family: Gibson
+ -
+  given: A.
+  family: Herrera Bachiller
+ -
+  given: M.
+  family: Strand
+editor:
+ -
+  given: Raymond
+  family: Gibson
+  email: info@marinespecies.org
+ -
+  given: Alfonso
+  family: Herrera Bachiller
+  email: fosilete@gmail.com
+ -
+  orcid: 0000-0001-7776-1527
+  given: Jon
+  family: Norenburg
+  email: norenbur@si.edu
+ -
+  orcid: 0000-0002-8144-9592
+  given: Malin
+  family: Strand
+  email: Malin.Strand@slu.se
+contributor:
+ -
+  organisation: WoRMS Editorial Board
+ -
+  organisation: University of Alcalá Department of Life Sciences
+ -
+  country: US
+  address: United States of America
+  organisation: Smithsonian Institution; National Museum of Natural History Department
+    of Invertebrate Zoology
+ -
+  country: SE
+  address: Sweden
+  organisation: Swedish University of Agricultural Sciences Swedish Species Information
+    Centre
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Nemertea
+confidence: 4
+completeness: 100
+license: cc by
+url: http://www.marinespecies.org/nemertea
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

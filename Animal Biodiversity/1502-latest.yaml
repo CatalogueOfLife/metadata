@@ -1,0 +1,30 @@
+---
+type: taxonomic
+identifier: {}
+title: An Outline of Higher-level Classification and Survey of Taxonomic Richness
+  (Addenda 2013)
+alias: Animal Biodiversity
+description: 'Full citations: Zhang Z.-Q., ed. (2013). Animal Biodiversity: An Outline
+  of Higher-level Classification and Survey of Taxonomic Richness (Addenda 2013).
+  Zootaxa 3703 (1): 1-82. and Zhang Z.-Q., ed. (2011). Animal biodiversity: An outline
+  of higher-level classification and survey of taxonomic richness. Zootaxa 3148: 1-237.'
+issued: 2013-08-13
+version: 2013
+contact:
+  family: n/a
+editor:
+ -
+  given: Z.Q.
+  family: Zhang
+contributor:
+ -
+  organisation: ZooTaxa
+geographicScope: Global
+taxonomicScope: Animal classification
+confidence: 5
+completeness: 0
+license: cc by
+url: http://www.mapress.com/zootaxa/list/2013/3703%281%29.html
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Animal_biodiversity.png
+source: []
+notes: ""

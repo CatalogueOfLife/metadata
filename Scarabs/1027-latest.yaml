@@ -1,0 +1,27 @@
+---
+type: taxonomic
+identifier: {}
+title: World Scarabaeidae Database
+alias: Scarabs
+description: |
+  The World Scarabaeidae Database is currently only accessible through this checklist. It is included on the Annual Checklist by kind permission of Paul Schoolmeesters (schoolmeesterspaul@gmail.com).
+  The Scarabids are a large family of beetles, believed to include about 40,000 species.
+issued: 2021-06-01
+version: 2021-06-01
+contact:
+  given: P.
+  family: Schoolmeesters
+creator:
+ -
+  given: P.
+  family: Schoolmeesters
+contributor:
+ -
+  organisation: Individual custodian
+geographicScope: Global
+taxonomicScope: Scarab beetles
+confidence: 4
+completeness: 99
+license: cc by
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Scarabs.png
+source: []

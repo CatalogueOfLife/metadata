@@ -1,0 +1,40 @@
+---
+type: taxonomic
+identifier: {}
+title: World Auchenorrhyncha Database
+alias: 3i Auchenorrhyncha
+description: This database has replaced 3i Cicadoidea, 3i Cicadellinae & 3i Typhlocybinae.
+  It also contributes some extinct hemipteran groups in various superfamilies. The
+  list of species was generated from the 3i database. The 3i Interactive Keys and
+  Taxonomic Databases software was developed with the support from NSF Revisionary
+  Systematics grants. It contains descriptive, distributional, host plant data, and
+  literature references.
+issued: 2017-11-18
+version: Nov 2017
+contact:
+  given: Dmitry
+  family: Dmitriev
+creator:
+ -
+  given: D.
+  family: Dmitriev
+ -
+  given: A.
+  family: Sanborn
+ -
+  given: D.
+  family: Takiya
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Cicadas, leafhoppers & treehoppers
+confidence: 4
+completeness: 90
+license: cc0
+url: http://dmitriev.speciesfile.org/3i.asp
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/3i_Auchenorrhyncha.png
+source: []

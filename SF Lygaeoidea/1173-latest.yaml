@@ -1,0 +1,35 @@
+---
+type: taxonomic
+identifier: {}
+title: Lygaeoidea Species File
+alias: SF Lygaeoidea
+description: The Lygaeoidea Species File database contains taxonomic and other information
+  about all the seed bugs of the world, both living and fossil. This online catalog
+  is under continual development as more specimen data and other information are added.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: P.M.
+  family: Dellapé
+ -
+  given: T.J.
+  family: Henry
+contributor:
+ -
+  organisation: División Entomología
+ -
+  organisation: Museo de La Plata
+ -
+  organisation: La Plata
+ -
+  organisation: Argentina
+taxonomicScope: Seed bugs
+confidence: 2
+completeness: 90
+url: http://Lygaeoidea.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Lygaeoidea.png
+source: []

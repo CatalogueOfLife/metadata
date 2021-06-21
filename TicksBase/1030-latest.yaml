@@ -1,0 +1,37 @@
+---
+type: taxonomic
+identifier: {}
+title: TicksBase
+alias: TicksBase
+description: 'TicksBase is a searchable taxonomic catalogue of all known ticks (Acari:
+  Ixodida) of the world and is facilitated by the International Consortium on Ticks
+  and Tick-borne Diseases (ICTTD). It currently comprises 889 valid species (702 Ixodid,
+  186 Argasid and 1 Nuttalliella tick (sub-)species), including their synonyms, (limited)
+  distribution data and common names.'
+issued: 2005-06-15
+version: 5.6, Jun 2005
+contact:
+  family: AM Nijhof, AA Guglielmone
+creator:
+ -
+  given: A.M.
+  family: Nijhof
+ -
+  given: A.A.
+  family: Guglielmone
+ -
+  given: I.G.
+  family: Horak
+editor: []
+contributor:
+ -
+  organisation: Utrecht University
+ -
+  organisation: The Netherlands
+geographicScope: Global
+taxonomicScope: Ticks
+confidence: 5
+completeness: 98
+license: cc by
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/TicksBase.png
+source: []

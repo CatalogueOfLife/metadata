@@ -1,0 +1,26 @@
+---
+type: taxonomic
+identifier: {}
+title: World Brachiopoda Database
+alias: WoRMS Brachiopoda
+description: World Brachiopoda database is a taxonomic database of lamp-shells a and
+  higher taxon names. Distribution maps of the species and genus are being added gradually.
+  Data are contributed to the Catalogue of Life via the World Register of Marine Species
+  (WoRMS), hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact: {}
+creator:
+ -
+  family: WoRMS
+editor:
+ - {}
+contributor:
+ - {}
+geographicScope: Global
+taxonomicScope: ""
+confidence: 5
+completeness: 100
+license: cc by
+url: http://www.marinespecies.org
+source: []

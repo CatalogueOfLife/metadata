@@ -1,0 +1,37 @@
+---
+type: taxonomic
+identifier: {}
+title: Fossil Ginkgoales
+alias: Fossil Ginkgoales
+description: This dataset represents a part extracted from the database of the National
+  Museum Prague. It was prepared by Jiří Kvaček with help of Olexandra Chernomorets.
+  The dataset comprises all described unequivocal fossil members of the Ginkgoales
+  (fossil plant remains which could be assigned to this group with certainty). It
+  is based on reproductive structures assigned to Ginkgoales and their associated
+  organs. As a part of this dataset there are main taxa of foliage and wood structures
+  assigned to the group with high degree of probability. Additional taxa of Ginkgoales
+  are a part of another version, which is in state of preparation.
+issued: 2018-12-13
+version: Dec 2018
+contact:
+  given: Jiří
+  family: Kvaček
+creator:
+ -
+  given: J.
+  family: Kvaček
+editor: []
+contributor:
+ -
+  organisation: National Museum
+ -
+  organisation: Prague
+ -
+  organisation: Czech Republic
+taxonomicScope: Ginkgos
+confidence: 5
+completeness: 100
+license: cc0
+url: http://www.nm.cz
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Ginkgoales.png
+source: []

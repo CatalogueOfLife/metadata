@@ -1,0 +1,59 @@
+---
+type: taxonomic
+identifier: {}
+title: Mites GSD Tenuipalpidae
+alias: Mites GSD Tenuipalpidae
+description: The Tenuipalpidae are phytophagous mites found worldwide. Some of them
+  are important pests and others have been mentioned as vectors of virus affecting
+  many plant species, especially in tropical and subtropical areas. This database
+  was prepared based on information summarized by Mesa et al. (2009). It provides
+  information on 950 species names.
+issued: 2009-11-24
+version: Nov 2009
+contact:
+  given: G
+  family: de Moraes
+creator:
+ -
+  given: N.C.
+  family: Mesa
+ -
+  given: R.
+  family: Ochoa
+ -
+  given: W.C.
+  family: Welbourn
+ -
+  given: G.A.
+  family: Evans
+ -
+  given: R.C.
+  family: Castilho
+ -
+  family: Moraes G.J. de
+contributor:
+ -
+  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
+ -
+  organisation: Universidade de São Paulo
+ -
+  organisation: Brazil; Universidad Nacional de Colombia sede Palmira
+ -
+  organisation: Facultad de Ciencias Agropecuárias
+ -
+  organisation: Colombia; Systematic Entomology Laboratory
+ -
+  organisation: US Department of Agriculture
+ -
+  organisation: USA; Florida Department of Agriculture & Consumer Services
+ -
+  organisation: Division of Plant Industry; US Department of Agriculture
+ -
+  organisation: USA"
+geographicScope: Global
+taxonomicScope: Tenuipalpid mites
+confidence: 5
+completeness: 99
+license: other
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/TenuipalpidBase.png
+source: []

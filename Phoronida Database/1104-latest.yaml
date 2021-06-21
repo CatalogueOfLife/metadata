@@ -1,0 +1,28 @@
+---
+type: taxonomic
+identifier: {}
+title: Phoronida Database
+alias: Phoronida Database
+description: Phoronida Database is a taxonomic database of horseshoe worms species
+  and higher taxon names, including fossil species. Diagnoses and distribution maps
+  of the species and genus are being updated gradually. Exhaustive bibliography is
+  provided. Database is closely related to the web portal http://paleopolis.rediris.es/Phoronida/.
+  Data are contributed to the Catalogue of Life via paleopolis.rediris web portal.
+issued: 2016-02-16
+version: Feb 2016
+contact:
+  given: C.C.
+  family: Emig
+creator:
+ -
+  given: C.C.
+  family: Emig
+contributor:
+ -
+  organisation: BrachNet
+taxonomicScope: Horseshoe worms
+confidence: 5
+completeness: 100
+url: http://paleopolis.rediris.es/Phoronida_database/index.html
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Phoronida_Database.png
+source: []

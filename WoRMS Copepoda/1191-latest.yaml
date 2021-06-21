@@ -1,0 +1,157 @@
+---
+type: taxonomic
+identifier: {}
+title: World of Copepods Database
+alias: WoRMS Copepoda
+description: "This World Database of all species of Copepoda ever described, is part\
+  \ of the World Register of Marine Species (WoRMS), a global initiative to provide\
+  \ a register of all marine organisms.\r\nData have been contributed to the Catalogue\
+  \ of Life via WoRMS, hosted by the Flanders Marine Institute (VLIZ)."
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: T. Chad
+  family: Walter
+  email: walterc@si.edu
+creator:
+ -
+  given: T.C.
+  family: Walter
+ -
+  given: G.
+  family: Boxshall
+editor:
+ -
+  given: James
+  family: Bernot
+  email: jbernot@gwmail.gwu.edu
+ -
+  given: Ruth
+  family: Böttger-Schnack
+  email: dschnack@geomar.de
+ -
+  orcid: 0000-0001-8170-7734
+  given: Geoff
+  family: Boxshall
+  email: g.boxshall@nhm.ac.uk
+ -
+  given: Astrid
+  family: Cornils
+  email: Astrid.Cornils@awi.de
+ -
+  given: Danielle
+  family: Defaye
+  email: ddefaye@mnhn.fr
+ -
+  given: Diego
+  family: Figueroa
+  email: diego.figueroa@utrgv.edu
+ -
+  given: Santiago
+  family: Gaviria-Melo
+  email: santiago.gaviria@univie.ac.at
+ -
+  given: Hendrik
+  family: Gheerardyn
+ -
+  given: Samuel Enrique
+  family: Gómez-Noguera
+  email: samuelgomez@ola.icmyl.unam.mx
+ -
+  given: Ju-shey
+  family: Ho
+  email: info@marinespecies.org
+ -
+  given: Slava
+  family: Ivanenko
+  email: Ivanenko.slava@gmail.com
+ -
+  given: Juliana
+  family: Kouwenberg
+  email: info@marinespecies.org
+ -
+  given: Eduardo
+  family: Suárez-Morales
+  email: esuarez@ecosur.mx
+ -
+  given: Danny
+  family: Tang
+  email: copepods@gmail.com
+ -
+  given: Julian
+  family: Uribe-Palomino
+  email: Julian.Uribepalomino@csiro.au
+ -
+  given: T. Chad
+  family: Walter
+  email: walterc@si.edu
+contributor:
+ -
+  organisation: George Washington University
+ -
+  country: DE
+  address: Germany
+  organisation: Helmholtz Centre for Ocean Research Kiel
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Natural History Museum Department of Zoology
+ -
+  country: DE
+  address: Germany
+  organisation: Alfred Wegener Institute for Polar- and Marine Research
+ -
+  country: FR
+  address: France
+  organisation: National Natural History Museum Paris
+ -
+  country: FR
+  address: France
+  organisation: University of Texas Rio Grande Valley Department of Biology
+ -
+  country: FR
+  address: France
+  organisation: University of Vienna; Faculty of Life Sciences; Vienna Ecology Center
+    Department of Functional and Evolutionary Ecology Division of Limnology
+ -
+  country: MX
+  address: Mexico
+  organisation: Universidad Nacional Autonoma de Mexico; Instituto de Ciencias del
+    Mar y Limnologia Unidad Académica Mazatlán
+ -
+  organisation: WoRMS Editorial Board
+ -
+  country: RU
+  address: Russian Federation
+  organisation: Lomonosov Moscow State University
+ -
+  country: MX
+  address: Mexico
+  organisation: El Colegio de la Frontera Sur
+ -
+  country: MX
+  address: Mexico
+  organisation: Orange County Sanitation District Environmental Laboratory &amp; Ocean
+    Monitoring Division
+ -
+  country: AU
+  address: Australia
+  organisation: Commonwealth Scientific &amp; Industrial Research Organisation Marine
+    and Atmospheric Research
+ -
+  country: US
+  address: United States of America
+  organisation: Smithsonian Institution; National Museum of Natural History Department
+    of Invertebrate Zoology
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Copepoda
+confidence: 4
+completeness: 95
+license: cc by
+url: http://www.marinespecies.org/copepoda
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

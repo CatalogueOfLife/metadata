@@ -1,0 +1,41 @@
+---
+type: taxonomic
+identifier: {}
+title: 'Taxonomic checklist of the world’s whiteflies (Insecta: Hemiptera: Aleyrodidae)'
+alias: The White-Files
+description: 'Taxonomic checklist of the world''s whiteflies (Insecta: Hemiptera:
+  Aleyrodidae)'
+issued: 2019-02-01
+version: Feb 2019
+contact:
+  family: ouvrard@mnhn.fr
+creator:
+ -
+  given: D.
+  family: Ouvrard
+ -
+  given: J.H.
+  family: Martin
+contributor:
+ -
+  organisation: Natural History Museum
+ -
+  organisation: London
+ -
+  organisation: UK; Muséum National d'Histoire Naturelle
+ -
+  organisation: Paris
+ -
+  organisation: France; Université Pierre et Marie Curie
+ -
+  organisation: Paris
+ -
+  organisation: France
+geographicScope: Global
+taxonomicScope: Whiteflies
+confidence: 5
+completeness: 95
+license: cc by
+url: http://www.hemiptera-databases.com/whiteflies/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/The_White-Files.png
+source: []

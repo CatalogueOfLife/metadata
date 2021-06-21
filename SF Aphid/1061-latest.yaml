@@ -1,0 +1,29 @@
+---
+type: taxonomic
+identifier: {}
+title: Aphid Species File
+alias: SF Aphid
+description: Aphid Species File is a taxonomic, nomenclatural, and bibliographic database
+  of the aphids of the world, including all extant and fossil taxa.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: C.
+  family: Favret
+contributor:
+ -
+  organisation: AphidNet
+ -
+  organisation: LLC
+geographicScope: Global
+taxonomicScope: Aphids and allied groups
+confidence: 4
+completeness: 99
+license: other
+url: http://aphid.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Aphid.png
+source: []

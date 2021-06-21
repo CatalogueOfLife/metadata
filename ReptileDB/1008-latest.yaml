@@ -1,0 +1,35 @@
+---
+type: taxonomic
+identifier: {}
+title: The Reptile Database
+alias: ReptileDB
+description: The Reptile Database is a taxonomic database that provides basic information
+  about all living reptile species, such as turtles, snakes, lizards, and crocodiles,
+  as well as tuataras and amphisbaenians, but does not include dinosaurs.
+issued: 2021-05-03
+version: 2020-12
+contact:
+  given: P
+  family: Uetz
+creator:
+ -
+  given: P.
+  family: Uetz
+ -
+  given: J.
+  family: Hošek
+contributor:
+ -
+  city: ' Richmond'
+  state: VA
+  country: US
+  address: Richmond, VA, United States of America
+  organisation: Virginia Commonwealth University
+geographicScope: Global
+taxonomicScope: Reptiles
+confidence: 4
+completeness: 99
+license: cc by
+url: http://www.reptile-database.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ReptileDB.png
+source: []

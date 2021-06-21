@@ -1,0 +1,242 @@
+---
+type: taxonomic
+identifier: {}
+title: MolluscaBase
+alias: WoRMS Mollusca
+description: This global species list is part of the World Register of Marine Species
+  database, which aims to provide the most authoritative list of names of all marine
+  species globally. Data have been contributed to the Catalogue of Life via the WoRMS,
+  hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  email: info@marinespecies.org
+creator:
+ -
+  family: MolluscaBase eds.
+editor:
+ -
+  given: Kurt
+  family: Auffenberg
+  email: info@marinespecies.org
+ -
+  given: Ruud
+  family: Bank
+  email: r.a.bank@umcg.nl
+ -
+  given: Rüdiger
+  family: Bieler
+  email: rbieler@fieldmuseum.org
+ -
+  given: Philippe
+  family: Bouchet
+  email: pbouchet@mnhn.fr
+ -
+  given: Marien
+  family: Faber
+  email: info@marinespecies.org
+ -
+  given: Julian
+  family: Finn
+  email: jfinn@museum.vic.gov.au
+ -
+  given: Oscar
+  family: Garcia-Alvarez
+  email: ogarcia-alvarez@edu.xunta.es
+ -
+  orcid: 0000-0002-3141-3700
+  given: Serge
+  family: Gofas
+  email: sgofas@uma.es
+ -
+  given: Dai
+  family: Herbert
+  email: phasianella@gmail.com
+ -
+  given: Roland
+  family: Houart
+  email: roland.houart@skynet.be
+ -
+  given: Ronald
+  family: Janssen
+  email: ronald.janssen@senckenberg.de
+ -
+  given: Alan
+  family: Kabat
+  email: alankabat@aol.com
+ -
+  given: Yuri
+  family: Kantor
+  email: kantor.yuri1956@gmail.com
+ -
+  given: Frank
+  family: Köhler
+  email: frank.koehler@outlook.com.au
+ -
+  given: Bruce
+  family: Marshall
+  email: BruceM@tepapa.govt.nz
+ -
+  orcid: 0000-0002-1398-9941
+  given: Thomas A.
+  family: Neubauer
+  email: thomas.a.neubauer@allzool.bio.uni-giessen.de
+ -
+  given: Eike
+  family: Neubert
+  email: Eike.Neubert@nmbe.ch
+ -
+  given: Barna
+  family: Páll-Gergely
+  email: pallgergely2@gmail.com
+ -
+  orcid: 0000-0002-1500-2215
+  given: Bernard
+  family: Picton
+  email: bernard.picton@nmni.com
+ -
+  given: Ira
+  family: Richling
+  email: ira@helicina.de
+ -
+  given: Luigi
+  family: Romani
+  email: info@marinespecies.org
+ -
+  given: Gary
+  family: Rosenberg
+  email: rosenberg.ansp@drexel.edu
+ -
+  given: Simon
+  family: Schneider
+  email: simon.schneider@casp.org.uk
+ -
+  given: John
+  family: Taylor
+  email: j.taylor@nhm.ac.uk
+ -
+  given: Jan Johan
+  family: ter Poorten
+  email: info@marinespecies.org
+ -
+  given: Maxim
+  family: Vinarski
+  email: radix.vinarski@gmail.com
+ -
+  given: Chris
+  family: Vos
+  email: info@marinespecies.org
+ -
+  given: Ulrich
+  family: Wieneke
+  email: biermann.wieneke@t-online.de
+contributor:
+ -
+  organisation: MolluscaBase eds.
+ -
+  organisation: Rijksuniversiteit Groningen Faculty of Medical Sciences
+ -
+  country: US
+  address: United States of America
+  organisation: Field Museum of Natural History
+ -
+  country: FR
+  address: France
+  organisation: National Natural History Museum Paris Department Systematics and Evolution
+ -
+  country: AU
+  address: Australia
+  organisation: Museums Victoria
+ -
+  country: ES
+  address: Spain
+  organisation: University of Santiago de Compostela Department of Zoology
+ -
+  country: ES
+  address: Spain
+  organisation: University of Málaga; Faculty of Sciences Departamento de Biología
+    Animal
+ -
+  country: ES
+  address: Spain
+  organisation: National Museum of Wales Department of Natural Sciences
+ -
+  country: BE
+  address: Belgium
+  organisation: Koninklijk Belgisch Instituut voor Natuurwetenschappen; Operationele
+    Directie Taxonomie en Fylogenie Afdeling Malacologie
+ -
+  country: DE
+  address: Germany
+  organisation: Senckenberg Nature Research Society Research Institute and Natural
+    History Museum
+ -
+  country: US
+  address: United States of America
+  organisation: Harvard University Museum of Comparative Zoology
+ -
+  country: RU
+  address: Russian Federation
+  organisation: Russian Academy of Sciences A.N. Severtsov Institute of Ecology and
+    Evolution
+ -
+  country: AU
+  address: Australia
+  organisation: Australian Museum Australian Museum Research Institute
+ -
+  country: NZ
+  address: New Zealand
+  organisation: Museum of New Zealand Te Papa Tongarewa
+ -
+  country: DE
+  address: Germany
+  organisation: Justus Liebig University
+ -
+  country: CH
+  address: Switzerland
+  organisation: Naturhistorisches Museum der Burgergemeinde Bern
+ -
+  country: HU
+  address: Hungary
+  organisation: Hungarian Academy of Sciences; Centre for Agricultural Research Plant
+    Protection Institute
+ -
+  country: IE
+  address: Ireland
+  organisation: National Museums of Northern Ireland Ulster Museum
+ -
+  country: DE
+  address: Germany
+  organisation: Stuttgart State Museum of Natural History
+ -
+  country: US
+  address: United States of America
+  organisation: Drexel University Academy of Natural Sciences
+ -
+  country: GB
+  address: United Kingdom
+  organisation: University of Cambridge CASP
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Natural History Museum Department of Zoology
+ -
+  country: RU
+  address: Russian Federation
+  organisation: St.-Petersburg State University
+ -
+  country: DE
+  address: Germany
+  organisation: Gastropoda Stromboidea
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Mollusca
+confidence: 4
+completeness: 95
+license: cc by
+url: http://www.molluscabase.org
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

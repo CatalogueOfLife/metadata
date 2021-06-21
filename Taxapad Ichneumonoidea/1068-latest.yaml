@@ -1,0 +1,31 @@
+---
+type: taxonomic
+identifier: {}
+title: Taxapad Ichneumonoidea
+alias: Taxapad Ichneumonoidea
+description: The Ichneumonoidea is one of the largest superfamilies of the apocritan
+  wasps with 58,121 described species and is distributed world wide. The taxonomic,
+  biological, morphological and distribution information of the group gleaned from
+  over 30,000 references were organized based on scientific names and made accessible
+  by Taxapad, a relational taxonomic database management system.
+issued: 2009-05-04
+version: May 2009
+contact:
+  given: D
+  family: Yu
+creator:
+ -
+  given: D.S.K.
+  family: Yu
+contributor:
+ -
+  organisation: Taxapad project
+geographicScope: Global
+taxonomicScope: Ichneumonid and braconid wasps
+confidence: 5
+completeness: 97
+license: other
+url: https://web.archive.org/web/20180906195542/http%3A//www.ichneumonoidea.name
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Taxapad_Ichneumonoidea.png
+source: []
+notes: ""

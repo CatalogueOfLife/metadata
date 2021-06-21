@@ -1,0 +1,36 @@
+---
+type: taxonomic
+identifier: {}
+title: 'Phylum Ctenophora: list of all valid species names. Electronic internet document'
+alias: WoRMS Ctenophora
+description: This global marine species list is part of the World Register of Marine
+  Species database, which aims to provide the most authoritative list of names of
+  all marine species globally. Data have been contributed to the Catalogue of Life
+  via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Claudia
+  family: Mills
+  email: cemills@u.washington.edu
+creator:
+ -
+  family: Mills, C.E. Internet
+editor:
+ -
+  given: Claudia
+  family: Mills
+  email: cemills@u.washington.edu
+contributor:
+ -
+  country: US
+  address: United States of America
+  organisation: University of Washington Friday Harbor Laboratories
+geographicScope: Global
+taxonomicScope: Ctenophora
+confidence: 4
+completeness: 95
+license: cc by
+url: http://faculty.washington.edu/cemills/Ctenolist.html
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

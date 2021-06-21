@@ -1,0 +1,44 @@
+---
+type: taxonomic
+identifier: {}
+title: World Spider Catalog
+alias: WSC
+description: A successor to 14 published volumes by Bonnet, Roewer, Brignoli, Platnick,
+  and the online version by Platnick, the World Spider Catalog aims to provide listings
+  of all currently valid species, genera, and families of spiders, all their synonyms,
+  and all significant taxonomic references to each species, from Linnaeus to date.
+  The World Spider Catalog is continuously updated.
+issued: 2019-07-15
+version: 20
+contact:
+  given: Daniel
+  family: Gloor
+creator:
+ -
+  given: C.
+  family: Kropf
+ -
+  given: W.
+  family: Nentwig
+ -
+  given: T.
+  family: Blick
+ -
+  given: D. (Organizing Board)
+  family: Gloor
+editor: []
+contributor:
+ -
+  organisation: Natural History Museum of Bern
+ -
+  organisation: Bern
+ -
+  organisation: Switzerland
+geographicScope: Global
+taxonomicScope: Spiders
+confidence: 5
+completeness: 100
+license: cc by
+url: https://wsc.nmbe.ch/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/WSC.png
+source: []

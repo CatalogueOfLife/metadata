@@ -1,0 +1,41 @@
+---
+type: taxonomic
+identifier: {}
+title: Orthoptera Species File
+alias: SF Orthoptera
+description: The Orthoptera Species File is a taxonomic database of the world's Orthoptera
+  (grasshoppers, locusts, katydids and crickets), both living and fossil. It has full
+  synonymic and taxonomic information for more than 28,070 valid species, 45,850 scientific
+  names, 213,200 citations to 14,200 references, 96,300 images, 1630 sound recordings,
+  and 99,700 specimen records.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: M.M.
+  family: Cigliano
+ -
+  given: H.
+  family: Braun
+ -
+  given: D.C.
+  family: Eades
+ -
+  given: D.
+  family: Otte
+contributor:
+ -
+  organisation: Museo de La Plata
+ -
+  organisation: Buenos Aires
+ -
+  organisation: Argentina
+taxonomicScope: Grasshoppers, locusts, katydids, crickets
+confidence: 5
+completeness: 100
+url: http://Orthoptera.SpeciesFile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Orthoptera.png
+source: []

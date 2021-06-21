@@ -1,0 +1,32 @@
+---
+type: taxonomic
+identifier: {}
+title: World checklist of freshwater Halacaridae species
+alias: FADA Halacaridae
+description: The checklist is supplied for the Catalogue of Life by FADA project.
+  FADA, the Freshwater Animal Diversity Assessment is an informal network of scientists
+  specialized in freshwater biodiversity. FADA contributes freshwater taxa in the
+  CoL proto-GSD. Bartsh, I., 2013 Jan 21, World checklist of freshwater Halacaridae
+  species. World Wide Web electronic publication. Available online at http://fada.biodiversity.be/group/show/32
+  [date accessed]
+issued: 2013-01-21
+version: Jan 2013
+contact:
+  given: I.
+  family: Bartsch
+creator:
+ -
+  given: I.
+  family: Bartsch
+editor: []
+contributor:
+ -
+  organisation: Freshwater Animal Diversity Assessment project (FADA)
+geographicScope: Global
+taxonomicScope: Aquatic mites
+confidence: 4
+completeness: 25
+license: cc0
+url: https://web.archive.org/web/20180320182831/http%3A//fada.biodiversity.be/group/show/32
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/FADA_Halacaridae.png
+source: []

@@ -1,0 +1,37 @@
+---
+type: taxonomic
+identifier: {}
+title: A World Catalogue of Centipedes (Chilopoda) for the Web
+alias: ChiloBase
+description: ChiloBase is a taxonomic database of all known extant centipedes (Chilopoda)
+  of the world including a modern taxonomic system. It provides information on all
+  taxa within the group, including synonymy. In addition to the data available through
+  the Catalogue of Life, the original database also includes original descriptions,
+  type localities and type species. It was compiled by an international team of expert
+  taxonomists with support from GBIF.
+issued: 2006-10-10
+version: 1.01, May 2006
+contact:
+  given: Alessandro
+  family: Minelli
+creator: []
+editor:
+ -
+  given: A.
+  family: Minelli
+contributor:
+ -
+  organisation: Department of Biology
+ -
+  organisation: University of Padova
+ -
+  organisation: Padova
+ -
+  organisation: Italy
+taxonomicScope: Centipedes
+confidence: 5
+completeness: 100
+license: cc by
+url: http://chilobase.bio.unipd.it
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ChiloBase.png
+source: []

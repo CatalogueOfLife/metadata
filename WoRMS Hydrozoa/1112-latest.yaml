@@ -1,0 +1,41 @@
+---
+type: taxonomic
+identifier: {}
+title: World Hydrozoa Database
+alias: WoRMS Hydrozoa
+description: World Hydrozoa database comes from a list of accumulated taxonomic information
+  assembled over the years from the literature of Wim Vervoort and Peter Schuchert
+  (see Schuchert, 1989). The list of the Siphonophorae was provided by Gill Mapstone
+  who also manages the species of this Order. The number of known hydrozoan species
+  is about 3800, although the status of many nominal species is currently unclear.
+  A considerable number of names also represent synonyms.
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Peter
+  family: Schuchert
+  email: Peter.Schuchert@ville-ge.ch
+creator:
+ -
+  given: P.
+  family: Schuchert
+editor:
+ -
+  given: Peter
+  family: Schuchert
+  email: Peter.Schuchert@ville-ge.ch
+contributor:
+ -
+  organisation: Natural History Museum of the city of Geneva Invertebrate department
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Hydrozoa
+confidence: 5
+completeness: 95
+license: cc by
+url: http://www.marinespecies.org/hydrozoa
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

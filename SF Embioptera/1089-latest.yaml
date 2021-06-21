@@ -1,0 +1,35 @@
+---
+type: taxonomic
+identifier: {}
+title: Embioptera Species File
+alias: SF Embioptera
+description: The Embioptera Species File is a taxonomic database of the scientific
+  names of the world's webspinners (Order Embioptera = Embiidina = Embiodea). The
+  goal of The Embioptera Species File is to foster research and learning on webspinners,
+  while increasing our understanding of the world's biodiversity. The Embioptera Species
+  File has information for approximately 400 valid species and 600 total names. Both
+  extinct and extant species are included. Type specimen information is currently
+  available on over half the species. Plans are under development for adding images,
+  distributions and ecological information.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: M.D.
+  family: Maehr
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Webspinners
+confidence: 4
+completeness: 99
+url: http://embioptera.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Embioptera.png
+source: []

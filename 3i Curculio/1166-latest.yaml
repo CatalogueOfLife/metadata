@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: 3i taxonomic databases, Curculionidae, subfamily Entiminae
+alias: 3i Curculio
+description: Entiminae is the largest subfamily of weevils, small to medium sized
+  phyllophagous weevils with deciduous mandibular process and mostly root-feeding
+  larva. The checklist was generated from the 3i database which provides information
+  on all species, including, distributional and host plant data, and literature references.
+  3i (Internet-accessible Interactive Identification) is a set of software tools for
+  creating on-line identification keys, taxonomic databases, and virtual taxonomic
+  revisions.
+issued: 2018-01-14
+version: Jan 2019
+contact:
+  given: Nikolay
+  family: Yunakov
+creator:
+ -
+  given: N.
+  family: Yunakov
+editor: []
+contributor:
+ -
+  organisation: Natural History Museum
+ -
+  organisation: University of Oslo
+ -
+  organisation: Oslo
+ -
+  organisation: Norway
+taxonomicScope: Broad-nosed weevils
+confidence: 4
+completeness: 90
+license: cc by
+url: http://dmitriev.speciesfile.org/3i.asp
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/3i_Curculio.png
+source: []

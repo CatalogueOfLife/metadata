@@ -1,0 +1,35 @@
+---
+type: taxonomic
+identifier: {}
+title: Fungi Associated with Arthropods
+alias: Trichomycetes
+description: The trichomycetes (Fungi, class Trichomycetes plus ecologically related
+  protozoans) are a cosmopolitan group of organisms that grow obligately in the guts
+  of insects, crustaceans and millipedes that live in freshwater, marine or terrestrial
+  habitats. Many trichomycetes appear to be commensalistic, but under particular circumstances
+  they may provide their hosts with some essential organic nutrients. Some are known
+  to produce cysts in the ovaries of adult females hosts which, in addition to sterilizing
+  the host, serve as a mechanism of dispersal.
+issued: 2017-10-27
+version: Oct 2017
+contact:
+  given: RW
+  family: Lichtwardt
+creator:
+ -
+  given: R.W.
+  family: Lichtwardt
+contributor:
+ -
+  organisation: University of Kansas
+ -
+  organisation: Lawrence
+ -
+  organisation: USA
+taxonomicScope: Fungi associated with Arthropods
+confidence: 4
+completeness: 98
+license: cc by
+url: http://www.nhm.ku.edu/~fungi/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Trichomycetes.png
+source: []

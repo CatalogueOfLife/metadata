@@ -1,0 +1,32 @@
+---
+type: taxonomic
+identifier: {}
+title: Mantophasmatodea Species File
+alias: SF Mantophasmatodea
+description: Mantophasmatodea Species File is a database and website with taxonomic
+  and other information on gladiators or rock crawlers of the insect order Mantophasmatodea.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: M.D.
+  family: Maehr
+ -
+  given: H.
+  family: Hopkins
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Gladiators or rock crawlers
+confidence: 5
+completeness: 99
+url: http://mantophasmatodea.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Mantophasmatodea.png
+source: []

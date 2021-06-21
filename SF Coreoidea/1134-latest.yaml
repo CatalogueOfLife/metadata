@@ -1,0 +1,31 @@
+---
+type: taxonomic
+identifier: {}
+title: Coreoidea Species File
+alias: SF Coreoidea
+description: The Coreoidea Species File database contains taxonomic and other information
+  about all the leatherbugs of the world. It is under continual development as more
+  specimen data and images are added. Presently, most names are included. A companion
+  catalogue of the World Coreidae and Alydidae with more complete bibliographic references
+  has been submitted to Zootaxa for publication.
+issued: 2018-06-14
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  family: CoreoideaSF Team
+contributor:
+ -
+  organisation: The Natural History Museum
+ -
+  organisation: London
+ -
+  organisation: UK
+taxonomicScope: Leatherbugs
+confidence: 4
+completeness: 90
+url: http://Coreoidea.SpeciesFile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Coreoidea.png
+source: []

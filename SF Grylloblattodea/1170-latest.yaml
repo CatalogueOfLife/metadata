@@ -1,0 +1,32 @@
+---
+type: taxonomic
+identifier: {}
+title: Grylloblattodea Species File
+alias: SF Grylloblattodea
+description: Grylloblattodea Species File website and database contains taxonomic
+  information on ice crawlers.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: H.
+  family: Hopkins
+ -
+  given: M.D.
+  family: Maehr
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Ice crawlers
+confidence: 5
+completeness: 99
+url: http://grylloblattodea.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Grylloblattodea.png
+source: []

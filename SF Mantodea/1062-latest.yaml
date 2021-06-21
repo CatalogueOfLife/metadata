@@ -1,0 +1,34 @@
+---
+type: taxonomic
+identifier: {}
+title: Mantodea Species File
+alias: SF Mantodea
+description: The Mantodea Species File (MSF) is a taxonomic database of the world's
+  praying mantids (Order Mantodea), both of fossil and living species. It has full
+  synonymic and taxonomic information for over 2,400 valid species and provides many
+  images of specimens deposited in museums worldwide, as well as pictures of living
+  praying mantids in the wild and in captivity.
+issued: 2018-06-01
+version: 5.0/5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: D.
+  family: Otte
+ -
+  given: L.
+  family: Spearman
+ -
+  given: M.B.D.
+  family: Stiewe
+contributor:
+ -
+  organisation: Mantodea Species File
+taxonomicScope: Praying mantids
+confidence: 4
+completeness: 90
+url: http://mantodea.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Mantodea.png
+source: []

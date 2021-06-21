@@ -1,0 +1,33 @@
+---
+type: taxonomic
+identifier: {}
+title: Coleorrhyncha Species File
+alias: SF Coleorrhyncha
+description: The Coleorrhyncha Species File website and database contains taxonomic
+  data about moss bugs.
+issued: 2018-06-01
+version: 5.0, Jun 2018
+contact:
+  given: Marilyn
+  family: Beckman
+creator:
+ -
+  given: S.W.
+  family: Heads
+ -
+  given: M.D.
+  family: Maehr
+contributor:
+ -
+  organisation: Illinois Natural History Survey
+ -
+  organisation: Champaign IL
+ -
+  organisation: USA
+taxonomicScope: Fossilised moss bugs
+confidence: 4
+completeness: 99
+license: unspecified
+url: http://coleorrhyncha.speciesfile.org
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Coleorrhyncha.png
+source: []

@@ -1,0 +1,32 @@
+---
+type: taxonomic
+identifier: {}
+title: Moss Bug Base
+alias: MBB
+description: Moss Bug Base is a taxonomic database of extant and fossil taxa of suborder
+  Coleorrhyncha. It contains information on taxonomy (accepted names and synonyms),
+  nomenclature, bibliography and distribution as basis for further studies on these
+  insects. It is intended to add information on host relationships for extant taxa
+  and on stratigraphy for fossil taxa in future releases.
+issued: 2009-10-22
+version: 1.0, Sep 2009
+contact:
+  given: D
+  family: Ouvrard
+creator:
+ -
+  given: D.
+  family: Burckhardt
+contributor:
+ -
+  organisation: Naturhistorisches Museum
+ -
+  organisation: Basel
+ -
+  organisation: Switzerland
+taxonomicScope: Moss bugs
+confidence: 5
+completeness: 100
+url: http://rameau.snv.jussieu.fr/cgi-bin/coleorrhyncha.pl
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/MBB.png
+source: []

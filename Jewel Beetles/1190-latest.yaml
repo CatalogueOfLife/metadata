@@ -1,0 +1,31 @@
+---
+type: taxonomic
+identifier: {}
+title: The World of Jewel Beetles
+alias: Jewel Beetles
+description: 'This Buprestoidea checklist was harvested by Dmitry Mozzherin from the
+  original website The World of Jewel Beetles created by Chuck Bellamy (1951-2013).
+  Data are published in the Catalogue of Life with kind permission of the website
+  keepers Gino Nearns & Ted MacRae, at the Coleopterists Society (<a href="http://coleopsoc.org/">http://coleopsoc.org</a>),
+  and Pensoft, a publisher of comprehensive Bellamy’s monograph <a href="https://ebooks.pensoft.net/author.php?auth=5803">A
+  World Catalogue and Bibliography of the Jewel Beetles (Coleoptera: Buprestoidea),
+  2008, Vol. 1-5. Pensoft Series Faunistica N 76-80, p. 1-3264.</a>'
+issued: 2014-08-25
+version: Aug 2014
+contact:
+  given: Gino
+  family: Nearns
+creator:
+ -
+  given: C.L. (†)
+  family: Bellamy
+contributor:
+ -
+  organisation: The Coleopterists Society (<a href="http://coleopsoc.org/">http://coleopsoc.org)
+taxonomicScope: Jewel beetles
+confidence: 5
+completeness: 100
+license: cc by
+url: http://coleopsoc.org/buprestidae/index.html
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Jewel_Beetles.png
+source: []

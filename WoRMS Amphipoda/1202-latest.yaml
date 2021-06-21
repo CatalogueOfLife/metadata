@@ -1,0 +1,412 @@
+---
+type: taxonomic
+identifier: {}
+title: World Amphipoda Database
+alias: WoRMS Amphipoda
+description: The amphipods belong to the very diverse crustacean class Malacostraca,
+  which includes other common groups such as crabs, lobsters and shrimp. The order
+  Amphipoda is part of the superorder Peracarida, uniting a diverse group of small
+  shrimp-like taxa that brood their young in a pouch, with no independent larval dispersal
+  stage. It currently contains over 10k species
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Tammy
+  family: Horton
+  email: tammy.horton@noc.ac.uk
+creator:
+ -
+  given: T.
+  family: Horton
+ -
+  given: J.
+  family: Lowry
+ -
+  given: C.
+  family: De Broyer
+ -
+  given: D.
+  family: Bellan-Santini
+ -
+  given: C.O.
+  family: Coleman
+ -
+  given: L.
+  family: Corbari
+ -
+  given: M.J.
+  family: Costello
+ -
+  given: M.
+  family: Daneliya
+ -
+  family: Dauvin, J.-C.
+ -
+  given: C.
+  family: Fišer
+ -
+  given: R.
+  family: Gasca
+ -
+  given: M.
+  family: Grabowski
+ -
+  given: J.M.
+  family: Guerra-García
+ -
+  given: E.
+  family: Hendrycks
+ -
+  given: L.
+  family: Hughes
+ -
+  given: D.
+  family: Jaume
+ -
+  given: K.
+  family: Jazdzewski
+ -
+  family: Kim, Y.-H.
+ -
+  given: R.
+  family: King
+ -
+  given: T.
+  family: Krapp-Schickel
+ -
+  given: S.
+  family: LeCroy
+ -
+  family: Lörz, A.-N.
+ -
+  given: T.
+  family: Mamos
+ -
+  given: A.R.
+  family: Senna
+ -
+  given: C.
+  family: Serejo
+ -
+  given: B.
+  family: Sket
+ -
+  given: J.F.
+  family: Souza-Filho
+ -
+  given: A.H.
+  family: Tandberg
+ -
+  given: J.D.
+  family: Thomas
+ -
+  given: M.
+  family: Thurston
+ -
+  given: W.
+  family: Vader
+ -
+  given: R.
+  family: Väinölä
+ -
+  given: R.
+  family: Vonk
+ -
+  given: K.
+  family: White
+ -
+  given: W.
+  family: Zeidler
+editor:
+ -
+  given: Denise
+  family: Bellan-Santini
+  email: denise.bellan@univ-amu.fr
+ -
+  orcid: 0000-0002-3051-7575
+  given: Charles Oliver
+  family: Coleman
+  email: oliver.coleman@mfn-berlin.de
+ -
+  orcid: 0000-0002-3323-6162
+  given: Laure
+  family: Corbari
+  email: laure.corbari@mnhn.fr
+ -
+  orcid: 0000-0003-2362-0328
+  given: Mark
+  family: Costello
+  email: mark.j.costello@nord.no
+ -
+  given: Mikhail
+  family: Daneliya
+  email: mikhail.daneliya@helsinki.fi
+ -
+  orcid: 0000-0001-8361-5382
+  given: Jean-Claude
+  family: Dauvin
+  email: jean-claude.dauvin@unicaen.fr
+ -
+  given: Claude
+  family: De Broyer
+  email: cdebroyer@naturalsciences.be
+ -
+  given: Cene
+  family: Fišer
+  email: Cene.Fiser@bf.uni-lj.si
+ -
+  orcid: 0000-0002-9716-1964
+  given: Rebeca
+  family: Gasca
+  email: rgasca@ecosur.mx
+ -
+  orcid: 0000-0002-4551-3454
+  given: Michal
+  family: Grabowski
+  email: michalg@biol.uni.lodz.pl
+ -
+  orcid: 0000-0001-6050-4997
+  given: José Manuel
+  family: Guerra-García
+  email: jmguerra@us.es
+ -
+  given: Ed
+  family: Hendrycks
+  email: EHENDRYCKS@mus-nature.ca
+ -
+  orcid: 0000-0003-4250-1068
+  given: Tammy
+  family: Horton
+  email: tammy.horton@noc.ac.uk
+ -
+  given: Lauren
+  family: Hughes
+  email: l.hughes@nhm.ac.uk
+ -
+  orcid: 0000-0002-1857-3005
+  given: Damià
+  family: Jaume
+  email: damiajaume@imedea.uib-csic.es
+ -
+  given: Krzysztof
+  family: Jazdzewski
+  email: info@marinespecies.org
+ -
+  given: Young-Hyo
+  family: Kim
+  email: yhkim@dankook.ac.kr
+ -
+  orcid: 0000-0001-8089-7599
+  given: Rachael
+  family: King
+  email: Rachael.King@samuseum.sa.gov.au
+ -
+  given: Traudl
+  family: Krapp-Schickel
+  email: traudl.krapp@netcologne.de
+ -
+  given: Sara
+  family: LeCroy
+  email: sara.lecroy@usm.edu
+ -
+  given: Anne-Nina
+  family: Lörz
+  email: Anne-Nina.Loerz@uni-hamburg.de
+ -
+  given: Jim
+  family: Lowry
+  email: Jim.Lowry@austmus.gov.au
+ -
+  orcid: 0000-0002-0524-3015
+  given: Tomasz
+  family: Mamos
+  email: tmamos@biol.uni.lodz.pl
+ -
+  given: André
+  family: Senna
+  email: senna.carcinologia@gmail.com
+ -
+  orcid: 0000-0001-9132-5537
+  given: Cristiana
+  family: Serejo
+  email: csserejo@acd.ufrj.br
+ -
+  orcid: 0000-0002-7398-5483
+  given: Boris
+  family: Sket
+  email: boris.sket@bf.uni-lj.si
+ -
+  orcid: 0000-0001-5248-2134
+  given: Jesser F.
+  family: Souza-Filho
+  email: jesser_fidelis@yahoo.com.br
+ -
+  orcid: 0000-0003-3470-587X
+  given: Anne Helene
+  family: Tandberg
+  email: Anne.Helene.Tandberg@uib.no
+ -
+  given: James Darwin
+  family: Thomas
+  email: info@marinespecies.org
+ -
+  given: Mike
+  family: Thurston
+  email: mhth@noc.ac.uk
+ -
+  given: Wim
+  family: Vader
+  email: info@marinespecies.org
+ -
+  given: Risto
+  family: Väinölä
+  email: risto.vainola@helsinki.fi
+ -
+  given: Ronald
+  family: Vonk
+  email: ' ronald.vonk@naturalis.nl'
+ -
+  given: Kristine
+  family: White
+  email: white.kristinen@gmail.com
+ -
+  given: Wolfgang
+  family: Zeidler
+  email: wolfgang.zeidler@samuseum.sa.gov.au
+contributor:
+ -
+  country: FR
+  address: France
+  organisation: The National Center for Scientific Research Mediterranean Institute
+    of marine and terrestrial Biodiversity and Ecology
+ -
+  country: DE
+  address: Germany
+  organisation: Leibniz Institute for Evolution and Biodiversity Museum für Naturkunde
+ -
+  country: FR
+  address: France
+  organisation: National Natural History Museum Paris
+ -
+  country: "NO"
+  address: Norway
+  organisation: Nord University Faculty of Bioscience and Aquaculture
+ -
+  country: FI
+  address: Finland
+  organisation: University of Helsinki
+ -
+  country: FR
+  address: France
+  organisation: Université de Caen Morphodynamique Continentale et Côtière
+ -
+  country: BE
+  address: Belgium
+  organisation: Belgian National Committee on Antarctic Research
+ -
+  country: SI
+  address: Slovenia
+  organisation: University of Ljubljana; Biotechnical Faculty Department of Biology
+ -
+  country: SI
+  address: Slovenia
+  organisation: El Colegio de la Frontera Sur Department of Aquatic Ecology
+ -
+  country: SI
+  address: Slovenia
+  organisation: University of Lodz Dept. Invertebrate Zoology &amp; Hydrobiology
+ -
+  country: SI
+  address: Slovenia
+  organisation: University of Sevilla Laboratorio di Biologia Marina
+ -
+  country: CA
+  address: Canada
+  organisation: Canadian Museum of Nature
+ -
+  country: GB
+  address: United Kingdom
+  organisation: University of Southampton; National Oceanography Centre Ocean Biogeochemistry
+    and Ecosystems
+ -
+  country: GB
+  address: United Kingdom
+  organisation: Natural History Museum
+ -
+  country: ES
+  address: Spain
+  organisation: Universitat de les Illes Balears Instituto Mediterraneo de Estudios
+    Avanzados
+ -
+  organisation: WoRMS Editorial Board
+ -
+  organisation: Dankook University Department of Life Sciences
+ -
+  country: AU
+  address: Australia
+  organisation: South Australian Museum
+ -
+  country: DE
+  address: Germany
+  organisation: Zoologisches Forschungsinstitut und Museum Alexander Koenig
+ -
+  country: US
+  address: United States of America
+  organisation: The University of Southern Mississippi Gulf Coast Research Laboratory
+ -
+  country: US
+  address: United States of America
+  organisation: University of Hamburg Center of Natural History
+ -
+  country: AU
+  address: Australia
+  organisation: Australian Museum Marine Invertebrates
+ -
+  country: BR
+  address: Brazil
+  organisation: Centro Universitário de Volta Redonda
+ -
+  country: BR
+  address: Brazil
+  organisation: Universidade Federal do Estado do Rio de Janeiro Museu Nacional
+ -
+  country: BR
+  address: Brazil
+  organisation: Universidade Federal de Pernambuco Museu de Oceanografia &quot;Dr.
+    Petrônio Alves Coelho&quot;
+ -
+  country: "NO"
+  address: Norway
+  organisation: University of Bergen Bergen Museum
+ -
+  country: GB
+  address: United Kingdom
+  organisation: University of Southampton National Oceanography Centre
+ -
+  country: FI
+  address: Finland
+  organisation: University of Helsinki Finnish Museum of Natural History
+ -
+  country: NL
+  address: Netherlands
+  organisation: Naturalis Biodiversity Center
+ -
+  country: JP
+  address: Japan
+  organisation: University of Ryukyus
+ -
+  country: JP
+  address: Japan
+  organisation: South Australian Museum Department of Invertebrates
+ -
+  country: BE
+  address: Belgium
+  organisation: Vlaams Instituut voor de Zee
+geographicScope: Global
+taxonomicScope: Amphipoda
+confidence: 4
+completeness: 90
+license: cc by
+url: http://www.marinespecies.org/amphipoda
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

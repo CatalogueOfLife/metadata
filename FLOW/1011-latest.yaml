@@ -1,0 +1,36 @@
+---
+type: taxonomic
+identifier: {}
+title: Fulgoromorpha Lists On the Web
+alias: FLOW
+description: FLOW is an on-line database that aims to provide an easy-access synthesis
+  of available biological published primary data on planthoppers (Hemiptera, Fulgoromorpha),
+  a group of major economic importance. It includes information on names, taxa (including
+  fossils), and their classification but also on type depositories, bibliography,
+  distribution and associated biological information such as host-plants. FLOW provides
+  a dynamic link to MNHN Hemiptera specimen collection (particularly type specimens),
+  GBIF occurrences, and provides photos when already available. Dynamic syntheses
+  are also provided for all suprageneric taxa.
+issued: 2020-06-01
+version: 8
+contact:
+  family: thierry.bourgoin@mnhn.fr
+creator:
+ -
+  given: T.
+  family: Bourgoin
+contributor:
+ -
+  organisation: Muséum National d'Histoire Naturelle
+ -
+  organisation: Paris
+ -
+  organisation: France
+geographicScope: Global
+taxonomicScope: Planthoppers
+confidence: 4
+completeness: 95
+license: cc by
+url: http://hemiptera-databases.org/flow/
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/FLOW.png
+source: []

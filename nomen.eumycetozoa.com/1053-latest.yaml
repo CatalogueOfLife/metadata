@@ -1,0 +1,37 @@
+---
+type: taxonomic
+identifier: {}
+title: Nomenclatural Database of Eumycetozoa (Myxomycota)
+alias: nomen.eumycetozoa.com
+description: Eumycetozoa.com is an on-line taxonomic checklist and nomenclatural information
+  system of the Eumycetozoans of the world (Myxomycetes,Dictyostelids and Protostelids).  It
+  provides information on 1,272 species,2,502 synonyms and 1,011 invalid or doubtful
+  names employed in this group. The database can be searched by different ranks; it
+  can show the history of the name,all synonyms of the species,taxonomic views in
+  different publications,or the single view of the Eumycetozoa.com editors.
+issued: 2021-04-13
+version: 2021-04
+contact:
+  given: Carlos
+  family: Lado
+creator:
+ -
+  given: C.
+  family: Lado
+ -
+  given: J.C.
+  family: Hernández-Crespo
+contributor:
+ -
+  city: Madrid
+  country: ES
+  address: Madrid, Spain
+  organisation: Real Jardín Botánico de Madrid, CSIC
+geographicScope: Global
+taxonomicScope: Slime molds
+confidence: 5
+completeness: 97
+license: cc by
+url: https://eumycetozoa.com
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Nomen.eumycetozoa.com.png
+source: []

@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: Zoological-Botanical Database (Vespoidea)
+alias: ZOBODAT Vespoidea
+description: ZOBODAT is a digitally organised biogeographical database including facilities
+  for analysis, documentation and communication. Founded in 1972 by Univ.- Prof. Dr.
+  Ernst Rudolf Reichl, ZOBODAT was taken over by the federal county of Upper Austria
+  in 1999. It is located at the Biology Centre of the Museum of Upper Austria. The
+  original database includes information about the temporal and spatial distribution
+  of animal and plant species and various supporting information topics. Most of the
+  data traditionally refer to insects of Austria, but ZOBODAT can be used for all
+  groups of organisms and world-wide. ZOBODAT contributes world vespid wasps to the
+  Catalogue of Life.
+issued: 2011-10-14
+version: 4.0, Oct 2011
+contact:
+  given: J
+  family: Gusenleitner
+creator:
+ -
+  given: J.
+  family: Gusenleitner
+contributor:
+ -
+  organisation: Oberostereichisches Landesmuseum
+ -
+  organisation: Biologiezentrum
+ -
+  organisation: Linz
+ -
+  organisation: Austria
+taxonomicScope: Vespid wasps
+confidence: 4
+completeness: 95
+url: http://www.zobodat.at
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ZOBODAT_Vespoidea.png
+source: []

@@ -1,0 +1,27 @@
+---
+type: taxonomic
+identifier: {}
+title: World List of Cestoda
+alias: WoRMS Cestoda
+description: This global marine species list is part of the World Register of Marine
+  Species database, which aims to provide the most authoritative list of names of
+  all marine species globally. Data have been contributed to the Catalogue of Life
+  via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact: {}
+creator:
+ -
+  family: Bray, R. & Tyler, S.
+editor:
+ - {}
+contributor:
+ - {}
+geographicScope: Global
+taxonomicScope: ""
+confidence: 4
+completeness: 90
+license: cc by
+url: http://www.marinespecies.org
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []

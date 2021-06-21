@@ -1,0 +1,38 @@
+---
+type: taxonomic
+identifier: {}
+title: Mites GSD Ologamasidae
+alias: Mites GSD Ologamasidae
+description: Ologamasidae mites are cosmopolitan, edaphic and free-living. This data
+  base evolved as part of the Doctorate dissertation work conducted by the second
+  author and submitted to the Brazilian “Escola Superior de Agricultura Luiz de Queiroz
+  (ESALQ), Universidade de São Paulo (USP)”. It provides information on the 446 species
+  considered to belong to this family.
+issued: 2009-10-15
+version: Oct 2009
+contact:
+  given: G
+  family: de Moraes
+creator:
+ -
+  given: R.C.
+  family: Castilho
+ -
+  given: E.S.
+  family: Silva
+ -
+  family: Moraes G.J. de
+contributor:
+ -
+  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
+ -
+  organisation: Universidade de São Paulo
+ -
+  organisation: Brazil"
+geographicScope: Global
+taxonomicScope: Ologamasid mites
+confidence: 5
+completeness: 99
+license: other
+logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/OlogamasidBase.png
+source: []

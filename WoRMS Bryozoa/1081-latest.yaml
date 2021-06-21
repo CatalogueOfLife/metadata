@@ -1,0 +1,41 @@
+---
+type: taxonomic
+identifier: {}
+title: World List of Bryozoa
+alias: WoRMS Bryozoa
+description: This first ever world database of extant marine bryozoan species is the
+  result of long term accumulation of taxonomic information from the literature. It
+  is the most recent and up-to-date census of the taxon available. Data have been
+  contributed to the Catalogue of Life via the World Register of Marine Species (WoRMS),
+  hosted by the Flanders Marine Institute (VLIZ).
+issued: 2021-06-01
+version: ver. (06/2021)
+contact:
+  given: Phil
+  family: Bock
+  email: philbock1@gmail.com
+creator:
+ -
+  given: P.
+  family: Bock
+ -
+  given: D.
+  family: Gordon
+editor:
+ -
+  given: Phil
+  family: Bock
+  email: philbock1@gmail.com
+contributor:
+ -
+  country: AU
+  address: Australia
+  organisation: Museums Victoria
+geographicScope: Global
+taxonomicScope: Bryozoa
+confidence: 5
+completeness: 100
+license: cc by
+url: http://www.marinespecies.org
+logo: http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png
+source: []
