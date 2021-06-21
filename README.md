@@ -16,12 +16,44 @@ Review of the metadata will be split up by dataset name between
  - Olaf: R-S
  - Chantal: T-World Plants
 
-## Editing
-The latest.yaml file can be edited in any plain text editor.
-Suggest TextMate or SublimeText on a Max, xxx on Windows.
+## Editing in Visual Studio Code
+The latest.yaml file can be edited in any plain text editor like [TextMate](https://macromates.com) on a Max or xxx on Windows.
+We recommend [Visual Studio Code](https://code.visualstudio.com) though because it can validate the YAML to our [JSON schema](https://github.com/CatalogueOfLife/coldp/blob/master/metadata.json) and provide editing suggestions. It is freely available for both Mac & Windows.
+
+### Setting up VS Code
+Based on https://scottaddie.com/2016/08/02/community-driven-json-schemas-in-visual-studio-2015/
+
+In order to validate the yaml files we need to tell VS Code where our JSON schema is.
+This can be done on the VS Code Settings page.
+As we are creating a Schema for a YAML file, make sure you have the [YAML Extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) installed before continuing.
+
+First, download the metadata.json file to your local machine:
+https://github.com/CatalogueOfLife/coldp/blob/master/metadata.json
+
+Then, go to Code/File -> Preferences -> Settings (or use the Command Pallete) to open the settings page and search for yaml.
+Open the settings for the YAML extension and search for "Yaml: Schemas" and click "Edit in settings.json".
+
+![settings.png](https://res.cloudinary.com/practicaldev/image/fetch/s--yB3ULfC3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/cjyo0kkogh1dnf8s3y1y.png)
+
+The "settings.json" file will open. you need to search again for the "yaml.schemas" object. If it doesn´t exist yet, you will have to create it.
+
+This property represents a key-value, where the key is the absolute path to the schema file on our system and the value is a glob expression that specifies the files that the schema will be applied. On a mac it looks like this in my case. You will need to udpate to your local paths:
+
+```
+"yaml.schemas": {
+  "/Users/markus/Downloads/metadata.json": ".yaml",
+},
+
+```
+
+Save the file and reload VS Code to finish the process.
+
+If everything worked as expected, when we create a new .yaml file and press CTRL + Space, VS Code should then display the suggestions based on the schema we created for this file type.
+Note that, it could take some seconds for VS Code to index the schema in the first time.
+
 
 ## Validation
-You can check the validity of the YAML files here:
+You can also check the validity of the YAML files here by uploading or copy pasting your YAML file:
 https://data.dev.catalogueoflife.org/tools/metadata-validator
 
 ## Update data in github
