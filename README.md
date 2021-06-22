@@ -21,7 +21,7 @@ The latest.yaml file can be edited in any plain text editor like [TextMate](http
 We recommend [Visual Studio Code](https://code.visualstudio.com) though, because it can validate the YAML to our [JSON schema](https://github.com/CatalogueOfLife/coldp/blob/master/metadata.json) and provide editing suggestions. It is freely available for both Mac & Windows.
 
 ### Setting up VS Code
-Based on https://scottaddie.com/2016/08/02/community-driven-json-schemas-in-visual-studio-2015/
+Based on https://dev.to/brpaz/how-to-create-your-own-auto-completion-for-json-and-yaml-files-on-vs-code-with-the-help-of-json-schema-k1i and https://scottaddie.com/2016/08/02/community-driven-json-schemas-in-visual-studio-2015/
 
 In order to validate the yaml files we need to tell VS Code where our JSON schema is.
 This can be done on the VS Code Settings page.
@@ -40,8 +40,7 @@ The "settings.json" file will open. If it doesn´t exist yet, you will have to c
 Copy the following yaml and suggest settings to your VSCode settings. This will enable validation and auto suggestion for COL metadata for the `-latest.yaml` and `-patch.yaml` files. On a mac it looks like this in my case. You will need to udpate to your local schema path:
 
 ```
-    "javascript.suggest.names": false,
-    "editor.suggest.showWords": false,
+{
     "yaml.schemas": {
         "/Users/markus/Downloads/metadata.json": ["*-latest.yaml", "*-patch.yaml", "metadata.yaml"],
     },
@@ -50,6 +49,10 @@ Copy the following yaml and suggest settings to your VSCode settings. This will 
     "files.associations": {
         "*.yaml": "yaml"
     },
+    "javascript.suggest.names": false,
+    "editor.suggest.showWords": false,
+    "security.workspace.trust.untrustedFiles": "open",
+}
 ```
 
 Save the file and reload VS Code to finish the process.
