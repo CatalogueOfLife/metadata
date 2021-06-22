@@ -56,6 +56,12 @@ Save the file and reload VS Code to finish the process.
 
 If everything worked as expected, when we create a new metadata.yaml file and press CTRL + Space, VS Code should then display the suggestions based on the schema we created for this file type. Note that, it could take some seconds for VS Code to index the schema in the first time.
 
+## Editorial guidelines
+
+ - organisation address
+   - organisation should usually be the university whereas if it's an institute, museum or survey of the university, that should be the department. If there's more than one department, it should just be comma separted with smallest unit to largest.
+ - split agents if they contain multiple names
+ - issued date is ISO date 1999; 1999-01; 1999-01-21
 
 ## Validation
 You can also check the validity of the YAML files here by uploading or copy pasting your YAML file:
