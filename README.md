@@ -43,7 +43,7 @@ Copy the following yaml and suggest settings to your VSCode settings. This will 
     "javascript.suggest.names": false,
     "editor.suggest.showWords": false,
     "yaml.schemas": {
-        "/Users/markus/Downloads/metadata.json": ["*-latest.yaml", "*-patch.yaml"],
+        "/Users/markus/Downloads/metadata.json": ["*-latest.yaml", "*-patch.yaml", "metadata.yaml"],
     },
     "yaml.disableAdditionalProperties": true,
     "yaml.validate": true,
