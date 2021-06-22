@@ -8,14 +8,6 @@ Metadata.yaml files for all sources of COL. Each folder (named by the current al
  - `attempts.txt` (optional): in case the archived.yaml exists this file lists both import attempts (latest & archived)
 
 
-## Splitting up the Work
-Review of the metadata will be split up by dataset name between
-
- - Yuri: 3i - F
- - Geoff: G-P
- - Olaf: R-S
- - Chantal: T-World Plants
-
 ## Editing in Visual Studio Code
 The latest.yaml file can be edited in any plain text editor like [TextMate](https://macromates.com) on a Max or [Notepad++](https://notepad-plus-plus.org) on Windows.
 We recommend [Visual Studio Code](https://code.visualstudio.com) though, because it can validate the YAML to our [JSON schema](https://github.com/CatalogueOfLife/coldp/blob/master/metadata.json) and provide editing suggestions. It is freely available for both Mac & Windows.
