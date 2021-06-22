@@ -17,8 +17,8 @@ Review of the metadata will be split up by dataset name between
  - Chantal: T-World Plants
 
 ## Editing in Visual Studio Code
-The latest.yaml file can be edited in any plain text editor like [TextMate](https://macromates.com) on a Max or xxx on Windows.
-We recommend [Visual Studio Code](https://code.visualstudio.com) though because it can validate the YAML to our [JSON schema](https://github.com/CatalogueOfLife/coldp/blob/master/metadata.json) and provide editing suggestions. It is freely available for both Mac & Windows.
+The latest.yaml file can be edited in any plain text editor like [TextMate](https://macromates.com) on a Max or [Notepad++](https://notepad-plus-plus.org) on Windows.
+We recommend [Visual Studio Code](https://code.visualstudio.com) though, because it can validate the YAML to our [JSON schema](https://github.com/CatalogueOfLife/coldp/blob/master/metadata.json) and provide editing suggestions. It is freely available for both Mac & Windows.
 
 ### Setting up VS Code
 Based on https://scottaddie.com/2016/08/02/community-driven-json-schemas-in-visual-studio-2015/
