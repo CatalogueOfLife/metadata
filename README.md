@@ -25,10 +25,7 @@ Based on https://dev.to/brpaz/how-to-create-your-own-auto-completion-for-json-an
 
 In order to validate the yaml files we need to tell VS Code where our JSON schema is.
 This can be done on the VS Code Settings page.
-As we are creating a Schema for a YAML file, make sure you have the [YAML Extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) installed before continuing.
-
-First, download the `metadata.json` file to your local machine:
-https://github.com/CatalogueOfLife/coldp/blob/master/metadata.json
+Make sure you have the [YAML Extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) installed before continuing.
 
 Then, go to Code/File -> Preferences -> Settings (or use the Command Pallete) to open the settings page and search for yaml.
 Open the settings for the YAML extension and search for "Yaml: Schemas" and click "Edit in settings.json".
@@ -37,12 +34,12 @@ Open the settings for the YAML extension and search for "Yaml: Schemas" and clic
 
 The "settings.json" file will open. If it doesn´t exist yet, you will have to create it.
 
-Copy the following yaml and suggest settings to your VSCode settings. This will enable validation and auto suggestion for COL metadata for the `-latest.yaml` and `-patch.yaml` files. On a mac it looks like this in my case. You will need to udpate to your local schema path:
+Copy the following yaml and suggest settings to your VSCode settings. This will enable validation and auto suggestion for COL metadata for the `-latest.yaml`, `-patch.yaml` and `metadata.yaml` files:
 
 ```
 {
     "yaml.schemas": {
-        "/Users/markus/Downloads/metadata.json": ["*-latest.yaml", "*-patch.yaml", "metadata.yaml"],
+        "https://raw.githubusercontent.com/CatalogueOfLife/coldp/master/metadata.json": ["*-latest.yaml", "*-patch.yaml", "metadata.yaml"],
     },
     "yaml.disableAdditionalProperties": true,
     "yaml.validate": true,
@@ -57,7 +54,7 @@ Copy the following yaml and suggest settings to your VSCode settings. This will 
 
 Save the file and reload VS Code to finish the process.
 
-If everything worked as expected, when we create a new .yaml file and press CTRL + Space, VS Code should then display the suggestions based on the schema we created for this file type. Note that, it could take some seconds for VS Code to index the schema in the first time.
+If everything worked as expected, when we create a new metadata.yaml file and press CTRL + Space, VS Code should then display the suggestions based on the schema we created for this file type. Note that, it could take some seconds for VS Code to index the schema in the first time.
 
 
 ## Validation
