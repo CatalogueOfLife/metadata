@@ -24,22 +24,18 @@ creator:
 editor: []
 contributor:
  -
-  organisation: Department of Zoology & Entomology
- -
+  department: Department of Zoology & Entomology
+  city: Bloemfontein
   organisation: University of the Free State
+  country: ZA
  -
-  organisation: Bloemfontein
- -
-  organisation: Republic of South Africa; Departamento de Zoologia e Botanica
- -
-  organisation: Acarology laboratory
- -
-  organisation: UNESP - Sao Paulo State University
- -
-  organisation: Sao Paulo
- -
-  organisation: Brazil
+  department: Acarology Laboratory, Departamento de Zoologia e Botanica
+  city: Sao Paulo
+  organisation: Sao Paulo State University
+  country: BR
+
 taxonomicScope: Bdellid and cunaxid mites
+geographicScope: Global
 confidence: 5
 completeness: 100
 license: cc by

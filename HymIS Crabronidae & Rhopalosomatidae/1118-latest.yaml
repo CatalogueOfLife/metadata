@@ -1,6 +1,7 @@
 ---
+type: taxonomic
 identifier: {}
-title: Hymenoptera Information System, Crabronidae & Rhopalosomatidae
+title: Hymenoptera Information System
 alias: HymIS Crabronidae & Rhopalosomatidae
 description: The HymIS database provides the taxonomic backbone for a global information
   system on bees and wasps. Data for the families Pompilidae or Spider-hunting wasps
@@ -29,10 +30,9 @@ contributor:
  -
   organisation: Museum für Naturkunde - Leibniz Institute for Research on Evolution
     and Biodiversity
- -
-  organisation: Berlin
- -
-  organisation: Germany
+  city: Berlin
+  country: DE
+  rorid: https://ror.org/052d1a351
 geographicScope: Global
 taxonomicScope: Crabronids and rhopalosomatid wasps
 confidence: 5
@@ -40,3 +40,5 @@ completeness: 70
 license: cc by
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/HymIS.png
 source: []
+license: other
+url: http://www.hymis.net/

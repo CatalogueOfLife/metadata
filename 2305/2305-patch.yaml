@@ -1,7 +1,10 @@
 ---
 alias: Brassicaceae
 contributor:
- -
-  country: CA
-  address: Canada
+ - 
   organisation: Agriculture and Agri-Food Canada
+  country: CA
+taxonomicScope: Mustard or cabbage family
+geographicScope: global
+confidence: 5
+completeness: 95 

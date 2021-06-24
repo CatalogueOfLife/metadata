@@ -30,8 +30,7 @@ version: Jan 2019
 contact:
   given: Lars
   family: Söderström
-creator: []
-editor:
+creator:
  -
   given: L.
   family: Söderström
@@ -44,15 +43,16 @@ editor:
 contributor:
  -
   organisation: Norwegian University of Science and Technology (NTNU)
+  city: Trondheim
+  country: "NO"
  -
-  organisation: Trondheim
- -
-  organisation: Norway; Field Museum of Natural History
- -
-  organisation: Chicago IL
- -
-  organisation: USA
+  organisation: Field Museum of Natural History
+  city: Chicago
+  state: IL
+  country: US
+
 taxonomicScope: Liverworts, hornworts
+geographicScope: Global
 confidence: 5
 completeness: 100
 license: cc by

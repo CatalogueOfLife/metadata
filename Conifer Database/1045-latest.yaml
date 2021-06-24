@@ -26,11 +26,10 @@ creator:
 contributor:
  -
   organisation: Royal Botanic Garden
- -
-  organisation: Edinburgh
- -
-  organisation: UK
+  city: Edinburgh
+  country: UK
 taxonomicScope: Conifers
+geographicScope: Global
 confidence: 5
 completeness: 100
 license: cc by

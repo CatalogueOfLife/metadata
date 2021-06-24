@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: Global Taxonomic Database of Gracillariidae
 alias: Global Gracillariidae
@@ -22,16 +23,15 @@ creator:
   family: De Prins
 contributor:
  -
-  organisation: Belgian Biodiversity Platform
- -
+  department: Belgian Biodiversity Platform
   organisation: Royal Museum for Central Africa
- -
-  organisation: Tervuren
- -
-  organisation: Belgium
+  city: Tervuren
+  country: BE
 taxonomicScope: Gracillariid moths
 confidence: 5
 completeness: 100
 url: http://www.gracillariidae.net
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Global_Gracillariidae.png
 source: []
+geographicScope: Global
+license: other

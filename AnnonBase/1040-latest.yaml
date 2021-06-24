@@ -16,13 +16,17 @@ contact:
   given: Heimo
   family: Rainer
 creator:
- -
-  given: (eds)
-  family: Rainer H. & Chatrou L.W.
+-
+  given: H.
+  family: Rainer
+-
+  given: L.W.
+  family: Chatrou
 contributor:
  -
   organisation: Annonaceae Working Group
 taxonomicScope: Custard apples
+geographicScope: Global
 confidence: 5
 completeness: 100
 license: cc by

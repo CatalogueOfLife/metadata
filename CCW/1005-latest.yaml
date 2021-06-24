@@ -2,7 +2,7 @@
 identifier: {}
 title: Catalogue of Craneflies of the World
 alias: CCW
-description: The Catalogue of the Craneflies of the World (CCW; ccw.naturalis.nl)
+description: The Catalogue of the Craneflies of the World (CCW)
   covers all genera, subgenera, species, subspecies, and synonyms of the World Tipuloidea
   (Insecta – Diptera – Nematocera – families Pediciidae, Limoniidae, Cylindrotomidae,
   Tipulidae). It also includes up to date information on the distribution of the species
@@ -22,7 +22,6 @@ contributor:
  -
   city: Leiden
   country: NL
-  address: Leiden, Netherlands
   organisation: Naturalis Biodiversity Center
 geographicScope: Global
 taxonomicScope: Craneflies

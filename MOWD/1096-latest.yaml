@@ -10,9 +10,7 @@ description: MOWD includes almost all valid names of Membracoidea worldwide. Syn
   assistance from Dr. Christopher Dietrich (Illinois Natural History Survey).
 issued: 2010-11-23
 version: 1011, Nov 2010
-contact:
-  given: D
-  family: Ouvrard
+
 creator:
  -
   given: S.
@@ -20,14 +18,13 @@ creator:
 editor: []
 contributor:
  -
+department: Systematc Entomology Laboratory
+  city: Washington
+  state: DC
+  country: US
   organisation: USDA Agricultural Research Service
- -
-  organisation: Systematc Entomology Laboratory
- -
-  organisation: Washington DC
- -
-  organisation: USA
 taxonomicScope: Treehoppers and leafhoppers
+geographicScope: Global
 confidence: 4
 completeness: 95
 license: cc0

@@ -13,21 +13,18 @@ version: 1.01, May 2006
 contact:
   given: Alessandro
   family: Minelli
-creator: []
-editor:
+creator:
  -
   given: A.
   family: Minelli
 contributor:
  -
-  organisation: Department of Biology
- -
+  department: Department of Biology
   organisation: University of Padova
- -
-  organisation: Padova
- -
-  organisation: Italy
+  city: Padova
+  country: IT
 taxonomicScope: Centipedes
+geographicScope: Global
 confidence: 5
 completeness: 100
 license: cc by

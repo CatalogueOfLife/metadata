@@ -13,7 +13,9 @@ description: The Paleobiology Database (PaleoBioDB) is a non-governmental, non-p
 issued: 2018-02-16
 version: Feb 2018
 contact:
-  family: Matthew Clapham <sec@paleobiodb.org>, Mark Uhen <muhen@gmu.edu>
+  family: Clapham
+  given: Matthew
+  email: sec@paleobiodb.org
 creator:
  -
   family: Paleobiology Database contributors
@@ -21,7 +23,8 @@ editor: []
 contributor:
  -
   organisation: The Paleobiology Database Executive Committee
-taxonomicScope: Trilobites, belemnites
+geographicScope: Global
+taxonomicScope: Ammonites, belemnites, trilobites
 confidence: 4
 completeness: 0
 license: cc by

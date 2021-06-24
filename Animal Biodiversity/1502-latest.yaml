@@ -9,8 +9,6 @@ description: 'Full citations: Zhang Z.-Q., ed. (2013). Animal Biodiversity: An O
   of higher-level classification and survey of taxonomic richness. Zootaxa 3148: 1-237.'
 issued: 2013-08-13
 version: 2013
-contact:
-  family: n/a
 editor:
  -
   given: Z.Q.
@@ -21,7 +19,6 @@ contributor:
 geographicScope: Global
 taxonomicScope: Animal classification
 confidence: 5
-completeness: 0
 license: cc by
 url: http://www.mapress.com/zootaxa/list/2013/3703%281%29.html
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Animal_biodiversity.png

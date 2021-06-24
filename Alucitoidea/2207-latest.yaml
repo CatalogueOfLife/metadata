@@ -2,11 +2,11 @@
 identifier: {}
 title: Catalogue of the Alucitoidea of the World
 alias: Alucitoidea
-description: This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea
+description: 'This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea
   (Lepidoptera) (World Catalogue of Insects, volume 4). The database has been edited
   for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version
   of the dataset is presented as a web document at https://alucitoidea.hobern.net/.
-  Version 1.0 includes updates to reflect recent changes in taxonomy and new species.
+  Version 1.0 includes updates to reflect recent changes in taxonomy and new species.'
 issued: 2021-02-17
 version: 1.0.2148 (17 Feb 2021)
 contact:

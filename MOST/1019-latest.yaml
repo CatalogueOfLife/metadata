@@ -12,7 +12,7 @@ version: 1, Jul 2004
 contact:
   given: Bob
   family: Magill
-editor:
+creator:
  -
   given: M.R.
   family: Crosby
@@ -21,11 +21,10 @@ editor:
   family: Magill
 contributor:
  -
+  city: St. Louis
+  state: MO
+  country: US
   organisation: Missouri Botanical Garden
- -
-  organisation: St Louis
- -
-  organisation: USA
 geographicScope: Global
 taxonomicScope: Mosses
 confidence: 4

@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: The Interim Register of Marine and Nonmarine Genera
 alias: IRMNG
@@ -11,6 +12,8 @@ description: The Interim Register of Marine and Nonmarine Genera is a provisiona
 issued: 2021-05-11
 version: 2021-05
 contact:
+  given: Tony
+  family: Rees
   email: info@irmng.org
 creator:
  -
@@ -18,9 +21,14 @@ creator:
   family: Rees
 contributor:
  -
-  organisation: Rees, T. (compiler)
+  family: Rees
+  given: T.
+  notes: Compiler
  -
-  organisation: The Interim Register of Marine and Nonmarine Genera
+  department: Flanders Marine Institute (VLIZ)
+  city: Oostende
+  country: BE
+  organisation: Flanders Marine Institute (VLIZ)
 geographicScope: Global
 taxonomicScope: Biota
 confidence: 4

@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: World Database of Legumes
 alias: ILDIS
@@ -7,8 +8,8 @@ description: The International Legume Database and Information Service (ILDIS) i
   a biodiversity database for the Leguminosae (Fabaceae) family. The database provides
   a taxonomic checklist plus basic factual data on distribution, common names, life-forms,
   uses, literature references to descriptions, illustrations and maps. Now database
-  includes contribution from "ILDIS for i4Life" dataset by M. Novoselova, 2013. In
-  2000 - 2013, ILDIS was funded by institutions including the Global Biodiversity
+  includes contribution from "ILDIS for i4Life" dataset by M. Novoselova, 2013.
+  In 2000 - 2013, ILDIS was funded by institutions including the Global Biodiversity
   Information Facility (GBIF), the University of Reading, the Catalogue of Life (CoL),
   and European Commission projects for taxonomic infrastructures (EuroCat, 4D4Life
   and i4Life).

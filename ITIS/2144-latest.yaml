@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: The Integrated Taxonomic Information System
 alias: ITIS
@@ -12,10 +13,12 @@ description: The Integrated Taxonomic Information System (ITIS, www.itis.gov) wa
 issued: 2021-05-26
 version: 2021-05-26
 contact:
-  family: itiswebmaster@itis.gov
+  email: itiswebmaster@itis.gov
 creator: []
 editor: []
-contributor: []
+contributor:
+ -
+  organisation: The Integrated Taxonomic Information System
 geographicScope: Global & Regional
 taxonomicScope: Biota
 confidence: 5

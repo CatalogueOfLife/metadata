@@ -18,14 +18,14 @@ creator:
   given: R.C.
   family: Castilho
  -
-  family: Moraes G.J. de
+  given:  G.J.
+  family: de Moraes
 contributor:
  -
-  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
- -
+  department: Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)
   organisation: Universidade de São Paulo
- -
-  organisation: Brazil"
+  city: São Paulo
+  country: BR
 geographicScope: Global
 taxonomicScope: Rhodacarid mites
 confidence: 5

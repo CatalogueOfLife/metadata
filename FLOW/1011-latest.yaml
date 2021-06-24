@@ -13,7 +13,8 @@ description: FLOW is an on-line database that aims to provide an easy-access syn
 issued: 2020-06-01
 version: 8
 contact:
-  family: thierry.bourgoin@mnhn.fr
+  given: Thierry
+  family: Bourgoin
 creator:
  -
   given: T.
@@ -21,10 +22,8 @@ creator:
 contributor:
  -
   organisation: Muséum National d'Histoire Naturelle
- -
-  organisation: Paris
- -
-  organisation: France
+  city: Paris
+  country: FR
 geographicScope: Global
 taxonomicScope: Planthoppers
 confidence: 4

@@ -5,21 +5,20 @@ alias: Microsporidia
 issued: 2015-11-22
 version: Nov 2015
 contact:
-  family: Dr Paul M. Kirk
+  given: Paul
+  family: Kirk
 creator:
  -
   given: P.M.
   family: Kirk
 contributor:
  -
-  organisation: Royal Botanic Gardens Kew
- -
-  organisation: Richmond
- -
-  organisation: Surrey
- -
-  organisation: UK
+  organisation: Royal Botanic Gardens, Kew
+  city: Richmond
+  state: Surrey
+  country: UK
 taxonomicScope: Microsporidians
+geographicScope: Global
 confidence: 2
 completeness: 95
 license: cc by

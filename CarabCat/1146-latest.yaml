@@ -2,9 +2,7 @@
 identifier: {}
 title: Global database of ground beetles
 alias: CarabCat
-description: CarabCat is a global database of ground beetles (Coleoptera Carabidae,
-  sensu lato) developed by W.Lorenz, Faunaplan, based on the second printed edition
-  of 'Nomina Carabidarum' (Lorenz 2005a) and including updates.
+description: "CarabCat is a global database of ground beetles (Coleoptera: Carabidae, sensu lato) developed by W. Lorenz, Faunaplan, based on the second printed edition of 'Nomina Carabidarum' (Lorenz, 2005) and including updates."
 issued: 2017-10-25
 version: Oct 2017
 contact:
@@ -18,11 +16,10 @@ editor: []
 contributor:
  -
   organisation: Faunaplan (Büro & Verlag für Faunistik und Umweltplanung)
- -
-  organisation: Tutzing
- -
-  organisation: Germany
+  city: Tutzing
+  country: DE
 taxonomicScope: Ground beetles
+geographicScope: Global
 confidence: 4
 completeness: 99
 license: cc by

@@ -9,7 +9,8 @@ description: The Parhost World Database of Fleas is a complete electronic taxono
 issued: 2005-11-14
 version: 2, Nov 2005
 contact:
-  family: S Medvedev, A Lobanov
+  given: Sergey
+  family: Medvedev
 creator:
  -
   given: S.
@@ -22,16 +23,15 @@ creator:
   family: Lyangouzov
 contributor:
  -
-  organisation: Zoological Institute
- -
   organisation: Russian Academy of Sciences
- -
-  organisation: St Petersburg
- -
-  organisation: Russia
+  department: Zoological Institute
+  city: St. Petersburg
+  country: RU
 taxonomicScope: Fleas
+geographicScope: Global
 confidence: 4
 completeness: 99
 url: http://www.zin.ru/Animalia/Siphonaptera
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Parhost.png
 source: []
+license: other

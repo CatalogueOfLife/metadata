@@ -35,9 +35,11 @@ editor:
   family: Turiault
 contributor:
  -
-  organisation: Museum für Naturkunde - Leibniz Institute for Research on Evolution
-    and Biodiversity
+  city: Berlin
+  Country: DE
+  organisation: Museum für Naturkunde, Leibniz Institute for Research on Evolution and Biodiversity
 taxonomicScope: Hairstreaks, blues, coppers, swallowtails and whites
+geographicScope: Global
 confidence: 5
 completeness: 100
 url: http://www.globis.insects-online.de/

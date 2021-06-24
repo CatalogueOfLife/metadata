@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: ICTV Master Species List
 alias: ICTV MSL
@@ -21,10 +22,11 @@ description: |-
 issued: 2020-04-23
 version: MSL35, 2019, v1
 contact:
-  family: info@ictvonline.org
+  email: info@ictvonline.org
 creator:
  -
-  family: Davison, Andrew J.
+  given: Andrew J.
+  family: Davison
  -
   given: Stuart
   family: Siddell
@@ -32,23 +34,29 @@ creator:
   given: Arcady
   family: Mushegian
  -
-  family: Walker, Peter J.
+  given: Peter J.
+  family: Walker
  -
-  family: Lefkowitz, Elliot J.
+  given: Elliot J.
+  family: Lefkowitz
  -
-  family: Adriaenssens, Evelien
+  given: Evelien
+  family: Adriaenssens
  -
   given: Balázs
   family: Harrach
  -
-  family: Kuhn, Jens H.
+  given: Jens H.
+  family: Kuhn
  -
-  family: Knowles, Nick J.
+  given: Nick J.
+  family: Knowles
  -
   given: Peter
   family: Simmonds
  -
-  family: Zerbini, F. Murilo
+  given: F. Murilo
+  family: Zerbini
  -
   given: Bas
   family: Dutilh
@@ -62,7 +70,8 @@ creator:
   given: Mart
   family: Krupovic
  -
-  family: Nibert, Max L.
+  given: Max L.
+  family: Nibert
  -
   given: Luisa
   family: Rubino
@@ -77,9 +86,9 @@ contributor:
   organisation: International Committee on Taxonomy of Viruses (ICTV)
 geographicScope: Global
 taxonomicScope: Viruses
-confidence: 5
 completeness: 100
 license: cc by
 url: https://talk.ictvonline.org/taxonomy/w/ictv-taxonomy
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ICTV_MSL.png
 source: []
+confidence: 5

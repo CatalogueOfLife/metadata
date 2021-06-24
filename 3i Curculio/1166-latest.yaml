@@ -21,14 +21,12 @@ creator:
 editor: []
 contributor:
  -
-  organisation: Natural History Museum
- -
+  department: Natural History Museum
+  city: Oslo
+  country: NO
   organisation: University of Oslo
- -
-  organisation: Oslo
- -
-  organisation: Norway
 taxonomicScope: Broad-nosed weevils
+geographicScope: Global
 confidence: 4
 completeness: 90
 license: cc by

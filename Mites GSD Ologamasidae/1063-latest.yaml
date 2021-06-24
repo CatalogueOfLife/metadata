@@ -10,7 +10,7 @@ description: Ologamasidae mites are cosmopolitan, edaphic and free-living. This 
 issued: 2009-10-15
 version: Oct 2009
 contact:
-  given: G
+  given: Gilberto
   family: de Moraes
 creator:
  -
@@ -20,14 +20,14 @@ creator:
   given: E.S.
   family: Silva
  -
-  family: Moraes G.J. de
+  given:  G.J.
+  family: de Moraes
 contributor:
  -
-  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
- -
+  department: Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)
   organisation: Universidade de São Paulo
- -
-  organisation: Brazil"
+  city: São Paulo
+  country: BR
 geographicScope: Global
 taxonomicScope: Ologamasid mites
 confidence: 5

@@ -11,7 +11,8 @@ description: The Checklist of the Collembola of the World constitutes a comprehe
 issued: 2020-05-15
 version: Apr 2020
 contact:
-  family: Anton Potapov for Frans Janssens
+  family: Potapov
+  given: Anton
 creator:
  -
   given: P.F.
@@ -23,9 +24,6 @@ creator:
   given: F.
   family: Janssens
 editor: []
-contributor:
- -
-  organisation: Individual custodian
 geographicScope: Global
 taxonomicScope: Springtails
 confidence: 4

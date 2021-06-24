@@ -11,7 +11,7 @@ description: The Phytoseiidae are predatory mites found mostly on plants, playin
 issued: 2009-09-24
 version: Sep 2009
 contact:
-  given: G
+  given: Gilberto
   family: de Moraes
 creator:
  -
@@ -21,17 +21,17 @@ creator:
   given: J.P.Z.
   family: Narita
  -
-  family: Moraes G.J. de
+  given:  G.J.
+  family: de Moraes
  -
   given: J.A.
   family: McMurtry
 contributor:
  -
-  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
- -
+  department: Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)
   organisation: Universidade de São Paulo
- -
-  organisation: Brazil"
+  city: São Paulo
+  country: BR
 geographicScope: Global
 taxonomicScope: Phytoseiid mites
 confidence: 5

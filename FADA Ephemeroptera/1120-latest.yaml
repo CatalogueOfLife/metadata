@@ -6,12 +6,9 @@ description: The checklist is supplied for the Catalogue of Life by FADA project
   FADA, the Freshwater Animal Diversity Assessment is an informal network of scientists
   specialized in freshwater biodiversity. Barber-James, H., Sartori, M., Gattolliat,
   J-L. and J. Webb, 2013 Jan 21, World checklist of freshwater Ephemeroptera species.
-  World Wide Web electronic publication. Available online at http://fada.biodiversity.be/group/show/35
-  [date accessed].
+
 issued: 2013-02-07
 version: Feb 2013
-contact:
-  family: H. Barber-James, M. Sartori ,  J.L. Gattolliat
 creator:
  -
   given: H.
@@ -20,7 +17,8 @@ creator:
   given: M.
   family: Sartori
  -
-  family: Gattolliat J.-L.
+  given: J.-L.
+  family: Gattolliat
  -
   given: J.
   family: Webb
@@ -29,6 +27,7 @@ contributor:
  -
   organisation: Freshwater Animal Diversity Assessment project (FADA)
 taxonomicScope: Mayflies
+geographicScope: Global
 confidence: 4
 completeness: 95
 license: cc by

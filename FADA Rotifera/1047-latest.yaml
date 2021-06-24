@@ -1,12 +1,12 @@
 ---
 identifier: {}
-title: Annotated checklist of the rotifers (Phylum Rotifera)
+title: Annotated checklist of the rotifers (phylum Rotifera)
 alias: FADA Rotifera
 description: A taxonomic database of accepted and the most commonly used synonyms
   in the phylum Rotifera with information on biogeography. The database was prepared
   under the Freshwater Animal Diversity Assessment project. This version supplied
   for the Catalogue of Life by FADA is based on a print version, published in the
-  journal Zootaxa (see<ahref="http://www.mapress.com/zootaxa/list/2007/2007-08.html#Zootaxa%201564"target="_blank">http://www.mapress.com/zootaxa/list/2007/2007-08.html#Zootaxa%201564or<ahref="http://www.mapress.com/zootaxa/2007f/zt01564p104.pdf"target="_blank">http://www.mapress.com/zootaxa/2007f/zt01564p104.pdf.
+  journal Zootaxa. 
   Users are urged to use and cite this printed version.
 issued: 2012-12-11
 version: May 2012
@@ -19,18 +19,15 @@ creator:
   family: Segers
 contributor:
  -
-  organisation: FADA project
- -
-  organisation: Belgian Biodiversity Platform
- -
+  department: FADA project, Belgian Biodiversity Platform
   organisation: Royal Belgian Institute of Natural Sciences
- -
-  organisation: Brussels
- -
-  organisation: Belgium
+  city: Brussels
+  country: BE
 taxonomicScope: Rotifers
+geographicScope: Global
 confidence: 4
 completeness: 95
+license: other
 url: https://web.archive.org/web/20180623061106/http%3A//fada.biodiversity.be/group/show/4
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/FADA_Rotifera.png
 source: []

@@ -19,16 +19,15 @@ creator:
   family: Aescht
 contributor:
  -
+  department: Biologiezentrum
+  city: Linz
   organisation: Oberostereichisches Landesmuseum
- -
-  organisation: Biologiezentrum
- -
-  organisation: Linz
- -
-  organisation: Austria
+  country: AT
 taxonomicScope: Ciliates
+geographicScope: Global
 confidence: 4
 completeness: 60
+license: other
 url: http://www.zobodat.at
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/CilCat.png
 source: []

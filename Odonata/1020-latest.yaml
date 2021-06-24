@@ -14,19 +14,19 @@ description: The Global Species Database of Odonata is a list of all names of ex
 issued: 2011-12-24
 version: Dec 2011
 contact:
-  given: J
+  given: Jan
   family: van Tol
 creator:
  -
-  family: Tol J. van
+  given: J.
+  family: van Tol
 contributor:
  -
   organisation: Naturalis Biodiversity Centre
- -
-  organisation: Leiden
- -
-  organisation: The Netherlands
+  city: Leiden
+  country: NL
 taxonomicScope: Dragonflies and damselflies
+geographicScope: Global
 confidence: 5
 completeness: 99
 license: cc by

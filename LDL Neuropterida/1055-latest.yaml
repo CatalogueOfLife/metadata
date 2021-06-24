@@ -1,8 +1,9 @@
 ---
+type: taxonomic
 identifier: {}
 title: Neuropterida Species of the World
 alias: LDL Neuropterida
-description: '"The Neuropterida Species of the World (NSW) catalogue documents fundamental
+description: 'The Neuropterida Species of the World (NSW) catalogue documents fundamental
   taxonomic, nomenclatural, distributional (geographic, chronostratigraphic, lithostratigraphic),
   and related information for extant and extinct Neuropterida species on a global
   scale. The catalogue forms one of the fundamental modules of the Lacewing Digital
@@ -11,7 +12,7 @@ description: '"The Neuropterida Species of the World (NSW) catalogue documents f
   focused on the taxonomy and nomenclature of extant and extinct neuropterid species,
   together with associated bibliographic information. For more complete information
   on neuropterid names and taxa, including extensive information on types, search
-  the on-line version of the NSW at <a href="http://lacewing.tamu.edu/Species-Catalogue/scspeciescatalogue.cfm">http://lacewing.tamu.edu/Species-Catalogue/scspeciescatalogue.cfm."'
+  the on-line version of the NSW at <a href="http://lacewing.tamu.edu/Species-Catalogue/scspeciescatalogue.cfm">http://lacewing.tamu.edu/Species-Catalogue/scspeciescatalogue.cfm</a>.'
 issued: 2018-07-23
 version: Jul 2018
 contact: {}
@@ -22,13 +23,11 @@ creator:
 editor: []
 contributor:
  -
-  organisation: Department of Entomology
- -
+  department: Department of Entomology
   organisation: Texas A&M University
- -
-  organisation: Texas
- -
-  organisation: USA
+  city: College Station
+  state: Texas
+  country: US
 geographicScope: Global
 taxonomicScope: Lacewings, antlions, owlflies, fishflies, dobsonflies, snakeflies
   and relatives

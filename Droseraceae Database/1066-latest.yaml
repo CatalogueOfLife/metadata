@@ -22,16 +22,12 @@ creator:
   family: Yesson
 contributor:
  -
-  organisation: Centre for Plant Diversity and Systematics
- -
-  organisation: School of Biological Sciences
- -
-  organisation: The University of Reading
- -
-  organisation: Reading
- -
-  organisation: UK
+  department: Centre for Plant Diversity and Systematics, School of Biological Sciences
+  city: Reading
+  country: UK
+  organisation: University of Reading
 taxonomicScope: Sundew family
+geographicScope: Global
 confidence: 4
 completeness: 95
 license: cc by

@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: Moss Bug Base
 alias: MBB
@@ -19,13 +20,13 @@ creator:
 contributor:
  -
   organisation: Naturhistorisches Museum
- -
-  organisation: Basel
- -
-  organisation: Switzerland
+  city: Basel
+  country: Switzerland
 taxonomicScope: Moss bugs
 confidence: 5
 completeness: 100
 url: http://rameau.snv.jussieu.fr/cgi-bin/coleorrhyncha.pl
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/MBB.png
 source: []
+license: other
+geographicScope: Global

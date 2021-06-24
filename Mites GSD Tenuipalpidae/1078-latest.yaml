@@ -10,7 +10,7 @@ description: The Tenuipalpidae are phytophagous mites found worldwide. Some of t
 issued: 2009-11-24
 version: Nov 2009
 contact:
-  given: G
+  given: Gilberto
   family: de Moraes
 creator:
  -
@@ -29,26 +29,27 @@ creator:
   given: R.C.
   family: Castilho
  -
-  family: Moraes G.J. de
+  given:  G.J.
+  family: de Moraes
 contributor:
  -
-  organisation: '"Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)'
- -
+  department: Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)
   organisation: Universidade de São Paulo
+  city: São Paulo
+  country: BR
  -
-  organisation: Brazil; Universidad Nacional de Colombia sede Palmira
+  organisation: Universidad Nacional de Colombia sede Palmira
+  department: Facultad de Ciencias Agropecuárias
+  country: CO
  -
-  organisation: Facultad de Ciencias Agropecuárias
- -
-  organisation: Colombia; Systematic Entomology Laboratory
- -
+  department: Systematic Entomology Laboratory
   organisation: US Department of Agriculture
+  country: US
  -
-  organisation: USA; Florida Department of Agriculture & Consumer Services
- -
-  organisation: Division of Plant Industry; US Department of Agriculture
- -
-  organisation: USA"
+  organisation: Florida Department of Agriculture & Consumer Services
+  department: Division of Plant Industry
+  country: US
+
 geographicScope: Global
 taxonomicScope: Tenuipalpid mites
 confidence: 5

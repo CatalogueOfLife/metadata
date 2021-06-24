@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: The World of Jewel Beetles
 alias: Jewel Beetles
@@ -16,15 +17,17 @@ contact:
   family: Nearns
 creator:
  -
-  given: C.L. (†)
+  given: C.L.
   family: Bellamy
 contributor:
  -
-  organisation: The Coleopterists Society (<a href="http://coleopsoc.org/">http://coleopsoc.org)
+  organisation: The Coleopterists Society 
+  url: http://coleopsoc.org
 taxonomicScope: Jewel beetles
 confidence: 5
 completeness: 100
+geographicScope: Global
 license: cc by
-url: http://coleopsoc.org/buprestidae/index.html
+url: https://cerambycids.com/buprestidae/index.html
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Jewel_Beetles.png
 source: []

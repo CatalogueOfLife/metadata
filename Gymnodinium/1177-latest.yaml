@@ -1,4 +1,5 @@
 ---
+type: taxonomic
 identifier: {}
 title: The dinoflagellate genus Gymnodinium checklist
 alias: Gymnodinium
@@ -16,12 +17,11 @@ creator:
   given: A.
   family: Thessen
 editor: []
-contributor:
- -
-  organisation: Individual custodian
 confidence: 5
 completeness: 100
 license: cc0
 url: https://github.com/diatomsRcool/gymnodiniales
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Gymnodinium.png
 source: []
+geographicScope: Global
+license: other

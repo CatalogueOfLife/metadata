@@ -25,12 +25,13 @@ creator:
   family: Takiya
 contributor:
  -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA
+  department: Illinois Natural History Survey
+  city: Champaign
+  state: IL
+  country: US
+  organisation: University of Illinois
 taxonomicScope: Cicadas, leafhoppers & treehoppers
+geographicScope: Global
 confidence: 4
 completeness: 90
 license: cc0

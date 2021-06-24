@@ -23,11 +23,10 @@ editor: []
 contributor:
  -
   organisation: National Museum
- -
-  organisation: Prague
- -
-  organisation: Czech Republic
+  city: Prague
+  country: CZ
 taxonomicScope: Ginkgos
+geographicScope: Global
 confidence: 5
 completeness: 100
 license: cc0

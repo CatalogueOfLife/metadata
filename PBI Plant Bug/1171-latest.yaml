@@ -1,12 +1,12 @@
 ---
 identifier: {}
-title: 'On-line Systematic Catalog of Plant Bugs (Insecta: Heteroptera: Miridae)'
+title: On-line Systematic Catalog of Plant Bugs (Insecta - Heteroptera - Miridae)
 alias: PBI Plant Bug
-description: 'The Planetary Biodiversity Inventory (PBI) for Plant Bugs provides a
-  resource about the global plant bug subfamilies Orthotylinae and Phylinae (Insecta:
-  Heteroptera: Miridae) to systematists, insect ecologists, conservation biologists,
+description: The Planetary Biodiversity Inventory (PBI) for Plant Bugs provides a
+  resource about the global plant bug subfamilies Orthotylinae and Phylinae (Insecta -
+  Heteroptera - Miridae) to systematists, insect ecologists, conservation biologists,
   the general public, and students via the Internet. The database was made possible
-  with the generous support from the National Science Foundation in 2003-2011.'
+  with the generous support from the National Science Foundation in 2003-2011.
 issued: 2016-01-11
 version: Mar 2013
 contact:
@@ -18,13 +18,14 @@ creator:
 contributor:
  -
   organisation: The American Museum of Natural History
- -
-  organisation: New York NY
- -
-  organisation: USA
+  city: New York
+  state: NY
+  country: US
 taxonomicScope: Plant bugs
+geographicScope: Global
 confidence: 5
 completeness: 100
+license: other
 url: http://research.amnh.org/pbi/index.html
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/PBI_Plant_Bug.png
 source: []

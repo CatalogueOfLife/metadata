@@ -21,7 +21,7 @@ description: FishBase is a global information system with extensive information 
 issued: 2018-02-15
 version: Feb 2018
 contact:
-  given: R (FishBase Consortium Scientific Coordinator)
+  given: Rainer
   family: Froese
 editor:
  -
@@ -32,8 +32,27 @@ editor:
   family: Pauly
 contributor:
  -
-  organisation: FIN; WorldFish; FAO; IFM-GEOMAR; MNHN; RMCA; NRM; FC-UBC; AUTH; CAFS
+  organisation: Quantitative Aquatics (Q-quatics)
+ -
+  organisation: WorldFish
+ -
+  organisation: FAO
+ -
+  organisation: IFM-GEOMAR
+ -
+  organisation: MNHN
+ -
+  organisation: RMCA
+ -
+  organisation: NRM
+ -
+  organisation: FC-UBC
+ -
+  organisation: AUTH
+ -
+  organisation: CAFS
 taxonomicScope: Fishes
+geographicScope: Global
 confidence: 4
 completeness: 99
 license: cc by
