@@ -17,18 +17,18 @@ creator:
  -
   given: A.
   family: Schmidt-Rhaesa
-editor: []
 contributor:
  -
-  organisation: Zoological Museum
- -
+  department: Zoological Museum
+  city: Hamburg
   organisation: University Hamburg
- -
-  organisation: Germany
+  country: DE
 taxonomicScope: Freshwater hairworms
+geographicScope: Global
 confidence: 5
 completeness: 100
 license: cc by
 url: https://web.archive.org/web/20180320182846/http%3A//fada.biodiversity.be/group/show/7
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/FADA_Nematomorpha.png
 source: []
+
