@@ -10,27 +10,31 @@ description: Database started in 1986 with Cerambycids of the whole American Con
 issued: 2015-04-03
 version: Apr 2015
 contact:
-  given: G
+  orcid: 0000-0002-3310-1903
+  given: Gerard
   family: Tavakilian
+  email: gerard.tavakilian@mnhn.fr
 creator:
  -
-  given: G.
+  orcid: 0000-0002-3310-1903
+  given: Gerard
   family: Tavakilian
+  email: gerard.tavakilian@mnhn.fr
+  organisation: Muséum national d'Histoire naturelle (MNHN)
+  city: Paris
+  country: FR
  -
-  given: H.
+  given: Herve
   family: Chevillotte
-contributor:
- -
+  email: herve.chevillotte@ird.fr
   organisation: Institut de Recherche pour le Développement (IRD)
- -
-  organisation: MNHN
- -
-  organisation: Paris
- -
-  organisation: France
+  city: Paris
+  country: FR
 taxonomicScope: Longhorn beetles, timber beetles
 confidence: 2
 completeness: 99
+license: other
+geographicScope: Global
 url: http://titan.gbif.fr/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/TITAN.png
 source: []

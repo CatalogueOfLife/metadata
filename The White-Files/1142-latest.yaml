@@ -7,29 +7,34 @@ description: 'Taxonomic checklist of the world''s whiteflies (Insecta: Hemiptera
 issued: 2019-02-01
 version: Feb 2019
 contact:
-  family: ouvrard@mnhn.fr
+  orcid: 0000-0003-2931-6116
+  given: David
+  family: Ouvrard
+  email: david.ouvrard@anses.fr
 creator:
  -
-  given: D.
+  orcid: 0000-0003-2931-6116
+  given: David
   family: Ouvrard
+  email: david.ouvrard@anses.fr
+  organisation: Anses Laboratoire de la santé des végétaux
+  city: Montpellier
+  country: FR
  -
-  given: J.H.
+  given: Jon H.
   family: Martin
+  organisation: Natural History Museum
+  city: London
+  country: UK
 contributor:
  -
-  organisation: Natural History Museum
+  organisation: Université Pierre et Marie Curie
+  city: Paris
+  country: FR
  -
-  organisation: London
- -
-  organisation: UK; Muséum National d'Histoire Naturelle
- -
-  organisation: Paris
- -
-  organisation: France; Université Pierre et Marie Curie
- -
-  organisation: Paris
- -
-  organisation: France
+  organisation: Muséum National d'Histoire Naturelle
+  city: Paris
+  country: FR
 geographicScope: Global
 taxonomicScope: Whiteflies
 confidence: 5

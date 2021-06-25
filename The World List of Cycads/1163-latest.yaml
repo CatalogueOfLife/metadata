@@ -11,37 +11,37 @@ description: The World List of Cycads is a working list of known cycad species n
 issued: 2019-02-15
 version: Feb 2019
 contact:
+  orcid: 0000-0001-9650-3136
   given: Michael
   family: Calonje
+  email: michaelc@montgomerybotanical.org
 creator:
  -
-  given: M.
+  orcid: 0000-0001-9650-3136
+  given: Michael
   family: Calonje
+  email: michaelc@montgomerybotanical.org
+  organisation: Montgomery Botanical Center
+  city: Miami
+  country: US
  -
-  given: D.W.
+  orcid: 0000-0002-2986-7076
+  given: Dennis
   family: Stevenson
+  organisation: New York Botanical Garden
+  city: New York
+  country: US
  -
-  given: R.
+  given: Roy
   family: Osborne
 contributor:
  -
   organisation: IUCN / SSC Cycad Specialist Group
- -
-  organisation: Montgomery Botanical Center
- -
-  organisation: Coral Gables
- -
-  organisation: FL
- -
-  organisation: USA; New York Botanical Garden
- -
-  organisation: Bronx NY
- -
-  organisation: USA.
 taxonomicScope: Cycads
 confidence: 5
 completeness: 100
 license: cc by
+geographicScope: Global
 url: http://cycadlist.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/The_World_List_of_Cycads.png
 source: []

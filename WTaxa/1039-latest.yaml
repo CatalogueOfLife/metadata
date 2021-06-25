@@ -19,30 +19,31 @@ description: The Electronic Catalogue of Weevil Names is a project in progress. 
 issued: 2021-02-21
 version: 2021-02-21
 contact:
-  given: MA
+  orcid: 0000-0002-6991-0980
+  given: Miguel A
   family: Alonso-Zarazaga
+  email: mcnaz39@mncn.csic.es
 creator:
  -
-  given: M.A.
+  orcid: 0000-0002-6991-0980
+  given: Miguel A.
   family: Alonso-Zarazaga
- -
-  given: C.H.C.
-  family: Lyal
-contributor:
- -
+  email: mcnaz39@mncn.csic.es
   organisation: Museo Nacional de Ciencias Naturales
+  city: Madrid
+  country: ES
  -
-  organisation: Madrid
- -
-  organisation: Spain & Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
+  orcid: 0000-0003-3647-6222
+  given: Chris HC
+  family: Lyal
+  organisation: Natural History Museum
+  city: London
+  country: UK
 taxonomicScope: Weevils
 confidence: 2
 completeness: 87
 license: cc by
+geographicScope: Global
 url: http://wtaxa.csic.es
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/WTaxa.png
 source: []

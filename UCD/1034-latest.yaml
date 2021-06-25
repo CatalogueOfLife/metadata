@@ -12,25 +12,23 @@ description: Work on the Universal Chalcidoidea Database was started, with the h
 issued: 2007-09-17
 version: Sep 2007
 contact:
-  given: J
+  given: John
   family: Noyes
+  email: j.noyes@nhm.ac.uk
 creator:
  -
-  given: J.
+  given: John
   family: Noyes
-contributor:
- -
   organisation: Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
+  city: London
+  country: UK
+editor: []
 geographicScope: Global
 taxonomicScope: Chalcidoid wasps
 confidence: 4
 completeness: 95
-license: other
-url: http://www.nhm.ac.uk/entomology/chalcidoids
+license: cc by
+url: https://www.nhm.ac.uk/our-science/data/chalcidoids/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/UCD.png
 source: []
 notes: ""

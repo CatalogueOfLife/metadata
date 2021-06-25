@@ -13,23 +13,26 @@ description: Strepsiptera database is a database on Strepsiptera parasitoïd gro
 issued: 2017-05-01
 version: May 2017
 contact:
-  family: jeyaraney.kathirithamby@zoo.ox.ac.uk
+  orcid: 0000-0001-9907-4779
+  family: Kathirithamby
+  given: Jeyaraney
+  email: jeyaraney.kathirithamby@zoo.ox.ac.uk
 creator:
  -
-  given: J.
+  orcid: 0000-0001-9907-4779
   family: Kathirithamby
+  given: Jeyaraney
+  email: jeyaraney.kathirithamby@zoo.ox.ac.uk
+  department: Department of Zoology
+  organisation: University of Oxfor
+  city: Oxford
+  country: UK
 editor: []
-contributor:
- -
-  organisation: Department of Zoology
- -
-  organisation: University of Oxford
- -
-  organisation: UK
 taxonomicScope: Twisted-winged parasites
 confidence: 4
 completeness: 95
 license: cc by
+geographicScope: Global
 url: http://rameau.snv.jussieu.fr/cgi-bin/strepsiptera.pl
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Strepsiptera_Database.png
 source: []

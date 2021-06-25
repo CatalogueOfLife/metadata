@@ -1,7 +1,7 @@
 ---
 identifier: {}
-title: Species Fungorum for CoL+
-alias: Species Fungorum Plus
+title: Species Fungorum
+alias: Species Fungorum
 description: "Species Fungorum is a project, based at the Royal Botanic Gardens Kew,\
   \ to produce an effectively complete global checklist of organisms belonging to\
   \ the kingdom Fungi, and to organisms which were previously included in the fungi\
@@ -19,19 +19,23 @@ description: "Species Fungorum is a project, based at the Royal Botanic Gardens 
 issued: 2020-02-14
 version: Feb 2020
 contact:
-  given: Paul
-  family: Kirk
+   orcid: 0000-0002-0658-7338
+   given: Paul
+   family: Kirk
+   email: P.Kirk@kew.org
 creator: []
 editor:
  -
-  given: P.M.
+  orcid: 0000-0002-0658-7338
+  given: Paul
   family: Kirk
-contributor:
- -
-  organisation: Royal Botanic Gardens, Kew, Richmond, UK
+  email: P.Kirk@kew.org
+  organisation: Royal Botanic Gardens, Kew
+  city: London
+  country: UK
 geographicScope: Global
 taxonomicScope: All fungi
 completeness: 95
-license: unspecified
+license: cc by
 url: http://www.speciesfungorum.org
 source: []

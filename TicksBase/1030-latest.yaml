@@ -8,25 +8,32 @@ description: 'TicksBase is a searchable taxonomic catalogue of all known ticks (
   186 Argasid and 1 Nuttalliella tick (sub-)species), including their synonyms, (limited)
   distribution data and common names.'
 issued: 2005-06-15
-version: 5.6, Jun 2005
+version: Jun 2005
 contact:
-  family: AM Nijhof, AA Guglielmone
+  orcid: 0000-0001-7373-2243
+  given: Ard
+  family: Nijhof
+  email: ard.nijhof@fu-berlin.de
 creator:
  -
-  given: A.M.
+  orcid: 0000-0001-7373-2243
+  given: Ard
   family: Nijhof
+  email: ard.nijhof@fu-berlin.de
+  department: Institut für Parasitologie und Tropenveterinärmedizin
+  organisation: Freie Universität Berlin
+  city: Berlin
+  country: DE
  -
-  given: A.A.
+  given: Alberto
   family: Guglielmone
  -
-  given: I.G.
+  orcid: 0000-0002-2200-6126
+  given: Ivan
   family: Horak
-editor: []
-contributor:
- -
-  organisation: Utrecht University
- -
-  organisation: The Netherlands
+  organisation: University of Pretoria
+  city: Pretoria
+  country: ZA
 geographicScope: Global
 taxonomicScope: Ticks
 confidence: 5

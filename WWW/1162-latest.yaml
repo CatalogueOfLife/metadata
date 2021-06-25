@@ -8,23 +8,24 @@ description: Includes all currently accepted names in Acacia s.l. together with 
 issued: 2018-01-22
 version: 2, Jan 2018
 contact:
+  orcid: 0000-0002-3039-0973
   given: Bruce
   family: Maslin
+  email: bruce.maslin@outlook.com
 creator:
  -
-  given: B.
+  orcid: 0000-0002-3039-0973
+  given: Bruce
   family: Maslin
-contributor:
- -
+  email: bruce.maslin@outlook.com
   organisation: Western Australian Herbarium
- -
-  organisation: Perth
- -
-  organisation: Australia
+  city: Perth
+  country: AU
 taxonomicScope: Wattles, thorntrees, acacias
 confidence: 5
 completeness: 100
 license: other
+geographicScope: Global
 url: http://www.worldwidewattle.com
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/WWW.png
 source: []

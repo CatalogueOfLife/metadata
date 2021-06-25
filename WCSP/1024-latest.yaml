@@ -8,25 +8,25 @@ description: |-
 issued: 2017-08-25
 version: Aug 2017
 contact:
-  given: Rafael (ed)
+  orcid: 0000-0003-2991-5282
+  given: Rafaël
   family: Govaerts
+  email: R.Govaerts@kew.org
 editor:
  -
-  given: R.
+  orcid: 0000-0003-2991-5282
+  given: Rafaël
   family: Govaerts
-contributor:
- -
+  email: R.Govaerts@kew.org
   organisation: Royal Botanic Gardens Kew
- -
-  organisation: Richmond
- -
-  organisation: Surrey
- -
-  organisation: UK
+  city: London
+  country: UK
+creator: []
 taxonomicScope: 116 families of seed plants
 confidence: 5
 completeness: 99
 license: cc by
+geographicScope: Global
 url: http://apps.kew.org/wcsp/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/WCSP.png
 source: []

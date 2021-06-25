@@ -11,22 +11,21 @@ description: The intention of The Scorpion Files is to present an updated list o
 issued: 2020-08-25
 version: Aug 2020
 contact:
-  given: Jan
-  family: Ove Rein
+  orcid: 0000-0002-9976-358X
+  given: Jan Ove
+  family: Rein
+  email: jan.rein@ub.ntnu.no
 creator: []
 editor:
  -
-  given: J.O.
+  orcid: 0000-0002-9976-358X
+  given: Jan Ove
   family: Rein
-contributor:
- -
-  organisation: Medicine and Health Library
- -
+  email: jan.rein@ub.ntnu.no
+  department: Medicine and Health Library
   organisation: Norwegian University of Science & Technology
- -
-  organisation: Trondheim
- -
-  organisation: Norway
+  city: Trondheim
+  country: Norway
 geographicScope: Global
 taxonomicScope: Scorpions
 confidence: 4

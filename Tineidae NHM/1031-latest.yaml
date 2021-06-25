@@ -12,23 +12,21 @@ description: 'The Tineidae - the clothes-moth family - comprises more than 2,000
 issued: 2011-11-21
 version: 9.0, Nov 2011
 contact:
-  given: A
+  given: Adrian
   family: Hine
+  email: adrian.hine@nhm.ac.uk
+  organisation: Natural History Museum
+  city: London
+  country: UK
 creator:
  -
-  given: G.S (†)
+  given: Gaden S (†)
   family: Robinson
-contributor:
- -
-  organisation: Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
 taxonomicScope: Clothes-moths
 confidence: 4
 completeness: 98
 license: other
+geographicScope: Global
 url: https://web.archive.org/web/20160805065355/http%3A//www.nhm.ac.uk/research-curation/research/projects/tineidae/index.html
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Tineidae_NHM.png
 source: []

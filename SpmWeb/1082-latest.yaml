@@ -12,29 +12,30 @@ description: 'Spider Mites Web is designated to give all information about the s
 issued: 2011-07-05
 version: Jul 2011
 contact:
-  given: A
+  given: Alain
   family: Migeon
+  email: alain.migeon@inrae.fr
 creator:
  -
-  given: A.
+  given: Alain
   family: Migeon
+  email: alain.migeon@inrae.fr
+  organisation: French National Institute for Agriculture, Food, and Environment (INRAE)
+  city: Montpellier
+  country: FR
  -
-  given: F.
+  given: Franck
   family: Dorkeld
+  email: franck.dorkeld@inra.fr
+  organisation: French National Institute for Agriculture, Food, and Environment (INRAE)
+  city: Montpellier
+  country: FR
 editor: []
-contributor:
- -
-  organisation: Institut National de le Recherche Agronomique (INRA)
- -
-  organisation: CBGP
- -
-  organisation: Montpellier
- -
-  organisation: France
 taxonomicScope: Spider mites
 confidence: 4
 completeness: 99
 license: cc by
+geographicScope: Global
 url: http://www1.montpellier.inra.fr/CBGP/spmweb/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SpmWeb.png
 source: []

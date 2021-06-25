@@ -9,22 +9,25 @@ description: The objective of this database is to build an illustrated catalogue
   the knowledge of the author, so any contribution is welcome (bugs, pictures, identification).
 issued: 2019-02-01
 version: Feb 2019
-contact: {}
+contact:
+  orcid: 0000-0002-2637-7522
+  given: Philippe
+  family: Magnien
+  email: philippe@heteroptera.fr
 creator:
  -
-  given: P.
+  orcid: 0000-0002-2637-7522
+  given: Philippe
   family: Magnien
-contributor:
- -
+  email: philippe@heteroptera.fr
   organisation: Muséum National d'Histoire Naturelle
- -
-  organisation: Paris
- -
-  organisation: France
+  city: Paris
+  country: FR
 taxonomicScope: Tessaratomids
 confidence: 4
 completeness: 85
 license: cc by
+geographicScope: Global
 url: http://hemiptera-databases.com/tessaratomidae/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Tessaratomidae_Database.png
 source: []

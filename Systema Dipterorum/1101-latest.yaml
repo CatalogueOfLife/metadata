@@ -13,28 +13,28 @@ description: 'Systema Dipterorum contains an estimated 99% of all names in Dipte
 issued: 2021-05-12
 version: 3.1, May 2021
 contact:
-  given: N L
+  orcid: 0000-0002-1314-755X
+  given: Neal L
   family: Evenhuis
+  email: neale@bishopmuseum.org
 editor:
  -
-  given: N L
+  orcid: 0000-0002-1314-755X
+  given: Neal L
   family: Evenhuis
- -
-  given: T
-  family: Pape
-contributor:
- -
-  city: Honolulu
-  state: HI
-  country: US
-  address: Honolulu, HI, United States of America
+  email: neale@bishopmuseum.org
   organisation: Bishop Museum
+  city: Honolulu
+  country: US
  -
-  department: Natural History Museum of Denmark
+  orcid: 0000-0001-6609-0609
+  given: Thomas
+  family: Pape
+  email: tpape@snm.ku.dk
+  organisation: Natural History Museum of Denmark
   city: Copenhagen
   country: DK
-  address: Copenhagen, Denmark
-  organisation: University of Copenhagen
+creator: []
 geographicScope: Global
 taxonomicScope: Flies, mosquitoes, bots, midges and gnats
 confidence: 4

@@ -11,21 +11,27 @@ description: Eumycetozoa.com is an on-line taxonomic checklist and nomenclatural
 issued: 2021-04-13
 version: 2021-04
 contact:
+  orcid: 0000-0002-6135-2873
   given: Carlos
   family: Lado
+  email: lado@rjb.csic.es
 creator:
  -
-  given: C.
+  orcid: 0000-0002-6135-2873
+  given: Carlos
   family: Lado
- -
-  given: J.C.
-  family: Hernández-Crespo
-contributor:
- -
+  email: lado@rjb.csic.es
+  department: Real Jardín Botánico
+  organisation: Spanish National Research Council
   city: Madrid
   country: ES
-  address: Madrid, Spain
-  organisation: Real Jardín Botánico de Madrid, CSIC
+ -
+  given: Juan Carlos
+  family: Hernández-Crespo
+  department: Real Jardín Botánico
+  organisation: Spanish National Research Council
+  city: Madrid
+  country: ES
 geographicScope: Global
 taxonomicScope: Slime molds
 confidence: 5

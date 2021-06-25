@@ -8,31 +8,40 @@ description: A successor to 14 published volumes by Bonnet, Roewer, Brignoli, Pl
   and all significant taxonomic references to each species, from Linnaeus to date.
   The World Spider Catalog is continuously updated.
 issued: 2019-07-15
-version: 20
+version: v20 2019
 contact:
+  orcid: 0000-0002-4584-5352
   given: Daniel
   family: Gloor
-creator:
+  email: gloord@bluewin.ch
+creator: []
+editor:
  -
-  given: C.
-  family: Kropf
- -
-  given: W.
-  family: Nentwig
- -
-  given: T.
-  family: Blick
- -
-  given: D. (Organizing Board)
-  family: Gloor
-editor: []
+  family: World Spider Catalog
 contributor:
  -
+  orcid: 0000-0002-2104-9730
+  given: Christian
+  family: Kropf
   organisation: Natural History Museum of Bern
+  city: Bern
+  country: CH
  -
-  organisation: Bern
+  orcid: 0000-0001-9682-8483
+  given: Wolfgang
+  family: Nentwig
+  department: Institute of Ecology and Evoloution
+  organisation: University of Bern
+  city: Bern
+  country: CH
  -
-  organisation: Switzerland
+  orcid: 0000-0002-4584-5352
+  given: Daniel
+  family: Gloor
+ -
+  given: Theo
+  family: Blick
+  country: DE
 geographicScope: Global
 taxonomicScope: Spiders
 confidence: 5

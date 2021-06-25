@@ -19,19 +19,17 @@ description: World Ferns and World Plants are synonymic checklists of the vascul
 issued: 2021-05-26
 version: 2021-05-26
 contact:
-  given: M.
+  given: Michael
   family: Hassler
+  email: hassler.michael@t-online.de
 creator:
  -
-  given: M.
+  given: Michael
   family: Hassler
-contributor:
- -
+  email: hassler.michael@t-online.de
+  organisation: Individual custodian in cooperation with the Botanical Garden of the Karlsruhe Institute of Technology
   city: Karlsruhe
   country: DE
-  address: Karlsruhe, Germany
-  organisation: Individual custodian in cooperation with the Botanical Garden of the
-    Karlsruhe Institute of Technology
 geographicScope: Global
 taxonomicScope: Ferns and fern-allies
 confidence: 4

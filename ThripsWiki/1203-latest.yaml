@@ -14,37 +14,47 @@ description: ThripsWiki site was designed and produced in Canberra by Inkeri Leh
 issued: 2020-09-24
 version: Sep 2020
 contact:
+  orcid: 0000-0002-6019-4762
   given: Laurence
   family: Mound
+  email: laurence.mound@csiro.au
 creator:
  -
   family: ThripsWiki
 editor: []
 contributor:
  -
+  orcid: 0000-0003-4163-6745
+  given: Adriano
+  family: Cavalleri
   organisation: Universidade Federal do Rio Grande
+  country: BR
  -
-  organisation: Rio Grande
- -
-  organisation: Brazil; Yokohama Plant Protection Station
- -
-  organisation: Tokyo
- -
-  organisation: Japan; Department of Plant Protection
- -
+  orcid: 0000-0001-9049-2448
+  given: Masami
+  family: Masumoto
+  organisation: Tokyo University of Agriculture
+  country: JP
+ - 
+  orcid: 0000-0002-0168-178X
+  given: Kambiz
+  family: Minaei
+  department: Department of Plant Protection
   organisation: Shiraz University
+  country: IR
  -
-  organisation: Shiraz
+  orcid: 0000-0002-6019-4762
+  given: Laurence
+  family: Mound
+  department: Australian National Insect Collection
+  organisation: CSIRO
+  country: AU
  -
-  organisation: Iran; Australian National Insect Collection CSIRO
- -
-  organisation: Canberra
- -
-  organisation: Australia; The Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
+  orcid: 0000-0002-2639-4867
+  given: Manfred
+  family: Ulitzka
+  organisation: Thrisp-ID
+  country: DE
 taxonomicScope: Thrips
 confidence: 5
 completeness: 100

@@ -15,24 +15,25 @@ description: '"The project is an ongoing effort to build and maintain a catalog 
 issued: 2018-11-23
 version: Nov 2018
 contact:
-  given: A.F.
+  orcid: 0000-0001-9885-6306
+  given: Alfred
   family: Newton
+  email: anewton@fieldmuseum.org
 creator:
  -
-  given: A.F.
+  orcid: 0000-0001-9885-6306
+  given: Alfred
   family: Newton
-editor: []
-contributor:
- -
+  email: anewton@fieldmuseum.org
   organisation: Field Museum of Natural History
- -
-  organisation: Chicago IL
- -
-  organisation: USA
+  city: Chicago
+  country: US
+editor: []
 taxonomicScope: Rove beetles, clown beetles & water scavenger beetles
 confidence: 5
 completeness: 100
 license: cc by
+geographicScope: Global
 url: http://archive.fieldmuseum.org/peet_staph
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/StaphBase.png
 source: []

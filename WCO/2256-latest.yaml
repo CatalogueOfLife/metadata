@@ -20,91 +20,84 @@ description: "The WCO project started with an annotated catalogue of the New Wor
   \ 4908 (3): 447–450. "
 issued: 2021-03-23
 version: 2021-03-23
-contact: {}
+contact:
+  orcid: 0000-0002-8334-6204
+  given: Adriano B.
+  family: Kury
+  email: adrianok@gmail.com
 creator:
  -
   orcid: 0000-0002-8334-6204
   given: Adriano B.
   family: Kury
   email: adrianok@gmail.com
+  department: Departamento de Invertebrados
+  organisation: Museu Nacional, Universidade Federal do Rio de Janeiro
+  city: Rio de Janeiro
+  country: BR
  -
   orcid: 0000-0002-7220-6396
   given: Amanda C.
   family: Mendes
   email: amanda.mendes@gmail.com
+  department: Departamento de Zoologia, Instituto de Biologia Roberto de Alcantara Gomes
+  organisation: Universidade do Estado do Rio de Janeiro (UERJ)
+  city: Rio de Janeiro
+  country: BR  
  -
   orcid: 0000-0002-9289-2733
   given: Lilian
   family: Cardoso
   email: lilian.cardoso@mn.ufrj.br
+  department: Departamento de Zoologia
+  organisation: Universidade Federal do Rio de Janeiro
+  city: Rio de Janeiro
+  country: BR 
  -
   orcid: 0000-0003-0501-9440
   given: Milena S.
   family: Kury
   email: milenaskury@gmail.com
+  department: Departamento de Meteorologia
+  organisation: Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME)
+  city: Fortaleza
+  country: BR
  -
   orcid: 0000-0003-1256-3567
   given: Alexia de A.
   family: Granado
   email: granadoalexia@mn.ufrj.br
+  department: Departamento de Invertebrados
+  organisation: Universidade Federal do Rio de Janeiro
+  city: Rio de Janeiro
+  country: BR
  -
   orcid: 0000-0002-5467-8429
   given: Gonzalo
   family: Giribet
   email: ggiribet@g.harvard.edu
+  department: Museum of Comparative Zoology, Department of Organismic and Evolutionary Biology
+  organisation: Harvard University
+  city: Cambridge
+  state: MA
+  country: US 
  -
   orcid: 0000-0002-6128-0195
   given: Jesus A.
   family: Cruz-López
   email: thelyphonidito@gmail.com
+  organisation: Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias (INIFAP)
+  city: Villa de Etla
+  state: Oaxaca
+  country: MX  
  -
   orcid: 0000-0002-1819-3010
   given: Stuart J.
   family: Longhorn
   email: sjl197@hotmail.com
+  country: UK
 editor: []
-contributor:
- -
-  department: Departamento de Invertebrados, Museu Nacional
-  city: Rio de Janeiro
-  country: BR
-  address: Rio de Janeiro, Brazil
-  organisation: Universidade Federal do Rio de Janeiro (UFRJ)
- -
-  department: Departamento de Zoologia, Instituto de Biologia Roberto de Alcantara
-    Gomes
-  city: Rio de Janeiro
-  country: BR
-  address: Rio de Janeiro, Brazil
-  organisation: Universidade do Estado do Rio de Janeiro (UERJ)
- -
-  department: Departamento de Meteorologia
-  city: Fortaleza
-  country: BR
-  address: Fortaleza, Brazil
-  organisation: Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME)
- -
-  department: Museum of Comparative Zoology, Department of Organismic and Evolutionary
-    Biology
-  city: Cambridge
-  state: Massachusetts
-  country: US
-  address: Cambridge, Massachusetts, United States of America
-  organisation: Harvard University
- -
-  department: Centro Regional de Investigación Pacífico Sur (CIRPAS), Campo Experimental
-    Valles Centrales de Oaxaca
-  city: Villa de Etla
-  state: Oaxaca
-  country: MX
-  address: Villa de Etla, Oaxaca, Mexico
-  organisation: Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias
-    (INIFAP)
- -
-  country: GB
-  address: United Kingdom
-  organisation: Arachnology Research Association
-geographicScope: global
+geographicScope: Global
 taxonomicScope: Harvestmen, harvesters, daddy longlegs
 confidence: 5
 completeness: 100

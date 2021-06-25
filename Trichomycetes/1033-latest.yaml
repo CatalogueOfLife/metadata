@@ -12,23 +12,19 @@ description: The trichomycetes (Fungi, class Trichomycetes plus ecologically rel
 issued: 2017-10-27
 version: Oct 2017
 contact:
-  given: RW
-  family: Lichtwardt
+  orcid: 0000-0002-0658-7338
+  given: Paul
+  family: Kirk
+  email: P.Kirk@kew.org
 creator:
  -
-  given: R.W.
+  given: Robert (†)
   family: Lichtwardt
-contributor:
- -
-  organisation: University of Kansas
- -
-  organisation: Lawrence
- -
-  organisation: USA
 taxonomicScope: Fungi associated with Arthropods
 confidence: 4
 completeness: 98
 license: cc by
+geographicScope: Global
 url: http://www.nhm.ku.edu/~fungi/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/Trichomycetes.png
 source: []
