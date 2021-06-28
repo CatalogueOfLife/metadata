@@ -17,18 +17,19 @@ contact:
   family: Beckman
 creator:
  -
-  given: M.D.
+  given: Michael D.
   family: Maehr
-contributor:
- -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
+contributor: []
+geographicalScope: Global
 taxonomicScope: Webspinners
 confidence: 4
 completeness: 99
+license: other
 url: http://embioptera.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Embioptera.png
 source: []

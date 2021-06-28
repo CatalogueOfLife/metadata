@@ -11,21 +11,26 @@ contact:
   family: Beckman
 creator:
  -
-  given: H.
+  given: Heidi
   family: Hopkins
+  organisation: Ithaca College
+  city: New York
+  state: NY
+  country: US
  -
-  given: M.D.
+  given: Michael D.
   family: Maehr
-contributor:
- -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: Il
+  country: US
+contributor: []
+geographicScope: Global
 taxonomicScope: Ice crawlers
 confidence: 5
 completeness: 99
+license: other
 url: http://grylloblattodea.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Grylloblattodea.png
 source: []

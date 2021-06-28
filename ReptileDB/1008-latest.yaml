@@ -8,22 +8,21 @@ description: The Reptile Database is a taxonomic database that provides basic in
 issued: 2021-05-03
 version: 2020-12
 contact:
-  given: P
+  given: Peter
   family: Uetz
 creator:
  -
-  given: P.
+  orcid: https://orcid.org/0000-0001-6194-4927
+  given: Peter
   family: Uetz
- -
-  given: J.
-  family: Hošek
-contributor:
- -
-  city: ' Richmond'
+  organisation: Virginia Commonwealth University
+  city: Richmond
   state: VA
   country: US
-  address: Richmond, VA, United States of America
-  organisation: Virginia Commonwealth University
+ -
+  given: Jirí
+  family: Hošek
+contributor: []
 geographicScope: Global
 taxonomicScope: Reptiles
 confidence: 4

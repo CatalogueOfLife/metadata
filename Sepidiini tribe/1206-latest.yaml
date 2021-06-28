@@ -14,40 +14,75 @@ description: 'The catalogue includes all valid family-group (six subtribes), gen
 issued: 2019-06-13
 version: 22, 2019-04
 contact:
-  given: Marcin
+  orcid: https://orcid.org/0000-0002-2915-0614
+  given: Marcin Jan
   family: Kamiński
+  organisation: Museum and Institute of Zoology, Polish Academy of Sciences
+  city: Warsaw
+  country: Poland
 creator:
  -
-  given: M.J.
+  orcid: https://orcid.org/0000-0002-2915-0614
+  given: Marcin Jan
   family: Kamiński
+  organisation: Museum and Institute of Zoology, Polish Academy of Sciences
+  city: Warsaw
+  country: Poland
  -
-  given: K.
+  given: Kojun
   family: Kanda
+  organisation: Nortern Arizona University
+  city: Flagstaff
+  state: AZ
+  country: US
  -
-  given: R.
+  given: Ryan
   family: Lumen
+  organisation: Nortern Arizona University
+  city: Flagstaff
+  state: AZ
+  country: US
  -
-  given: J.M.
+  orcid: https://orcid.org/0000-0002-9185-6378
+  given: Jonah M.
   family: Ulmer
+  organisation: Pennsylvania State University
+  state: PA
+  country: US
  -
-  given: C.C.
+  given: Christopher C.
   family: Wirth
+  organisation: Nortern Arizona University
+  city: Flagstaff
+  state: AZ
+  country: US
  -
-  given: P.
+  given: Patrice
   family: Bouchard
+  organisation: Agriculture and Agri-Food Canada
+  city: Ottawa
+  country: Canada
  -
-  given: R.
+  given: Rolf
   family: Aalbu
+  organisation: California Academy of Sciences
+  city: San Francisco
+  country: US
  -
-  given: N.
+  given: Noel
   family: Mal
+  organisation: Royal Belgian Institute of Natural Sciences
+  city: Brussels
+  country: Belgium
  -
-  given: A.
+  orcid: https://orcid.org/0000-0002-1286-950X
+  given: Aaron D.
   family: Smith
-contributor:
- -
-  organisation: Museum and Institute of Zoology, Polish Academy of Sciences, Warsaw,
-    Poland
+  organisation: Nortern Arizona University
+  city: Flagstaff
+  state: AZ
+  country: US
+contributor: []
 geographicScope: Global
 taxonomicScope: Toktokkies
 confidence: 5

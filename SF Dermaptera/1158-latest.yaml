@@ -11,27 +11,37 @@ contact:
   family: Beckman
 creator:
  -
-  given: H.
+  given: Heidi
   family: Hopkins
+  organisation: Ithaca College
+  city: New York
+  state: NY
+  country: US
  -
-  given: M.D.
+  given: Michael D.
   family: Maehr
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
   given: F.
   family: Haas
  -
   given: L.S.
   family: Deem
-contributor:
- -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
+contributor: []
+geographicScope: Global
 taxonomicScope: Earwigs
 confidence: 4
 completeness: 95
+license: Other
 url: http://Dermaptera.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Dermaptera.png
 source: []

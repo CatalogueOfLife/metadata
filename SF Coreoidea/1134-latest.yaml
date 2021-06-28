@@ -15,16 +15,15 @@ contact:
 creator:
  -
   family: CoreoideaSF Team
-contributor:
- -
   organisation: The Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
+  city: London
+  country: UK
+contributor: []
+geographicScope: Global
 taxonomicScope: Leatherbugs
 confidence: 4
 completeness: 90
+license: other
 url: http://Coreoidea.SpeciesFile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Coreoidea.png
 source: []

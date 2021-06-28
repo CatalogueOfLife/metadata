@@ -18,31 +18,41 @@ contact:
   family: Beckman
 creator:
  -
-  given: K.P.
+  given: Kevin P.
   family: Johnson
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
-  given: V.S.
+  given: Vince S.
   family: Smith
+  organisation: The Natural History Museum
+  city: London
+  country: UK
  -
-  given: H.
+  given: Heidi
   family: Hopkins
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
   given: D.C.
   family: Eades
-contributor:
- -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA; The Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
+contributor: []
+geographicScope: Global
 taxonomicScope: Bark lices & parasitic lices
 confidence: 5
 completeness: 85
+license: other
 url: http://psocodea.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Psocodea.png
 source: []

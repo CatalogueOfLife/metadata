@@ -13,22 +13,23 @@ version: Feb 2019
 contact:
   given: David
   family: Ouvrard
+  organisation: Muséum National d’Histoire Naturelle
+  city: Paris
+  country: France
 creator:
  -
-  given: D.
+  given: David
   family: Ouvrard
+  organisation: Muséum National d’Histoire Naturelle
+  city: Paris
+  country: France
 contributor:
  -
+  city: London
+  country: UK
   organisation: The Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK; Muséum National d’Histoire Naturelle
- -
-  organisation: Paris
- -
-  organisation: France
 taxonomicScope: Jumping plant lice
+GeographicScope: Global
 confidence: 4
 completeness: 88
 license: cc by

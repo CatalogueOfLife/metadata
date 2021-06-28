@@ -16,19 +16,19 @@ contact:
   family: Beckman
 creator:
  -
-  given: E.
+  orcid: https://orcid.org/0000-0002-5887-9543
+  given: Edward
   family: Baker
-editor: []
-contributor:
- -
   organisation: The Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
+  city: London
+  country: UK
+editor: []
+contributor: []
+geographicScope: Global
 taxonomicScope: Cuckoo wasps or emerald wasps
 confidence: 4
 completeness: 99
+License: other
 url: http://chrysididae.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Chrysididae.png
 source: []

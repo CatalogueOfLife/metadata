@@ -12,23 +12,25 @@ contact:
   family: Beckman
 creator:
  -
-  given: P.M.
+  given: Pablo M.
   family: Dellapé
- -
-  given: T.J.
-  family: Henry
-contributor:
- -
-  organisation: División Entomología
- -
+  department: División Entomología
   organisation: Museo de La Plata
+  city: La Plata
+  country: Argentina
  -
-  organisation: La Plata
- -
-  organisation: Argentina
+  given: Thomas J.
+  family: Henry
+  department: Systematic Entomology Laboratory, ARS
+  organisation: USDA c/o National Museum of Natural History, Smithsonian Institution
+  city: Washington D.C.
+  country: US
+contributor: []
+geographocalScope: Global
 taxonomicScope: Seed bugs
 confidence: 2
 completeness: 90
+license: other
 url: http://Lygaeoidea.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Lygaeoidea.png
 source: []

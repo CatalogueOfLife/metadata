@@ -15,29 +15,40 @@ contact:
   family: Beckman
 creator:
  -
-  given: R.E.
+  orcid: https://orcid.org/0000-0001-9985-9250
+  given: R. Edward
   family: DeWalt
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
-  given: M.D.
+  given: Michael D.
   family: Maehr
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
   given: U.
   family: Neu-Becker
+  organisation: Max Planck Institute
+  city: Munich
+  country: Germany
  -
   given: G.
   family: Stueber
-contributor:
- -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA; Max Planck Institute
- -
-  organisation: Germany
+  organisation: Max Planck Institute
+  city: Munich
+  country: Germany
+contributor: []
+geographicScope: Global
 taxonomicScope: Stoneflies
 confidence: 5
 completeness: 99
+license: other
 url: http://plecoptera.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Plecoptera.png
 source: []

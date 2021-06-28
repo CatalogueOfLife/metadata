@@ -12,11 +12,21 @@ description: 'Isoptera Species File is a digital global checklist of extant and 
 issued: 2018-01-18
 version: Jan 2018
 contact:
-  given: Eric
+  given: Eric J.
   family: South
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
 creator:
  -
   family: South E.J. after Krishna K.
+  epartment: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
   given: D.A.
   family: Grimaldi
@@ -26,15 +36,11 @@ creator:
  -
   given: M.S.
   family: Engel
-contributor:
- -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA
+contributor: []
+geographicScope: Global
 taxonomicScope: Termites
 confidence: 5
 completeness: 100
+license: other
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Isoptera.png
 source: []

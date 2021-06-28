@@ -9,26 +9,25 @@ description: This is a database of Geranium names and synonymic checklist of the
 issued: 2017-09-28
 version: Sep 2017
 contact:
-  given: C
+  given: Carlos
   family: Aedo
+  organisation: Real Jardín Botánico de Madrid, CSIC
+  city: Madrid
+  country: Spain
 creator:
  -
-  given: C.
+  given: Carlos
   family: Aedo
+  organisation: Real Jardín Botánico de Madrid, CSIC
+  city: Madrid
+  country: Spain
 editor: []
-contributor:
- -
-  organisation: Real Jardín Botánico de Madrid
- -
-  organisation: CSIC
- -
-  organisation: Madrid
- -
-  organisation: Spain
+contributor: []
 taxonomicScope: Cranesbills, geraniums
+geographicalScope: Global
 confidence: 5
 completeness: 98
 license: cc by
-url: http://www.rjb.csic.es/Geranium
+url: http://www.geranium.es/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/RJB_Geranium.png
 source: []

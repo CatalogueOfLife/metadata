@@ -17,27 +17,42 @@ contact:
   family: Beckman
 creator:
  -
-  given: P.D.
+  given: Paul D.
   family: Brock
+  organisation: The Natural History Museum
+  city: London
+  country: UK
  -
-  given: T.
+  given: Thies
   family: Büscher
+  organisation: Christian-Albrechts-Universität
+  city: Kiel
+  country: Germany
  -
-  given: E.
+  orcid: https://orcid.org/0000-0002-5887-9543
+  given: Edward
   family: Baker
+  organistion: The Natural History Museum
+  city: London
+  country: UK
  -
-  given: D.
+  given: Daniel
   family: Otte
+  department: The Academy of Natural Sciences
+  organisation: Drexel University
+  city: Philadelphia
+  state: PA
+  country: US
 contributor:
  -
-  organisation: The Natural History Museum
- -
-  organisation: London
- -
-  organisation: UK
+  organisation: University of York
+  city: York
+  country: UK
+geographicScope: Global
 taxonomicScope: Stick and leaf insects
 confidence: 5
 completeness: 100
+license: other
 url: http://phasmida.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Phasmida.png
 source: []

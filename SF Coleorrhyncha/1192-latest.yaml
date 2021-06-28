@@ -11,22 +11,27 @@ contact:
   family: Beckman
 creator:
  -
-  given: S.W.
+  given: Sam W.
   family: Heads
+  departement: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
-  given: M.D.
+  given: Michael D.
   family: Maehr
-contributor:
- -
-  organisation: Illinois Natural History Survey
- -
-  organisation: Champaign IL
- -
-  organisation: USA
+  departement: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
+contributor: []
+geographicScope: Global
 taxonomicScope: Fossilised moss bugs
 confidence: 4
 completeness: 99
-license: unspecified
+license: other
 url: http://coleorrhyncha.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Coleorrhyncha.png
 source: []

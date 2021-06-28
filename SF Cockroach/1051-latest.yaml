@@ -16,15 +16,17 @@ contact:
   family: Beckman
 creator:
  -
-  given: G.W.
+  given: George W.
   family: Beccaloni
 editor: []
 contributor:
- -
+-
   organisation: Individual custodian
+geographicScope: Global
 taxonomicScope: Cockroaches
 confidence: 5
 completeness: 100
+license: other
 url: http://Cockroach.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Cockroach.png
 source: []

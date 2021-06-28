@@ -14,20 +14,33 @@ contact:
   family: Beckman
 creator:
  -
-  given: D.
+  given: Daniel
   family: Otte
+  department: The Academy of Natural Sciences
+  organisation: Drexel University
+  city: Philadelphia
+  state: PA
+  country: US
  -
-  given: L.
+  given: Lauren
   family: Spearman
+  department: Department of Ecology and Evolution
+  organisation: Rutgers University
+  city: New Brunswick
+  state: NJ
+  country: US 
  -
-  given: M.B.D.
+  given: Martin B.D.
   family: Stiewe
-contributor:
- -
-  organisation: Mantodea Species File
+  organisation: The Natural History Museum
+  city: London
+  country: UK
+contributor: []
+geographicScope: Global
 taxonomicScope: Praying mantids
 confidence: 4
 completeness: 90
+license: other
 url: http://mantodea.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Mantodea.png
 source: []

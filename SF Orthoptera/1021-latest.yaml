@@ -14,27 +14,41 @@ contact:
   family: Beckman
 creator:
  -
-  given: M.M.
+  given: María Marta
   family: Cigliano
+  department: División Entomología
+  organisation: Museo de La Plata, CEPAVE - CONICET
+  city: La Plata
+  country: Argentina
  -
-  given: H.
+  given: Holger
   family: Braun
+  department: División Entomología
+  organisation: Museo de La Plata, CEPAVE - CONICET
+  city: La Plata
+  country: Argentina
  -
-  given: D.C.
+  given: David C.
   family: Eades
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
  -
-  given: D.
+  given: Daniel
   family: Otte
-contributor:
- -
-  organisation: Museo de La Plata
- -
-  organisation: Buenos Aires
- -
-  organisation: Argentina
+  department: The Academy of Natural Sciences
+  organisation: Drexel University
+  city: Philadelphia
+  state: PA
+  country: US
+contributor: []
+geographicScope: Global
 taxonomicScope: Grasshoppers, locusts, katydids, crickets
 confidence: 5
 completeness: 100
+license: other
 url: http://Orthoptera.SpeciesFile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Orthoptera.png
 source: []
