@@ -1,8 +1,9 @@
 import os, requests, json
+from pathlib import Path
 
-API="http://api.dev.catalogueoflife.org"
-USER="frank"
-PASS="xyz"
+API="http://api.catalogueoflife.org"
+USER="markus"
+PASS="xxx"
 
 
 def update(d):
@@ -15,7 +16,9 @@ def update(d):
             r=requests.put(API+"/dataset/"+key, data=open(f, 'rb'), headers=headers, auth=(USER, PASS))
             print(r.status_code)
 
-print("Updating datasets from latest YAML metadata...\n")
-for f in os.scandir("."):
-    if f.is_dir() and not f.name.startswith("."):
-        update(f)
+update(Path("WCO"))
+
+#print("Updating datasets from latest YAML metadata...\n")
+#for f in os.scandir("."):
+#    if f.is_dir() and not f.name.startswith("."):
+#        update(f)
