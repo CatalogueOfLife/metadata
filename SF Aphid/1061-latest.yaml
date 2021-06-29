@@ -18,12 +18,10 @@ creator:
   city: Gaithersburg
   state: MD
   country: US
-contributor: []
 geographicScope: Global
 taxonomicScope: Aphids and allied groups
 confidence: 4
 completeness: 99
 license: other
-url: http://aphid.speciesfile.org, http://www.aphidnet.org 
+url: http://aphid.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Aphid.png
-source: []

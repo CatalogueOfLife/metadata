@@ -3,7 +3,7 @@ from pathlib import Path
 
 API="http://api.catalogueoflife.org"
 USER="markus"
-PASS="xxx"
+PASS=""
 
 
 def update(d):
@@ -14,9 +14,11 @@ def update(d):
             print("  PUT Dataset {}".format(key))
             headers = {'Accept' : 'application/json', 'Content-Type' : 'application/x-yaml'}
             r=requests.put(API+"/dataset/"+key, data=open(f, 'rb'), headers=headers, auth=(USER, PASS))
-            print(r.status_code)
+            if r.status_code != 204:
+                print(r.status_code)
+                print(r.json())
 
-update(Path("WCO"))
+update(Path("Species Fungorum Plus"))
 
 #print("Updating datasets from latest YAML metadata...\n")
 #for f in os.scandir("."):

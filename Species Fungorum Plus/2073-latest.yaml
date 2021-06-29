@@ -1,41 +1,38 @@
----
-identifier: {}
-title: Species Fungorum
+# [PackageDev] target_format: plist, ext: tmLanguage
 alias: Species Fungorum
-description: "Species Fungorum is a project, based at the Royal Botanic Gardens Kew,\
-  \ to produce an effectively complete global checklist of organisms belonging to\
-  \ the kingdom Fungi, and to organisms which were previously included in the fungi\
-  \ but are now classified in other branches of the tree of life. It is a collaborative\
-  \ project where a small but active proportion of fungal taxonomist, via their publications,\
-  \ add to and update the fungal tree of life. With the development of the CoL+ architecture\
-  \ the project is simplified by abandoning the thirty-six Global Species Databases\
-  \ and recognizing a core of long standing collaborators as follows: Gerald L. Benny,\
-  \ Paul F. Cannon, Pedro C. Crous, Tassilo Feuerer, Yu-ming Ju, Bob W. Lichtwardt\
-  \ (deceased), David W. Minter, Lisa C. Offord, Jack D. Rogers, Arthur G. Schüßler,\
-  \ Kerstin Voigt, Chris Walker, Nalin N. Wijayawardene, Marvin C. Williams. \nSpecies\
-  \ Fungorum is built on top of the global fungal nomenclator Index Fungorum, which\
-  \ is now a contributor of taxonomically unevaluated names to CoL+ which are not\
-  \ included in Species Fungorum as the AVC name or a synonym."
-issued: 2020-02-14
-version: Feb 2020
-contact:
-   orcid: 0000-0002-0658-7338
-   given: Paul
-   family: Kirk
-   email: P.Kirk@kew.org
-creator: []
-editor:
- -
-  orcid: 0000-0002-0658-7338
-  given: Paul
-  family: Kirk
-  email: P.Kirk@kew.org
-  organisation: Royal Botanic Gardens, Kew
-  city: London
-  country: UK
-geographicScope: Global
-taxonomicScope: All fungi
 completeness: 95
+contact:
+  email: P.Kirk@kew.org
+  family: Kirk
+  given: Paul
+  orcid: 0000-0002-0658-7338
+description: "Species Fungorum is a project, based at the Royal Botanic Gardens Kew,\n\
+  to produce an effectively complete global checklist of organisms belonging to\n\
+  the kingdom Fungi, and to organisms which were previously included in the fungi\n\
+  but are now classified in other branches of the tree of life. It is a collaborative\n\
+  project where a small but active proportion of fungal taxonomist, via their publications,\n\
+  add to and update the fungal tree of life. With the development of the CoL+ architecture\n\
+  the project is simplified by abandoning the thirty-six Global Species Databases\n\
+  and recognizing a core of long standing collaborators as follows: Gerald L. Benny,\n\
+  Paul F. Cannon, Pedro C. Crous, Tassilo Feuerer, Yu-ming Ju, Bob W. Lichtwardt\n\
+  (deceased), David W. Minter, Lisa C. Offord, Jack D. Rogers, Arthur G. Sch\xFC\xDF\
+  ler,\nKerstin Voigt, Chris Walker, Nalin N. Wijayawardene, Marvin C. Williams. Species\n\
+  Fungorum is built on top of the global fungal nomenclator Index Fungorum, which\n\
+  is now a contributor of taxonomically unevaluated names to CoL+ which are not\n\
+  included in Species Fungorum as the AVC name or a synonym.\n"
+editor:
+- city: London
+  country: UK
+  email: P.Kirk@kew.org
+  family: Kirk
+  given: Paul
+  orcid: 0000-0002-0658-7338
+  organisation: Royal Botanic Gardens, Kew
+geographicScope: Global
+identifier: {}
+issued: 2020-02-14
 license: cc by
+taxonomicScope: All fungi
+title: Species Fungorum
 url: http://www.speciesfungorum.org
-source: []
+version: Feb 2020
