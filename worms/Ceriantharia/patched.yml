@@ -1,0 +1,28 @@
+---
+title: 'World List of Ceriantharia'
+alias: 'WoRMS Ceriantharia'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'tube-dwelling anemones'
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Molodtsova, T. (2021). World List of Ceriantharia. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Tina, familyName: Molodtsova, email: tina@ocean.ru }
+    - { givenName: Sérgio, familyName: Stampar, email: stampar@assis.unesp.br }
+editors:
+    - { givenName: Tina, familyName: Molodtsova, email: tina@ocean.ru }
+    - { givenName: Sérgio, familyName: Stampar, email: stampar@assis.unesp.br }
+organisations:
+    - { name: 'Russian Academy of Sciences P. P. Shirshov Institute of Oceanology', country: Russia }
+    - { name: 'Universidade Estadual Paulista "Júlio de Mesquita Filho" Laboratório de Evolução e Diversidade Aquática', country: Brasil }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

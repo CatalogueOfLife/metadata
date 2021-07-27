@@ -1,0 +1,25 @@
+---
+title: 'World Kinorhyncha Database'
+alias: 'WoRMS Kinorhyncha'
+description: 'Kinorhyncha (= Echinodera) is a taxon of marine animals ranging in size from 0.13-1.04 mm body length. The animals live in muddy to sandy sediments or appear on algae and invertebrates from the intertidal zone to the deep sea. Kinorhyncha feeds on bacteria, algae, diatoms, and detritus. Some 200+ species have been described  based on descriptions from adult stages plus 50 species based on the description from juvenile stages. Species known only from juvenile stages are generally regarded as nomina dubia, but names are available and valid according to the International Code of Zoological Nomenclature. The species are grouped in two subtaxa, namely Cyclorhagida and Homalorhagida. Further subdivision is in 22 genera using as distinguishing characters a) habitus, b) arrangement, shape and surface structure of cuticular plates, c) size, shape and arrangement of inner and outer oral styles as well as of scalids, and d) size, shape and distribution of spines, sensory spots, gland cell outlets and papillae.'
+geographicScope: Global
+taxonomicScope: 'mud dragons'
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '97'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/kinorhyncha'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Neuhaus, B. (2021). World Kinorhyncha Database. Accessed at http://www.marinespecies.org/kinorhyncha on 2021-07-22. doi:10.14284/457'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Birger, familyName: Neuhaus, email: birger.neuhaus@mfn.berlin }
+editors:
+    - { givenName: Birger, familyName: Neuhaus, email: birger.neuhaus@mfn.berlin }
+organisations:
+    - { name: 'Leibniz Institute for Evolution and Biodiversity Museum für Naturkunde', country: Germany }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

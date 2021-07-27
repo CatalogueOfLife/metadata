@@ -1,0 +1,31 @@
+---
+title: 'World Placozoa Database'
+alias: 'WoRMS Placozoa'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: placozoans
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '60'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/placozoa'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Schierwater, B.; Eitel, M.; DeSalle, R. (2021). World Placozoa Database. Accessed at http://www.marinespecies.org/placozoa on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Bernd, familyName: Schierwater, email: bernado@trichoplax.com }
+editors:
+    - { givenName: Rob, familyName: DeSalle, email: desalle@amnh.org }
+    - { givenName: Michael, familyName: Eitel, email: m.eitel@lmu.de }
+    - { givenName: Hans-Jürgen, familyName: Osigus, email: h.j.osigus@ecolevol.de }
+    - { givenName: Bernd, familyName: Schierwater, email: bernado@trichoplax.com }
+organisations:
+    - { name: 'American Museum of Natural History Division of Invertebrate Zoology', country: '' }
+    - { name: 'Ludwig Maximilians University Munich; Department of Earth and Environmental Sciences Paleontology and Geobiology', country: Germany }
+    - { name: 'University of Veterinary Medicine Hannover Institute of Animal Ecology and Cell Biology', country: Germany }
+    - { name: 'School of veterinary medicine Hannover; Institute of Animal Ecology and Cell Biology ITZ, Ecology and Evolution', country: Germany }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

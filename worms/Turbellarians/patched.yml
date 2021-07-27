@@ -1,0 +1,30 @@
+---
+title: 'World List of turbellarian worms: Acoelomorpha, Catenulida, Rhabditophora'
+alias: 'WoRMS Turbellarians'
+description: 'The world list of Turbellarian worms, including the Acoelomorpha, Catenulida and Rhabditophora contains 3.425 accepted species names and is one of the most complete existing resources for Turbellarian taxa. This taxonomic database covers all turbellarian flatworms, freshwater as well as marine ones, and including parasitic turbellarians.'
+geographicScope: Global
+taxonomicScope: Turbellarians
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '98'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/turbellarians'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Tyler, S., Artois, T.; Schilling, S.; Hooge, M.; Bush, L.F. (eds) (2006-2021). World List of turbellarian worms: Acoelomorpha, Catenulida, Rhabditophora. Accessed at http://www.marinespecies.org/turbellarians on 2021-07-22'
+code: null
+gazetteer: mrgid
+contact:
+    - { givenName: Seth, familyName: Tyler, email: styler@maine.edu }
+editors:
+    - { givenName: Tom, familyName: Artois, email: tom.artois@uhasselt.be }
+    - { givenName: Louise, familyName: Bush, email: '' }
+    - { givenName: Matthew, familyName: Hooge, email: '' }
+    - { givenName: Steve, familyName: Schilling, email: '' }
+    - { givenName: Seth, familyName: Tyler, email: styler@maine.edu }
+organisations:
+    - { name: 'Universiteit Hasselt; Faculteit Wetenschappen; Vakgroep Biologie en Geologie; Centrum voor Milieukunde Onderzoeksgroep Dierkunde: Biodiversiteit en Toxicologie', country: Belgium }
+    - { name: 'University of Maine School of Biology and Ecology', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

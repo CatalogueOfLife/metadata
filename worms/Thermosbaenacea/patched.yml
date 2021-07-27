@@ -1,0 +1,28 @@
+---
+title: 'World List of Thermosbaenacea'
+alias: 'WoRMS Thermosbaenacea'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'hot-springs shrimps'
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '100'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Poore, G. (2021). World List of Thermosbaenacea. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Damià, familyName: Jaume, email: damiajaume@imedea.uib-csic.es }
+    - { givenName: Gary, familyName: Poore, email: gpoore@museum.vic.gov.au }
+editors:
+    - { givenName: Damià, familyName: Jaume, email: damiajaume@imedea.uib-csic.es, orcid: 0000-0002-1857-3005 }
+    - { givenName: Gary, familyName: Poore, email: gpoore@museum.vic.gov.au }
+organisations:
+    - { name: 'Universitat de les Illes Balears Instituto Mediterraneo de Estudios Avanzados', country: Spain }
+    - { name: 'Museums Victoria', country: Australia }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

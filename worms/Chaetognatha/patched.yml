@@ -1,0 +1,25 @@
+---
+title: 'World List of Chaetognatha'
+alias: 'WoRMS Chaetognatha'
+description: 'The checklist constitutes a list of all currently known and accepted species of arrow worms (Chaetognatha). Chaetognaths are small marine predators, many of which are planktonic. Arrow worms are found throughout Earth''s oceans, including the open ocean, tide pools, polar waters, marine caves, coastal lagoons, and the deep sea. This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'arrow worms'
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '100'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Thuesen, E.V. & Pierrot-Bults, A. (2021). World List of Chaetognatha. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Erik, familyName: Thuesen, email: thuesene@evergreen.edu }
+editors:
+    - { givenName: Erik, familyName: Thuesen, email: thuesene@evergreen.edu }
+organisations:
+    - { name: 'The Evergreen State College Laboratory One', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

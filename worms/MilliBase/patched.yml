@@ -1,0 +1,56 @@
+---
+title: MilliBase
+alias: 'WoRMS MilliBase'
+description: 'MilliBase is a global taxonomic database, managed by a group of diplopod experts that aims to capture all described millipede, pauropod and symphylan species with the associated literature, the authorities and original descriptions of species, genera and all units of higher classification'
+geographicScope: Global
+taxonomicScope: millepedes
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.millibase.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Sierwald, P.; Spelda, J. (2021). MilliBase. Accessed at http://www.millibase.org on 2021-07-22. doi:10.14284/370'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Petra, familyName: Sierwald, email: psierwald@fieldmuseum.org }
+editors:
+    - { givenName: Nesrine, familyName: Akkari, email: nesrine.akkari@nhm-wien.ac.at }
+    - { givenName: Anthony, familyName: Barber, email: abarber159@btinternet.com }
+    - { givenName: 'Joao Paulo', familyName: Barbosa, email: jpppbarbosa@gmail.com }
+    - { givenName: Peter, familyName: Decker, email: decker@myriapoden-info.de }
+    - { givenName: Henrik, familyName: Enghoff, email: henghoff@snm.ku.dk }
+    - { givenName: 'Luiz Felipe Moretti', familyName: Iniesta, email: luiz-moretti@hotmail.com }
+    - { givenName: Paul, familyName: Marek, email: pmarek@vt.edu }
+    - { givenName: 'Carlos Alberto', familyName: Martínez-Muñoz, email: biotemail@gmail.com }
+    - { givenName: Anh, familyName: Nguyen, email: ducanh410@yahoo.com }
+    - { givenName: Hans, familyName: Reip, email: reip@myriapoden-info.de }
+    - { givenName: William, familyName: Shear, email: wshear@hsc.edu }
+    - { givenName: Megan, familyName: Short, email: mshort@deakin.edu.au }
+    - { givenName: Petra, familyName: Sierwald, email: psierwald@fieldmuseum.org, orcid: 0000-0003-2592-1298 }
+    - { givenName: Elizabeth, familyName: Simmons, email: esimmons@fieldmuseum.org }
+    - { givenName: Jörg, familyName: Spelda, email: spelda@zsm.mwn.de }
+    - { givenName: Pavel, familyName: Stoev, email: pavel.e.stoev@gmail.com }
+    - { givenName: Thomas, familyName: Wesener, email: twesener@uni-bonn.de }
+organisations:
+    - { name: 'Natural History Museum Vienna', country: Austria }
+    - { name: 'British Myriapod and Isopod Group', country: UK }
+    - { name: 'University of São Paulo Instituto de Biociências', country: UK }
+    - { name: 'WoRMS Editorial Board', country: '' }
+    - { name: 'University of Copenhagen Zoological Museum', country: Denmark }
+    - { name: 'Instituto Butantan Laboratório de coleções zoológicas', country: Denmark }
+    - { name: 'Virginia Polytechnic Institute and State University Department of Entomology', country: Denmark }
+    - { name: 'University of Turku Zoological Museum', country: Denmark }
+    - { name: 'Institute of Ecology and Biological Resources', country: 'Viet Nam' }
+    - { name: 'Senckenberg Nature Research Society Research Institute and Natural History Museum', country: Germany }
+    - { name: 'Hampden-Sydney College', country: Germany }
+    - { name: 'Deakin University', country: Germany }
+    - { name: 'Field Museum of Natural History', country: USA }
+    - { name: 'Bavarian State Collection of Zoology', country: Germany }
+    - { name: 'Bulgarian Academy of Sciences National Museum of Natural History', country: Germany }
+    - { name: 'Zoologisches Forschungsinstitut und Museum Alexander Koenig', country: Germany }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

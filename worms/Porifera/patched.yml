@@ -1,0 +1,61 @@
+---
+title: 'World Porifera Database'
+alias: 'WoRMS Porifera'
+description: 'The World Porifera database is a searchable catalogue of recent sponge species and higher taxon names. The catalogue is intended to promote stability and act as a tool for higher taxon revisions, regional monographs, and eventually as a catalogue of the world’s sponge specimen databases as these are slowly being accumulated through EurOBIS and GBIF. Data are contributed to the Catalogue of Life via the World Register of Marine Species (WoRMS), hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: sponges
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '96'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/porifera'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Van Soest, R.W.M.; Boury-Esnault, N.; Hooper, J.N.A.; Rützler, K.; de Voogd, N.J.; Alvarez, B.; Hajdu, E.; Pisera, A.B.; Manconi, R.; Schönberg, C.; Klautau, M.; Kelly, M.; Vacelet, J.; Dohrmann, M.; Díaz, M.-C.; Cárdenas, P.; Carballo, J.L.; Ríos, P.; Downey, R.; Morrow, C.C. (2021). World Porifera Database. Accessed at http://www.marinespecies.org/porifera on 2021-07-22. doi:10.14284/359'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Rob, familyName: 'van Soest', email: Rob.vanSoest@naturalis.nl }
+editors:
+    - { givenName: Belinda, familyName: Alvarez, email: Belinda.glasby@gmail.com }
+    - { givenName: Nicole, familyName: Boury-Esnault, email: info@marinespecies.org }
+    - { givenName: 'José Luis', familyName: Carballo, email: jlcarballo@ola.icmyl.unam.mx }
+    - { givenName: Paco, familyName: Cárdenas, email: paco.cardenas@fkog.uu.se }
+    - { givenName: Nicole, familyName: 'de Voogd', email: nicole.devoogd@naturalis.nl, orcid: 0000-0002-7985-5604 }
+    - { givenName: Maria-Cristina, familyName: Díaz, email: taxochica@gmail.com }
+    - { givenName: Martin, familyName: Dohrmann, email: m.dohrmann@lrz.uni-muenchen.de }
+    - { givenName: Rachel, familyName: Downey, email: Rachel.downey@anu.edu.au }
+    - { givenName: Eduardo, familyName: Hajdu, email: eduardo.hajdu@gmail.com }
+    - { givenName: John, familyName: Hooper, email: john.hooper@qm.qld.gov.au, orcid: 0000-0003-1722-5954 }
+    - { givenName: Michelle, familyName: Kelly, email: Michelle.Kelly@niwa.co.nz }
+    - { givenName: Michelle, familyName: Klautau, email: mklautau@biologia.ufrj.br }
+    - { givenName: Renata, familyName: Manconi, email: rmanconi@uniss.it, orcid: 0000-0002-7619-8493 }
+    - { givenName: Christine, familyName: Morrow, email: christinemorrow@gmail.com }
+    - { givenName: Andrzej, familyName: Pisera, email: apis@twarda.pan.pl }
+    - { givenName: Pilar, familyName: Ríos, email: pilar.rios.lopez@gmail.com }
+    - { givenName: Klaus, familyName: Rützler, email: RUETZLER@si.edu }
+    - { givenName: Christine, familyName: Schönberg, email: christine.schonberg@uwa.edu.au, orcid: 0000-0001-6286-8196 }
+    - { givenName: Jean, familyName: Vacelet, email: info@marinespecies.org }
+    - { givenName: Rob, familyName: 'van Soest', email: Rob.vanSoest@naturalis.nl }
+organisations:
+    - { name: 'Museum and Art Galleries of the Northern Territory', country: Australia }
+    - { name: 'WoRMS Editorial Board', country: '' }
+    - { name: 'Universidad Nacional Autonoma de Mexico Instituto de Ciencias del Mar y Limnologia', country: '' }
+    - { name: 'Uppsala University; Department of Medicinal Chemistry Division of Pharmacognosy, BioMedical Center', country: Sweden }
+    - { name: 'Naturalis Biodiversity Center', country: Netherlands }
+    - { name: 'Museo do Mar', country: Venezuela }
+    - { name: 'Ludwig Maximilians University Munich; Department of Earth and Environmental Sciences Paleontology and Geobiology', country: Germany }
+    - { name: 'Australia National University Research School of Earth Sciences', country: Australia }
+    - { name: 'Universidade Federal do Estado do Rio de Janeiro Museu Nacional', country: Brasil }
+    - { name: 'Queensland Museum', country: Australia }
+    - { name: 'National Institute of Water and Atmospheric Research National Centre for Aquatic Biodiversity & Biosecurity', country: Australia }
+    - { name: 'Universidade Federal do Estado do Rio de Janeiro', country: Brasil }
+    - { name: 'Università degli studi di Sassari Dipartimento di Zoologia e Genetica Evoluzionistica', country: Italy }
+    - { name: "Queen's University Belfast Marine Laboratory", country: UK }
+    - { name: 'Polish Academy of Sciences Institute of Paleobiology', country: Poland }
+    - { name: 'Spanish Ministry of Economy and Competiveness; Instituto Español de Oceanografía Centro Oceanográfico de Gijón', country: Spain }
+    - { name: 'Smithsonian Institution; National Museum of Natural History Department of Invertebrate Zoology', country: USA }
+    - { name: 'University of Western Australia', country: Australia }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

@@ -1,0 +1,25 @@
+---
+title: 'World List of Corallimorpharia'
+alias: 'WoRMS Corallimorpharia'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'false corals'
+temporalScope: 1758-2021
+confidence: '3'
+completeness: '90'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Fautin, D. G. (2013). World List of Corallimorpharia. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Meg, familyName: Daly, email: daly.66@osu.edu }
+editors:
+    - { givenName: Meg, familyName: Daly, email: daly.66@osu.edu }
+organisations:
+    - { name: 'Ohio State University Department of Evolution, Ecology and Organismal Biology', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

@@ -1,0 +1,28 @@
+---
+title: 'World List of Octocorallia'
+alias: 'WoRMS Octocorallia'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: octocorals
+temporalScope: 1758-2021
+confidence: '3'
+completeness: '90'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Cordeiro, R.; McFadden, C.; van Ofwegen, L.; Williams, G. (2021). World List of Octocorallia. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Ralf, familyName: Cordeiro, email: ralfts@gmail.com }
+    - { givenName: Catherine, familyName: McFadden, email: mcfadden@g.hmc.edu }
+editors:
+    - { givenName: Ralf, familyName: Cordeiro, email: ralfts@gmail.com }
+    - { givenName: Catherine, familyName: McFadden, email: mcfadden@g.hmc.edu }
+organisations:
+    - { name: 'Universidade Federal de Pernambuco', country: '' }
+    - { name: 'Harvey Mudd College Department of Biology', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

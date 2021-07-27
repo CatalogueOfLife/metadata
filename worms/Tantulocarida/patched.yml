@@ -1,0 +1,25 @@
+---
+title: 'World List of Tantulocarida'
+alias: 'WoRMS Tantulocarida'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: tantulocaridans
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '97'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Boxshall, G. A. (2021). World List of Tantulocarida. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Geoff, familyName: Boxshall, email: g.boxshall@nhm.ac.uk }
+editors:
+    - { givenName: Geoff, familyName: Boxshall, email: g.boxshall@nhm.ac.uk, orcid: 0000-0001-8170-7734 }
+organisations:
+    - { name: 'Natural History Museum Department of Zoology', country: UK }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

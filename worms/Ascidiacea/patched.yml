@@ -1,0 +1,37 @@
+---
+title: 'Ascidiacea World Database'
+alias: 'WoRMS Ascidiacea'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'sea squirts'
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/ascidiacea'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Shenkar, N.; Gittenberger, A.; Lambert, G.; Rius, M.; Moreira da Rocha, R.; Swalla, B.J.; Turon, X. (2021). Ascidiacea World Database. Accessed at http://www.marinespecies.org/ascidiacea on 2021-07-22. doi:10.14284/353'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Noa, familyName: Shenkar, email: noa.shenkar@gmail.com }
+editors:
+    - { givenName: Arjan, familyName: Gittenberger, email: Arjan.Gittenberger@naturalis.nl }
+    - { givenName: Gretchen, familyName: Lambert, email: gretchen.lambert00@gmail.com }
+    - { givenName: Rosana, familyName: 'Moreira da Rocha', email: rmrocha@ufpr.br }
+    - { givenName: Marc, familyName: Rius, email: M.Rius@soton.ac.uk, orcid: 0000-0002-2195-6605 }
+    - { givenName: Noa, familyName: Shenkar, email: noa.shenkar@gmail.com }
+    - { givenName: Billie, familyName: Swalla, email: bjswalla@u.washington.edu, orcid: 0000-0002-4200-2544 }
+    - { givenName: Xavier, familyName: Turon, email: xturon@ceab.csic.es, orcid: 0000-0002-9229-5541 }
+organisations:
+    - { name: 'Naturalis Biodiversity Center Department of Marine Zoology', country: Netherlands }
+    - { name: 'University of Washington Friday Harbor Laboratories', country: USA }
+    - { name: 'Universidade Federal do Paraná Departamento de Zoologia', country: Brasil }
+    - { name: 'University of Southampton; National Oceanography Centre School of Ocean and Earth Science', country: UK }
+    - { name: 'Tel-Aviv University; Faculty of Life Sciences Department of Zoology', country: Israel }
+    - { name: 'University of Washington Biology Department', country: USA }
+    - { name: 'Spanish Council for Scientific Research Centre for Advanced Studies of Blanes', country: Spain }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

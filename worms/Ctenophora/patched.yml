@@ -1,0 +1,24 @@
+---
+title: 'Phylum Ctenophora: list of all valid species names. Electronic internet document'
+alias: 'WoRMS Ctenophora'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'comb jellies'
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://faculty.washington.edu/cemills/Ctenolist.html'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Mills, C.E. Internet (1998-present). Phylum Ctenophora: list of all valid species names. Electronic internet document. Accessed at http://faculty.washington.edu/cemills/Ctenolist.html on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Claudia, familyName: Mills, email: cemills@u.washington.edu }
+editors:
+    - { givenName: Claudia, familyName: Mills, email: cemills@u.washington.edu }
+organisations:
+    - { name: 'University of Washington Friday Harbor Laboratories', country: USA }
+

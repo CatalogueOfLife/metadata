@@ -1,0 +1,30 @@
+---
+title: 'World List of Scyphozoa'
+alias: 'WoRMS Scyphozoa'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: jellyfishes
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Collins, A. G.; Jarms, G.; Morandini, A. C. (2021). World List of Scyphozoa. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Allen, familyName: Collins, email: collinsa@si.edu }
+    - { givenName: Gerhard, familyName: Jarms, email: '' }
+    - { givenName: André, familyName: Morandini, email: acmorand@ib.usp.br }
+editors:
+    - { givenName: Allen, familyName: Collins, email: collinsa@si.edu }
+    - { givenName: Gerhard, familyName: Jarms, email: '' }
+    - { givenName: André, familyName: Morandini, email: acmorand@ib.usp.br }
+organisations:
+    - { name: 'Smithsonian Institution; National Museum of Natural History Department of Invertebrate Zoology', country: USA }
+    - { name: 'University of  São Paulo; Instituto de Biociências Laboratório de Cultivo e Estudos de Cnidaria', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

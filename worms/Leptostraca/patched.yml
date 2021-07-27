@@ -1,0 +1,27 @@
+---
+title: 'World List of Leptostraca'
+alias: 'WoRMS Leptostraca'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: ''
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '98'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Mees, J.; Walker-Smith, G. (2021). World List of Leptostraca. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Jan, familyName: Mees, email: jan.mees@vliz.be }
+    - { givenName: Genefor, familyName: Walker-Smith, email: gwalker@museum.vic.gov.au }
+editors:
+    - { givenName: Jan, familyName: Mees, email: jan.mees@vliz.be, orcid: 0000-0001-5709-3816 }
+    - { givenName: Genefor, familyName: Walker-Smith, email: gwalker@museum.vic.gov.au }
+organisations:
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+    - { name: 'Museums Victoria', country: Australia }
+

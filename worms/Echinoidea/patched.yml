@@ -1,0 +1,29 @@
+---
+title: 'World Echinoidea Database'
+alias: 'WoRMS Echinoidea'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: sea-urchins
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '94'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/echinoidea'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Kroh, A.; Mooi, R. (2021). World Echinoidea Database. Accessed at http://www.marinespecies.org/echinoidea on 2021-07-22. doi:10.14284/355'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Andreas, familyName: Kroh, email: andreas.kroh@nhm-wien.ac.at }
+editors:
+    - { givenName: Andreas, familyName: Kroh, email: andreas.kroh@nhm-wien.ac.at, orcid: 0000-0002-8566-8848 }
+    - { givenName: Richard, familyName: Mooi, email: rmooi@calacademy.org }
+    - { givenName: Thomas, familyName: Saucède, email: thomas.saucede@u-bourgogne.fr }
+organisations:
+    - { name: 'Natural History Museum Vienna', country: Austria }
+    - { name: 'California Academy of Sciences Department of Invertebrate Zoology & Geology', country: USA }
+    - { name: Biogéosciences, country: France }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

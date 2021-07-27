@@ -1,0 +1,29 @@
+---
+title: 'World Ophiuroidea Database'
+alias: 'WoRMS Ophiuroidea'
+description: 'This first ever world database of extant ophiuroid species names is the result of long term accumulation of taxonomic information from the literature. It is the most recent and up-to-date census of the taxon available. Data are contributed to the Catalogue of Life via the World Register of Marine Species (WoRMS), hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'brittle stars'
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/ophiuroidea'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Stöhr, S.; O’Hara, T.; Thuy, B. (Eds) (2021). World Ophiuroidea Database. Accessed at http://www.marinespecies.org/ophiuroidea on 2021-07-22. doi:10.14284/358'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Sabine, familyName: Stöhr, email: sabine.stohr@nrm.se }
+editors:
+    - { givenName: Tim, familyName: "O'Hara", email: tohara@museum.vic.gov.au, orcid: 0000-0003-0885-6578 }
+    - { givenName: Sabine, familyName: Stöhr, email: sabine.stohr@nrm.se, orcid: 0000-0002-2586-7239 }
+    - { givenName: Ben, familyName: Thuy, email: nebyuht@yahoo.com }
+organisations:
+    - { name: 'Museums Victoria', country: Australia }
+    - { name: 'Swedish Museum of Natural History Department of Invertebrate Zoology', country: Sweden }
+    - { name: 'University of Göttingen Geological Museum', country: Sweden }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

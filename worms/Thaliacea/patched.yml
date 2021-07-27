@@ -1,0 +1,31 @@
+---
+title: 'World List of Thaliacea'
+alias: 'WoRMS Thaliacea'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: Thaliacea
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Madin, L. (2021). World List of Thaliacea. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Rade, familyName: Garic, email: rade.garic@unidu.hr }
+    - { givenName: Larry, familyName: Madin, email: lmadin@whoi.edu }
+    - { givenName: Rob, familyName: 'van Soest', email: Rob.vanSoest@naturalis.nl }
+editors:
+    - { givenName: Rade, familyName: Garic, email: rade.garic@unidu.hr }
+    - { givenName: Larry, familyName: Madin, email: lmadin@whoi.edu }
+    - { givenName: Rob, familyName: 'van Soest', email: Rob.vanSoest@naturalis.nl }
+organisations:
+    - { name: 'University of Dubrovnik Institute for Marine and Coastal Research', country: '' }
+    - { name: 'Woods Hole Oceanographic Institution', country: USA }
+    - { name: 'Naturalis Biodiversity Center', country: Netherlands }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

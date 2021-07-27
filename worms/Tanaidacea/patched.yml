@@ -1,0 +1,31 @@
+---
+title: 'World List of Tanaidacea'
+alias: 'WoRMS Tanaidacea'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: tanaids
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '100'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Anderson, G.; Blazewicz, M. (2021). World List of Tanaidacea. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Gary, familyName: Anderson, email: gary.anderson@usm.edu }
+    - { givenName: Magdalena, familyName: Błażewicz-Paszkowycz, email: magdab@biol.uni.lodz.pl }
+    - { givenName: Piotr, familyName: Jóźwiak, email: piotr.jozwiak@biol.uni.lodz.pl }
+editors:
+    - { givenName: Gary, familyName: Anderson, email: gary.anderson@usm.edu }
+    - { givenName: Magdalena, familyName: Błażewicz-Paszkowycz, email: magdab@biol.uni.lodz.pl }
+    - { givenName: Piotr, familyName: Jóźwiak, email: piotr.jozwiak@biol.uni.lodz.pl }
+organisations:
+    - { name: 'The University of Southern Mississippi Department of Biological Sciences', country: USA }
+    - { name: 'University of Lodz; Dept. Invertebrate Zoology & Hydrobiology Laboratory of Polar Biology and Oceanobiology', country: Poland }
+    - { name: 'University of Lodz Faculty of Biology and Environmental Protection', country: Poland }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

@@ -1,0 +1,27 @@
+---
+title: 'World Cumacea Database'
+alias: 'WoRMS Cumacea'
+description: 'Cumaceans are small crustaceans, generally 1-10mm in size, which occur from tidal to abyssal depths in marine (and brackish) waters throughout the world. Data contributed to the Catalogue of Life via World Register of Marine Species (WoRMS), hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: cumaceans
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '100'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/cumacea'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Watling, L.; Gerken, S. (2021). World Cumacea Database. Accessed at http://www.marinespecies.org/cumacea on 2021-07-22. doi:10.14284/354'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Les, familyName: Watling, email: watling@maine.edu }
+editors:
+    - { givenName: Sarah, familyName: Gerken, email: sagerken@alaska.edu }
+    - { givenName: Les, familyName: Watling, email: watling@maine.edu }
+organisations:
+    - { name: 'University of Alaska Anchorage Department of Biological Sciences', country: 'Alaska; U.S.A.' }
+    - { name: 'University of Maine Darling Marine Center', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

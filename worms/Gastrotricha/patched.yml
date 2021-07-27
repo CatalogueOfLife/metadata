@@ -1,0 +1,28 @@
+---
+title: 'World Gastrotricha Database'
+alias: 'WoRMS Gastrotricha'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: gastrotrichs
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '90'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Todaro, A.; d''Hondt, J-L. & Hummon, W. (2021). World Gastrotricha Database. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Jean-Loup, familyName: 'd''Hondt', email: dhondt@mnhn.fr }
+    - { givenName: Antonio, familyName: Todaro, email: antonio.todaro@unimore.it }
+editors:
+    - { givenName: Jean-Loup, familyName: 'd''Hondt', email: dhondt@mnhn.fr }
+    - { givenName: Antonio, familyName: Todaro, email: antonio.todaro@unimore.it, orcid: 0000-0002-6353-7281 }
+organisations:
+    - { name: 'National Natural History Museum Paris Département Milieux et Peuplements Aquatiques', country: France }
+    - { name: 'University of Modena e Reggio Emilia', country: Italy }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

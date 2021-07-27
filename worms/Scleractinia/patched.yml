@@ -1,0 +1,27 @@
+---
+title: 'World List of Scleractinia'
+alias: 'WoRMS Scleractinia'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'hard corals'
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/scleractinia'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Hoeksema, B. W.; Cairns, S. (2021). World List of Scleractinia. Accessed at http://www.marinespecies.org/scleractinia on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Bert, familyName: Hoeksema, email: bert.hoeksema@naturalis.nl }
+editors:
+    - { givenName: Stephen, familyName: Cairns, email: cairnss@si.edu }
+    - { givenName: Bert, familyName: Hoeksema, email: bert.hoeksema@naturalis.nl, orcid: 0000-0001-8259-3783 }
+organisations:
+    - { name: 'Smithsonian Institution; National Museum of Natural History Department of Invertebrate Zoology', country: USA }
+    - { name: 'Naturalis Biodiversity Center Department of Marine Zoology', country: Netherlands }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

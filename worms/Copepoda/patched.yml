@@ -1,0 +1,53 @@
+---
+title: 'World of Copepods Database'
+alias: 'WoRMS Copepoda'
+description: "This World Database of all species of Copepoda ever described, is part of the World Register of Marine Species (WoRMS), a global initiative to provide a register of all marine organisms.\r\nData have been contributed to the Catalogue of Life via WoRMS, hosted by the Flanders Marine Institute (VLIZ)."
+geographicScope: Global
+taxonomicScope: copepods
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/copepoda'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Walter, T.C.; Boxshall, G. (2021). World of Copepods Database. Accessed at http://www.marinespecies.org/copepoda on 2021-07-22. doi:10.14284/356'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: 'T. Chad', familyName: Walter, email: walterc@si.edu }
+editors:
+    - { givenName: James, familyName: Bernot, email: jbernot@gwmail.gwu.edu }
+    - { givenName: Ruth, familyName: Böttger-Schnack, email: dschnack@geomar.de }
+    - { givenName: Geoff, familyName: Boxshall, email: g.boxshall@nhm.ac.uk, orcid: 0000-0001-8170-7734 }
+    - { givenName: Astrid, familyName: Cornils, email: Astrid.Cornils@awi.de }
+    - { givenName: Danielle, familyName: Defaye, email: ddefaye@mnhn.fr }
+    - { givenName: Diego, familyName: Figueroa, email: diego.figueroa@utrgv.edu }
+    - { givenName: Santiago, familyName: Gaviria-Melo, email: santiago.gaviria@univie.ac.at }
+    - { givenName: Hendrik, familyName: Gheerardyn, email: '' }
+    - { givenName: 'Samuel Enrique', familyName: Gómez-Noguera, email: samuelgomez@ola.icmyl.unam.mx }
+    - { givenName: Ju-shey, familyName: Ho, email: info@marinespecies.org }
+    - { givenName: Slava, familyName: Ivanenko, email: Ivanenko.slava@gmail.com }
+    - { givenName: Juliana, familyName: Kouwenberg, email: info@marinespecies.org }
+    - { givenName: Eduardo, familyName: Suárez-Morales, email: esuarez@ecosur.mx }
+    - { givenName: Danny, familyName: Tang, email: copepods@gmail.com }
+    - { givenName: Julian, familyName: Uribe-Palomino, email: Julian.Uribepalomino@csiro.au }
+    - { givenName: 'T. Chad', familyName: Walter, email: walterc@si.edu }
+organisations:
+    - { name: 'George Washington University', country: '' }
+    - { name: 'Helmholtz Centre for Ocean Research Kiel', country: Germany }
+    - { name: 'Natural History Museum Department of Zoology', country: UK }
+    - { name: 'Alfred Wegener Institute for Polar- and Marine Research', country: Germany }
+    - { name: 'National Natural History Museum Paris', country: France }
+    - { name: 'University of Texas Rio Grande Valley Department of Biology', country: France }
+    - { name: 'University of Vienna; Faculty of Life Sciences; Vienna Ecology Center Department of Functional and Evolutionary Ecology Division of Limnology', country: France }
+    - { name: 'Universidad Nacional Autonoma de Mexico; Instituto de Ciencias del Mar y Limnologia Unidad Académica Mazatlán', country: Mexico }
+    - { name: 'WoRMS Editorial Board', country: '' }
+    - { name: 'Lomonosov Moscow State University', country: Russia }
+    - { name: 'El Colegio de la Frontera Sur', country: Mexico }
+    - { name: 'Orange County Sanitation District Environmental Laboratory & Ocean Monitoring Division', country: Mexico }
+    - { name: 'Commonwealth Scientific & Industrial Research Organisation Marine and Atmospheric Research', country: Australia }
+    - { name: 'Smithsonian Institution; National Museum of Natural History Department of Invertebrate Zoology', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

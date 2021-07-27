@@ -1,0 +1,59 @@
+---
+title: 'World Polychaeta Database'
+alias: 'WoRMS Polychaeta'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: polychaetes
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '92'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/polychaeta'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Read, G.; Fauchald, K. (Ed.) (2021). World Polychaeta Database. Accessed at http://www.marinespecies.org/polychaeta on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Geoffrey, familyName: Read, email: Geoffrey.Read@niwa.co.nz }
+editors:
+    - { givenName: Christos, familyName: Arvanitidis, email: arvanitidis@her.hcmr.gr }
+    - { givenName: Luis, familyName: Carrera-Parra, email: lcarrera@ecosur.mx }
+    - { givenName: Stacy, familyName: Doner, email: '' }
+    - { givenName: Danny, familyName: Eibye-Jacobsen, email: dejacobsen@snm.ku.dk }
+    - { givenName: Kristian, familyName: Fauchald, email: '' }
+    - { givenName: Vanessa, familyName: Fernández-Rodríguez, email: vannebiol@gmail.com }
+    - { givenName: Christopher, familyName: Glasby, email: chris.glasby@nt.gov.au }
+    - { givenName: 'Adrian G.', familyName: Glover, email: a.glover@nhm.ac.uk, orcid: 0000-0002-9489-074X }
+    - { givenName: Leslie, familyName: Harris, email: lharris@nhm.org }
+    - { givenName: Mario, familyName: Londoño-Mesa, email: mariolon@gmail.com }
+    - { givenName: Lenka, familyName: Nealova, email: l.nealova@nhm.ac.uk }
+    - { givenName: Hannelore, familyName: Paxton, email: hannelore.paxton@mq.edu.au }
+    - { givenName: Geoffrey, familyName: Read, email: Geoffrey.Read@niwa.co.nz }
+    - { givenName: Michael, familyName: Reuscher, email: mreuscher@ecoanalysts.com }
+    - { givenName: Sergio, familyName: Salazar-Vallejo, email: ssalazar@ecosur.mx }
+    - { givenName: Jacek, familyName: Siciński, email: sicinski@biol.uni.lodz.pl }
+    - { givenName: Harry, familyName: 'ten Hove', email: Harry.tenHove@naturalis.nl }
+    - { givenName: Robin, familyName: Wilson, email: rwilson@museum.vic.gov.au }
+    - { givenName: Joana, familyName: Zanol, email: joanazanol@ufrj.br }
+organisations:
+    - { name: 'Hellenic Centre for Marine Research Institute of Marine Biology, Biotechnology and Aquaculture', country: Greece }
+    - { name: 'El Colegio de la Frontera Sur; Department of Aquatic Ecology Unidad Chetumal', country: Greece }
+    - { name: 'University of Copenhagen; Faculty of Science Natural History Museum of Denmark', country: Denmark }
+    - { name: 'University of Antioquia; Faculty of Exact and Natural Sciences; Institute of Biology Grupo de Limnología Básica y Experimental y  Biología y Taxonomía Marina', country: Colombia }
+    - { name: 'Natural Sciences, Museum & Art Gallery of the Northern Territory', country: Australia }
+    - { name: 'Natural History Museum Department of Zoology', country: UK }
+    - { name: 'Natural History Museum of Los Angeles County', country: USA }
+    - { name: 'University of Antioquia; Faculty of Exact and Natural Sciences Institute of Biology', country: USA }
+    - { name: 'Natural History Museum', country: UK }
+    - { name: 'Macquarie University; Faculty of Science Department of Biological Sciences', country: UK }
+    - { name: 'National Institute of Water and Atmospheric Research Wellington', country: 'New Zealand' }
+    - { name: 'EcoAnalysts, Inc.', country: USA }
+    - { name: 'El Colegio de la Frontera Sur Department of Aquatic Ecology', country: USA }
+    - { name: 'University of Lodz; Dept. Invertebrate Zoology & Hydrobiology Laboratory of Polar Biology and Oceanobiology', country: Poland }
+    - { name: 'Naturalis Biodiversity Center', country: Netherlands }
+    - { name: 'Museums Victoria', country: Australia }
+    - { name: 'Universidade Federal do Rio de Janeiro; Departamento de Zoologia Laboratório de Poliquetas', country: Brasil }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

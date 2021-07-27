@@ -1,0 +1,89 @@
+---
+title: 'World Amphipoda Database'
+alias: 'WoRMS Amphipoda'
+description: 'The amphipods belong to the very diverse crustacean class Malacostraca, which includes other common groups such as crabs, lobsters and shrimp. The order Amphipoda is part of the superorder Peracarida, uniting a diverse group of small shrimp-like taxa that brood their young in a pouch, with no independent larval dispersal stage. It currently contains over 10k species'
+geographicScope: Global
+taxonomicScope: amphipods
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '90'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/amphipoda'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Horton, T.; Lowry, J.; De Broyer, C.; Bellan-Santini, D.; Coleman, C.O.; Corbari, L.; Costello, M.J.; Daneliya, M.; Dauvin, J.-C.; Fišer, C.; Gasca, R.; Grabowski, M.; Guerra-García, J.M.; Hendrycks, E.; Hughes, L.; Jaume, D.; Jazdzewski, K.; Kim, Y.-H.; King, R.; Krapp-Schickel, T.; LeCroy, S.; Lörz, A.-N.; Mamos, T.; Senna, A.R.; Serejo, C.; Sket, B.; Souza-Filho, J.F.; Tandberg, A.H.; Thomas, J.D.; Thurston, M.; Vader, W.; Väinölä, R.; Vonk, R.; White, K.; Zeidler, W. (2021). World Amphipoda Database. Accessed at http://www.marinespecies.org/amphipoda on 2021-07-22. doi:10.14284/368'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Tammy, familyName: Horton, email: tammy.horton@noc.ac.uk }
+editors:
+    - { givenName: Denise, familyName: Bellan-Santini, email: denise.bellan@univ-amu.fr }
+    - { givenName: 'Charles Oliver', familyName: Coleman, email: oliver.coleman@mfn-berlin.de, orcid: 0000-0002-3051-7575 }
+    - { givenName: Laure, familyName: Corbari, email: laure.corbari@mnhn.fr, orcid: 0000-0002-3323-6162 }
+    - { givenName: Mark, familyName: Costello, email: mark.j.costello@nord.no, orcid: 0000-0003-2362-0328 }
+    - { givenName: Mikhail, familyName: Daneliya, email: mikhail.daneliya@helsinki.fi }
+    - { givenName: Jean-Claude, familyName: Dauvin, email: jean-claude.dauvin@unicaen.fr, orcid: 0000-0001-8361-5382 }
+    - { givenName: Claude, familyName: 'De Broyer', email: cdebroyer@naturalsciences.be }
+    - { givenName: Cene, familyName: Fišer, email: Cene.Fiser@bf.uni-lj.si }
+    - { givenName: Rebeca, familyName: Gasca, email: rgasca@ecosur.mx, orcid: 0000-0002-9716-1964 }
+    - { givenName: Michal, familyName: Grabowski, email: michalg@biol.uni.lodz.pl, orcid: 0000-0002-4551-3454 }
+    - { givenName: 'José Manuel', familyName: Guerra-García, email: jmguerra@us.es, orcid: 0000-0001-6050-4997 }
+    - { givenName: Ed, familyName: Hendrycks, email: EHENDRYCKS@mus-nature.ca }
+    - { givenName: Tammy, familyName: Horton, email: tammy.horton@noc.ac.uk, orcid: 0000-0003-4250-1068 }
+    - { givenName: Lauren, familyName: Hughes, email: l.hughes@nhm.ac.uk }
+    - { givenName: Damià, familyName: Jaume, email: damiajaume@imedea.uib-csic.es, orcid: 0000-0002-1857-3005 }
+    - { givenName: Krzysztof, familyName: Jazdzewski, email: info@marinespecies.org }
+    - { givenName: Young-Hyo, familyName: Kim, email: yhkim@dankook.ac.kr }
+    - { givenName: Rachael, familyName: King, email: Rachael.King@samuseum.sa.gov.au, orcid: 0000-0001-8089-7599 }
+    - { givenName: Traudl, familyName: Krapp-Schickel, email: traudl.krapp@netcologne.de }
+    - { givenName: Sara, familyName: LeCroy, email: sara.lecroy@usm.edu }
+    - { givenName: Anne-Nina, familyName: Lörz, email: Anne-Nina.Loerz@uni-hamburg.de }
+    - { givenName: Jim, familyName: Lowry, email: Jim.Lowry@austmus.gov.au }
+    - { givenName: Tomasz, familyName: Mamos, email: tmamos@biol.uni.lodz.pl, orcid: 0000-0002-0524-3015 }
+    - { givenName: André, familyName: Senna, email: senna.carcinologia@gmail.com }
+    - { givenName: Cristiana, familyName: Serejo, email: csserejo@acd.ufrj.br, orcid: 0000-0001-9132-5537 }
+    - { givenName: Boris, familyName: Sket, email: boris.sket@bf.uni-lj.si, orcid: 0000-0002-7398-5483 }
+    - { givenName: 'Jesser F.', familyName: Souza-Filho, email: jesser_fidelis@yahoo.com.br, orcid: 0000-0001-5248-2134 }
+    - { givenName: 'Anne Helene', familyName: Tandberg, email: Anne.Helene.Tandberg@uib.no, orcid: 0000-0003-3470-587X }
+    - { givenName: 'James Darwin', familyName: Thomas, email: info@marinespecies.org }
+    - { givenName: Mike, familyName: Thurston, email: mhth@noc.ac.uk }
+    - { givenName: Wim, familyName: Vader, email: info@marinespecies.org }
+    - { givenName: Risto, familyName: Väinölä, email: risto.vainola@helsinki.fi }
+    - { givenName: Ronald, familyName: Vonk, email: ' ronald.vonk@naturalis.nl' }
+    - { givenName: Kristine, familyName: White, email: white.kristinen@gmail.com }
+    - { givenName: Wolfgang, familyName: Zeidler, email: wolfgang.zeidler@samuseum.sa.gov.au }
+organisations:
+    - { name: 'The National Center for Scientific Research Mediterranean Institute of marine and terrestrial Biodiversity and Ecology', country: France }
+    - { name: 'Leibniz Institute for Evolution and Biodiversity Museum für Naturkunde', country: Germany }
+    - { name: 'National Natural History Museum Paris', country: France }
+    - { name: 'Nord University Faculty of Bioscience and Aquaculture', country: Norway }
+    - { name: 'University of Helsinki', country: Finland }
+    - { name: 'Université de Caen Morphodynamique Continentale et Côtière', country: France }
+    - { name: 'Belgian National Committee on Antarctic Research', country: Belgium }
+    - { name: 'University of Ljubljana; Biotechnical Faculty Department of Biology', country: Slovenia }
+    - { name: 'El Colegio de la Frontera Sur Department of Aquatic Ecology', country: Slovenia }
+    - { name: 'University of Lodz Dept. Invertebrate Zoology & Hydrobiology', country: Slovenia }
+    - { name: 'University of Sevilla Laboratorio di Biologia Marina', country: Slovenia }
+    - { name: 'Canadian Museum of Nature', country: Canada }
+    - { name: 'University of Southampton; National Oceanography Centre Ocean Biogeochemistry and Ecosystems', country: UK }
+    - { name: 'Natural History Museum', country: UK }
+    - { name: 'Universitat de les Illes Balears Instituto Mediterraneo de Estudios Avanzados', country: Spain }
+    - { name: 'WoRMS Editorial Board', country: '' }
+    - { name: 'Dankook University Department of Life Sciences', country: '' }
+    - { name: 'South Australian Museum', country: Australia }
+    - { name: 'Zoologisches Forschungsinstitut und Museum Alexander Koenig', country: Germany }
+    - { name: 'The University of Southern Mississippi Gulf Coast Research Laboratory', country: USA }
+    - { name: 'University of Hamburg Center of Natural History', country: USA }
+    - { name: 'Australian Museum Marine Invertebrates', country: Australia }
+    - { name: 'Centro Universitário de Volta Redonda', country: Brasil }
+    - { name: 'Universidade Federal do Estado do Rio de Janeiro Museu Nacional', country: Brasil }
+    - { name: 'Universidade Federal de Pernambuco Museu de Oceanografia "Dr. Petrônio Alves Coelho"', country: Brasil }
+    - { name: 'University of Bergen Bergen Museum', country: Norway }
+    - { name: 'University of Southampton National Oceanography Centre', country: UK }
+    - { name: 'University of Helsinki Finnish Museum of Natural History', country: Finland }
+    - { name: 'Naturalis Biodiversity Center', country: Netherlands }
+    - { name: 'University of Ryukyus', country: Japan }
+    - { name: 'South Australian Museum Department of Invertebrates', country: Japan }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

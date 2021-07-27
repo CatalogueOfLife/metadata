@@ -1,0 +1,25 @@
+---
+title: 'World List of Merostomata'
+alias: 'WoRMS Merostomata'
+description: 'This global species list of Merostomata is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. There are only four valid recent species of horseshoe crabs (Merostomata), but the group has an extensive fossil record not captured by WoRMS. The synonymies are mainly drawn from the annotated catalogue of the horseshoe crabs in the collections of the Museum für Naturkunde Berlin by Dunlop, Compton & Friederichs (2012). Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'horseshoe crabs'
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '100'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Boxshall, G. (2021). World List of Merostomata. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Geoff, familyName: Boxshall, email: g.boxshall@nhm.ac.uk }
+editors:
+    - { givenName: Geoff, familyName: Boxshall, email: g.boxshall@nhm.ac.uk, orcid: 0000-0001-8170-7734 }
+organisations:
+    - { name: 'Natural History Museum Department of Zoology', country: UK }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

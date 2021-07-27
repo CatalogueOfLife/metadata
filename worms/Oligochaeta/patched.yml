@@ -1,0 +1,25 @@
+---
+title: 'World List of Marine Oligochaeta'
+alias: 'WoRMS Oligochaeta'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: earthworms
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '99'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Timm, T. & Erséus, C. (2021). World List of Marine Oligochaeta. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Tarmo, familyName: Timm, email: tarmo.timm@emu.ee }
+editors:
+    - { givenName: Tarmo, familyName: Timm, email: tarmo.timm@emu.ee }
+organisations:
+    - { name: 'Estonian University of Life Sciences; Institute of Agricultural and Environmental Sciences Centre for Limnology', country: '' }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

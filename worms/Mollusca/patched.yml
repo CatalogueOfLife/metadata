@@ -1,0 +1,75 @@
+---
+title: MolluscaBase
+alias: 'WoRMS Mollusca'
+description: 'This global species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: molluscs
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.molluscabase.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'MolluscaBase eds. (2021). MolluscaBase. Accessed at http://www.molluscabase.org on 2021-07-22. doi:10.14284/448'
+code: zoological
+gazetteer: mrgid
+contact:
+    - info@marinespecies.org
+editors:
+    - { givenName: Kurt, familyName: Auffenberg, email: info@marinespecies.org }
+    - { givenName: Ruud, familyName: Bank, email: r.a.bank@umcg.nl }
+    - { givenName: Rüdiger, familyName: Bieler, email: rbieler@fieldmuseum.org }
+    - { givenName: Philippe, familyName: Bouchet, email: pbouchet@mnhn.fr }
+    - { givenName: Marien, familyName: Faber, email: info@marinespecies.org }
+    - { givenName: Julian, familyName: Finn, email: jfinn@museum.vic.gov.au }
+    - { givenName: Oscar, familyName: Garcia-Alvarez, email: ogarcia-alvarez@edu.xunta.es }
+    - { givenName: Serge, familyName: Gofas, email: sgofas@uma.es, orcid: 0000-0002-3141-3700 }
+    - { givenName: Dai, familyName: Herbert, email: phasianella@gmail.com }
+    - { givenName: Roland, familyName: Houart, email: roland.houart@skynet.be }
+    - { givenName: Ronald, familyName: Janssen, email: ronald.janssen@senckenberg.de }
+    - { givenName: Alan, familyName: Kabat, email: alankabat@aol.com }
+    - { givenName: Yuri, familyName: Kantor, email: kantor.yuri1956@gmail.com }
+    - { givenName: Frank, familyName: Köhler, email: frank.koehler@outlook.com.au }
+    - { givenName: Bruce, familyName: Marshall, email: BruceM@tepapa.govt.nz }
+    - { givenName: 'Thomas A.', familyName: Neubauer, email: thomas.a.neubauer@allzool.bio.uni-giessen.de, orcid: 0000-0002-1398-9941 }
+    - { givenName: Eike, familyName: Neubert, email: Eike.Neubert@nmbe.ch }
+    - { givenName: Barna, familyName: Páll-Gergely, email: pallgergely2@gmail.com }
+    - { givenName: Bernard, familyName: Picton, email: bernard.picton@nmni.com, orcid: 0000-0002-1500-2215 }
+    - { givenName: Ira, familyName: Richling, email: ira@helicina.de }
+    - { givenName: Luigi, familyName: Romani, email: info@marinespecies.org }
+    - { givenName: Gary, familyName: Rosenberg, email: rosenberg.ansp@drexel.edu }
+    - { givenName: Simon, familyName: Schneider, email: simon.schneider@casp.org.uk }
+    - { givenName: John, familyName: Taylor, email: j.taylor@nhm.ac.uk }
+    - { givenName: 'Jan Johan', familyName: 'ter Poorten', email: info@marinespecies.org }
+    - { givenName: Maxim, familyName: Vinarski, email: radix.vinarski@gmail.com }
+    - { givenName: Chris, familyName: Vos, email: info@marinespecies.org }
+    - { givenName: Ulrich, familyName: Wieneke, email: biermann.wieneke@t-online.de }
+organisations:
+    - { name: 'MolluscaBase eds.', country: '' }
+    - { name: 'Rijksuniversiteit Groningen Faculty of Medical Sciences', country: '' }
+    - { name: 'Field Museum of Natural History', country: USA }
+    - { name: 'National Natural History Museum Paris Department Systematics and Evolution', country: France }
+    - { name: 'Museums Victoria', country: Australia }
+    - { name: 'University of Santiago de Compostela Department of Zoology', country: Spain }
+    - { name: 'University of Málaga; Faculty of Sciences Departamento de Biología Animal', country: Spain }
+    - { name: 'National Museum of Wales Department of Natural Sciences', country: Spain }
+    - { name: 'Koninklijk Belgisch Instituut voor Natuurwetenschappen; Operationele Directie Taxonomie en Fylogenie Afdeling Malacologie', country: Belgium }
+    - { name: 'Senckenberg Nature Research Society Research Institute and Natural History Museum', country: Germany }
+    - { name: 'Harvard University Museum of Comparative Zoology', country: USA }
+    - { name: 'Russian Academy of Sciences A.N. Severtsov Institute of Ecology and Evolution', country: Russia }
+    - { name: 'Australian Museum Australian Museum Research Institute', country: Australia }
+    - { name: 'Museum of New Zealand Te Papa Tongarewa', country: 'New Zealand' }
+    - { name: 'Justus Liebig University', country: Germany }
+    - { name: 'Naturhistorisches Museum der Burgergemeinde Bern', country: Switzerland }
+    - { name: 'Hungarian Academy of Sciences; Centre for Agricultural Research Plant Protection Institute', country: Hungary }
+    - { name: 'National Museums of Northern Ireland Ulster Museum', country: Ireland }
+    - { name: 'Stuttgart State Museum of Natural History', country: Germany }
+    - { name: 'Drexel University Academy of Natural Sciences', country: USA }
+    - { name: 'University of Cambridge CASP', country: UK }
+    - { name: 'Natural History Museum Department of Zoology', country: UK }
+    - { name: 'St.-Petersburg State University', country: Russia }
+    - { name: 'Gastropoda Stromboidea', country: Germany }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

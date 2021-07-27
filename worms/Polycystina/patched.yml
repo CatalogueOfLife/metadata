@@ -1,0 +1,25 @@
+---
+title: 'World List of Polycystina (Radiolaria)'
+alias: 'WoRMS Polycystina'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: ''
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '100'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Lazarus, D. (2021). World List of Polycystina (Radiolaria). Accessed at http://www.marinespecies.org on 2021-07-22'
+code: botanical
+gazetteer: mrgid
+contact:
+    - { givenName: David, familyName: Lazarus, email: david.lazarus@mfn-berlin.de }
+editors:
+    - { givenName: David, familyName: Lazarus, email: david.lazarus@mfn-berlin.de }
+organisations:
+    - { name: 'Leibniz Institute for Evolution and Biodiversity Museum für Naturkunde', country: Germany }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

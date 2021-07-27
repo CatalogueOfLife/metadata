@@ -1,0 +1,37 @@
+---
+title: 'World List of Zoantharia'
+alias: 'WoRMS Zoantharia'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'encrusting anemones'
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Reimer, J.; Sinniger, F. (2021) World List of Zoantharia. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Martine, familyName: Leermakers, email: mleermak@vub.ac.be }
+editors:
+    - { givenName: Sonja, familyName: Lojen, email: sonja.lojen@ijs.si, orcid: 0000-0001-8267-4372 }
+    - { givenName: Jean-François, familyName: Barthe, email: jean-francois.barthe@univ-lille1.fr }
+    - { givenName: Cédric, familyName: Gabelle, email: cedric.gabelle@ed.univ-lille1.fr }
+    - { givenName: Bagdad, familyName: Ouddane, email: ouddane@univ-lille1.fr }
+    - { givenName: Michel, familyName: Wartel, email: michel.wartel@univ-lille1.fr }
+    - { givenName: Ward, familyName: Appeltans, email: w.appeltans@unesco.org }
+    - { givenName: Klaas, familyName: Deneudt, email: klaas.deneudt@vliz.be, orcid: 0000-0002-8559-3508 }
+    - { givenName: Willy, familyName: Baeyens, email: willy.baeyens@vub.ac.be, orcid: 0000-0002-5281-903X }
+    - { givenName: Yue, familyName: Gao, email: yuegao@vub.ac.be, orcid: 0000-0002-0582-395X }
+    - { givenName: Martine, familyName: Leermakers, email: mleermak@vub.ac.be }
+organisations:
+    - { name: 'J. Stefan Institute Department of Environmental Sciences', country: Slovenia }
+    - { name: 'Université des Sciences et Technologies de Lille; UMR Géosystèmes Equipe de Chimie Analytique et Marine', country: France }
+    - { name: 'UNESCO; Intergovernmental Oceanographic Commission UNESCO/IOC Project Office for IODE', country: Belgium }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+    - { name: 'Vrije Universiteit Brussel; Faculteit Wetenschappen; Vakgroep Chemie Analytical, Environmental and Geochemistry', country: Belgium }
+

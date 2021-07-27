@@ -1,0 +1,25 @@
+---
+title: 'World List of Crinoidea'
+alias: 'WoRMS Crinoidea'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'sea lilies and feather stars'
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '90'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Messing, C. (2021). World List of Crinoidea. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Charles, familyName: Messing, email: messingc@nova.edu }
+editors:
+    - { givenName: Charles, familyName: Messing, email: messingc@nova.edu }
+organisations:
+    - { name: 'Nova Southeastern University Oceanographic Center', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

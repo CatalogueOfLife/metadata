@@ -1,0 +1,50 @@
+---
+title: 'Nemys: World Database of Nematodes'
+alias: 'WoRMS Nemys'
+description: 'Nemys offers documentation on free-living marine, brackish, fresh-water and terrestrial nematodes, mainly providing taxonomic information but also ecological information. Nemys is integrated into the World Register of Marine Species (WoRMS). Data are contributing to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: roundworms
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '90'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://nemys.ugent.be'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Bezerra, T.N.; Eisendle, U.; Hodda, M.; Holovachov, O.; Leduc, D.; Mokievsky, V.; Peña Santiago, R.; Sharma, J.; Smol, N.; Tchesunov, A.; Venekey, V.; Zhao, Z.; Vanreusel, A. (2021) Nemys: World Database of Nematodes. Accessed at http://nemys.ugent.be on 2021-07-22. doi:10.14284/366'
+code: zoological
+gazetteer: mrgid
+contact:
+    - nemys@marinespecies.org
+editors:
+    - { givenName: 'Tania Nara', familyName: Bezerra, email: tania.campinasbezerra@ugent.be }
+    - { givenName: Tim, familyName: Deprez, email: tim.deprez@ugent.be, orcid: 0000-0003-2862-0028 }
+    - { givenName: Ursula, familyName: Eisendle, email: Ursula.Eisendle@sbg.ac.at }
+    - { givenName: Mike, familyName: Hodda, email: Mike.Hodda@csiro.au }
+    - { givenName: Oleksandr, familyName: Holovachov, email: oleksandr.holovachov@nrm.se, orcid: 0000-0002-4285-0754 }
+    - { givenName: Daniel, familyName: Leduc, email: Daniel.Leduc@niwa.co.nz, orcid: 0000-0001-5310-9198 }
+    - { givenName: Vadim, familyName: Mokievsky, email: vadim@ocean.ru }
+    - { givenName: Reyes, familyName: 'Peña Santiago', email: rpena@ujaen.es, orcid: 0000-0003-1125-5490 }
+    - { givenName: Jyotsna, familyName: Sharma, email: 'jyotsna.sharma@utsa.edu; JSharma06@gmail.com' }
+    - { givenName: Nicole, familyName: Smol, email: Nic.Smol@UGent.be }
+    - { givenName: Alexei, familyName: Tchesunov, email: info@rector.msu.ru }
+    - { givenName: Ann, familyName: Vanreusel, email: ann.vanreusel@ugent.be, orcid: 0000-0003-2983-9523 }
+    - { givenName: Virág, familyName: Venekey, email: venekey@ufpa.br }
+    - { givenName: Zeng, familyName: Zhao, email: ZhaoZ@landcareresearch.co.nz }
+organisations:
+    - { name: 'Universiteit Gent; Faculteit Wetenschappen; Vakgroep Biologie Onderzoeksgroep Mariene Biologie', country: Belgium }
+    - { name: 'Universität Salzburg', country: Austria }
+    - { name: 'Commonwealth Scientific & Industrial Research Organisation', country: Australia }
+    - { name: 'Swedish Museum of Natural History', country: Sweden }
+    - { name: 'National Institute of Water and Atmospheric Research', country: 'New Zealand' }
+    - { name: 'Russian Academy of Sciences P. P. Shirshov Institute of Oceanology', country: Russia }
+    - { name: 'University of Jaén; Faculty of Experimental Sciences Department of Animal Biology, Vegetal Biology and Ecology', country: Spain }
+    - { name: 'University of Texas at San Antonio', country: USA }
+    - { name: 'Universiteit Gent; Faculteit Wetenschappen; Vakgroep Biologie Afdeling Nematologie', country: Belgium }
+    - { name: 'Lomonosov Moscow State University', country: Russia }
+    - { name: 'Universidade Federal do Pará', country: Brasil }
+    - { name: 'Landcare Research', country: 'New Zealand' }
+    - { name: 'Belgian Science Policy', country: Belgium }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

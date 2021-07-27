@@ -1,0 +1,32 @@
+---
+title: 'World Ostracoda Database'
+alias: 'WoRMS Ostracoda'
+description: "The Recent or extant taxa from the World Ostracoda Database-World Register of Marine Species includes mostly marine species, and was data-mined from thousands of publications (see sources in WoRMS). Concerning the Recent non-marine  Ostracoda, very few of the 2,000 species and approximately 200 genera of are included in the present data, because they have already been compiled by Martens et al. (2007). Concerning the high level classification (i.e., down to family level), we follow different authors. The Recent Podocopa classification mostly follows Horne et al. (2002), with two exceptions. First, we include Platycopida within the subclass Platycopa, while Horne et al. (2002) place it within Podocopa. Second, we place the superfamily Puncioidea (which includes a few Recent species) directly in the subclass Palaeocopa, while Horne et al (2002) include it within Subclass Podocopa, order Palaeocopida and  Suborder Kirkbyocopina. The classification of Recent Myodocopa follows diverse classifications of Kornicker and collaborators (e.g. Kornicker et al., 2007).\r\n\r\nHorne, D.J., Cohen, A.C. & Martens, K. (2002). Taxonomy, morphology and biology of Quaternary and living Ostracoda. In: J. Holmes and A. Chivas (Eds), The Ostracoda. Applications in Quaternary Research. Geophysical Monograph. American Geophysical Union, Washington, DC, pp. 5-35. \r\n\r\nKornicker, L.S., Iliffe, T.M. & Harrison-Nelson, E. (2007) Ostracoda (Myodocopa) from anchialine caves and ocean blue holes. Zootaxa 1565, 3-151. \r\n\r\nMartens, K., Schön, I., Meisch, C. & Horne, D.J. (2008) Global diversity of ostracods (Ostracoda, Crustacea) in freshwater. Hydrobiologia 595, 185-193."
+geographicScope: Global
+taxonomicScope: ostracods
+temporalScope: 1758-2021
+confidence: '3'
+completeness: '60'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/ostracoda'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Brandão, S.N.; Karanovic, I. (2021). World Ostracoda Database. Accessed at http://www.marinespecies.org/ostracoda on 2021-07-22. doi:10.14284/364'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Simone, familyName: Brandão, email: brandao.sn.100@gmail.com }
+editors:
+    - { givenName: Martin, familyName: Angel, email: '' }
+    - { givenName: Simone, familyName: Brandão, email: brandao.sn.100@gmail.com, orcid: 0000-0002-3487-6129 }
+    - { givenName: Ivana, familyName: Karanovic, email: ivana.karanovic@utas.edu.au }
+    - { givenName: Tõnu, familyName: Meidla, email: Tonu.Meidla@ut.ee }
+    - { givenName: Vincent, familyName: Perrier, email: vincent.perrier@univ-lyon1.fr }
+organisations:
+    - { name: 'Universidade Estadual de Santa Cruz Departamento de Ciências Biológicas', country: Brasil }
+    - { name: 'University of Tasmania', country: Australia }
+    - { name: 'University of Tartu Faculty of Biology and Geography', country: Australia }
+    - { name: 'Université Claude Bernard Lyon 1', country: France }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

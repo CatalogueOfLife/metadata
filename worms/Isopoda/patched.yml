@@ -1,0 +1,40 @@
+---
+title: 'World Marine, Freshwater and Terrestrial Isopod Crustaceans database'
+alias: 'WoRMS Isopoda'
+description: 'This list began as an initiative of the US National Museum of Natural History, Smithsonian Institution, maintained by the late Brian Kensley and Marilyn Schotte. It grew into a valuable resource http://invertebrates.si.edu/isopod/ for providing nomenclature on the Isopoda: Schotte, M., B.F. Kensley, and S. Shilling (1995 onwards). World list of Marine, Freshwater and Terrestrial Crustacea Isopoda. National Museum of Natural History Smithsonian Institution: Washington D.C., USA. This list is now reconstructed at http://www.marinespecies.org, with more detailed information on synonymies and distributions, and a capability to host more information, such as images, original literature, and specimen data. This list will be transferred on a monthly basis back to the Smithsonian site. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'pillbugs, slaters, and woodlice'
+temporalScope: 1758-2021
+confidence: '5'
+completeness: '100'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/isopoda'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Boyko, C.B.; Bruce, N.L.; Hadfield, K.A.; Merrin, K.L.; Ota, Y.; Poore, G.C.B.; Taiti, S.; Schotte, M.; Wilson, G.D.F. (Eds) (2008 onwards). World Marine, Freshwater and Terrestrial Isopod Crustaceans database. Accessed at http://www.marinespecies.org/isopoda on 2021-07-22. doi:10.14284/365'
+code: zoological
+gazetteer: mrgid
+contact:
+    - info@marinespecies.org
+editors:
+    - { givenName: Christopher, familyName: Boyko, email: cboyko@amnh.org }
+    - { givenName: Niel, familyName: Bruce, email: niel.bruce@qm.qld.gov.au }
+    - { givenName: 'Kerry A.', familyName: Hadfield, email: kerryh26@yahoo.com, orcid: 0000-0003-1308-6360 }
+    - { givenName: Kelly, familyName: Merrin, email: kellymerrin@hotmail.com }
+    - { givenName: Yuzo, familyName: Ota, email: ootayu@pref.tottori.jp }
+    - { givenName: Gary, familyName: Poore, email: gpoore@museum.vic.gov.au }
+    - { givenName: Marilyn, familyName: Schotte, email: '' }
+    - { givenName: Stefano, familyName: Taiti, email: stefano.taiti@ise.cnr.it }
+    - { givenName: 'George D.F.', familyName: Wilson, email: buz@optusnet.com.au }
+organisations:
+    - { name: 'American Museum of Natural History Division of Invertebrate Zoology', country: '' }
+    - { name: 'Queensland Museum Museum of Tropical Queensland', country: Australia }
+    - { name: 'North-West University Department of Biological Sciences', country: South-Africa }
+    - { name: 'Monash University', country: South-Africa }
+    - { name: 'University of Ryukyus Graduate School of Engineering and Science', country: Japan }
+    - { name: 'Museums Victoria', country: Australia }
+    - { name: 'Italian National Research Council Istituto per lo Studio degli Ecosistemi - Sede di Firenze', country: Italy }
+    - { name: 'University of Sydney', country: Italy }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

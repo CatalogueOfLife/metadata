@@ -1,0 +1,28 @@
+---
+title: 'World List of Antipatharia'
+alias: 'WoRMS Antipatharia'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'thorny corals'
+temporalScope: 1758-2021
+confidence: '3'
+completeness: '90'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Molodtsova, T.; Opresko, D. (2021). World List of Antipatharia. Accessed at http://www.marinespecies.org on 2021-07-22'
+code: zoological
+gazetteer: mrgid
+contact:
+    - { givenName: Tina, familyName: Molodtsova, email: tina@ocean.ru }
+    - { givenName: Dennis, familyName: Opresko, email: dmopresko@hotmail.com }
+editors:
+    - { givenName: Tina, familyName: Molodtsova, email: tina@ocean.ru }
+    - { givenName: Dennis, familyName: Opresko, email: dmopresko@hotmail.com }
+organisations:
+    - { name: 'Russian Academy of Sciences P. P. Shirshov Institute of Oceanology', country: Russia }
+    - { name: 'Smithsonian Institution; National Museum of Natural History Department of Invertebrate Zoology', country: USA }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+

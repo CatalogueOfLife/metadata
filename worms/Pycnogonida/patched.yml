@@ -1,0 +1,28 @@
+---
+title: 'Pycnobase: World Pycnogonida Database'
+alias: 'WoRMS Pycnogonida'
+description: 'This global marine species list is part of the World Register of Marine Species database, which aims to provide the most authoritative list of names of all marine species globally. Data have been contributed to the Catalogue of Life via the WoRMS, hosted by the Flanders Marine Institute (VLIZ).'
+geographicScope: Global
+taxonomicScope: 'sea spiders'
+temporalScope: 1758-2021
+confidence: '4'
+completeness: '95'
+license: CC-BY
+version: 'ver. (07/2021)'
+released: '2021-07-01'
+website: 'http://www.marinespecies.org/pycnobase'
+logo: 'http://www.marinespecies.org/documents/WoRMS%20branding/WoRMS_logo_blue_negative.png'
+citation: 'Bamber, R.N.; El Nagar, A.; Arango, C.P. (Eds) (2021). Pycnobase: World Pycnogonida Database. Accessed at http://www.marinespecies.org/pycnobase on 2021-07-22. doi:10.14284/360'
+code: zoological
+gazetteer: mrgid
+contact:
+    - info@marinespecies.org
+editors:
+    - { givenName: Claudia, familyName: Arango, email: claudia.arango@qm.qld.gov.au }
+    - { givenName: Roger, familyName: Bamber, email: '' }
+    - { givenName: Aliya, familyName: 'El Nagar', email: A.ElNagar@leeds.ac.uk }
+organisations:
+    - { name: 'Queensland Museum', country: Australia }
+    - { name: 'University of Leeds; Faculty of Biological Sciences The School of Biology', country: UK }
+    - { name: 'Vlaams Instituut voor de Zee', country: Belgium }
+
