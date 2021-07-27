@@ -1,5 +1,4 @@
 ---
-type: taxonomic
 identifier: {}
 title: Moss Bug Base
 alias: MBB
@@ -11,22 +10,24 @@ description: Moss Bug Base is a taxonomic database of extant and fossil taxa of 
 issued: 2009-10-22
 version: 1.0, Sep 2009
 contact:
-  given: D
-  family: Ouvrard
+  given: Daniel
+  family: Burckhardt
+  orcid: 0000-0001-8368-5268
+  email: daniel.burckhardt@unibas.ch
 creator:
  -
-  given: D.
+  given: Daniel
   family: Burckhardt
-contributor:
- -
+  orcid: 0000-0001-8368-5268
+  email: daniel.burckhardt@unibas.ch
   organisation: Naturhistorisches Museum
   city: Basel
-  country: Switzerland
+  country: CH
 taxonomicScope: Moss bugs
 confidence: 5
 completeness: 100
 url: http://rameau.snv.jussieu.fr/cgi-bin/coleorrhyncha.pl
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/MBB.png
 source: []
-license: other
+license: cc by
 geographicScope: Global

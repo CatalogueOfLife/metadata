@@ -40,7 +40,7 @@ creator:
   state: IL
   country: US
  -
-  given: D.C.
+  given: David C.
   family: Eades
   department: Illinois Natural History Survey
   organisation: University of Illinois
@@ -52,7 +52,7 @@ geographicScope: Global
 taxonomicScope: Bark lices & parasitic lices
 confidence: 5
 completeness: 85
-license: other
+license: cc by  
 url: http://psocodea.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Psocodea.png
 source: []

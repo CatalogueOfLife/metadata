@@ -36,19 +36,19 @@ creator:
   family: Neu-Becker
   organisation: Max Planck Institute
   city: Munich
-  country: Germany
+  country: DE
  -
   given: G.
   family: Stueber
   organisation: Max Planck Institute
   city: Munich
-  country: Germany
+  country: DE
 contributor: []
 geographicScope: Global
 taxonomicScope: Stoneflies
 confidence: 5
 completeness: 99
-license: other
+license: cc by
 url: http://plecoptera.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Plecoptera.png
 source: []

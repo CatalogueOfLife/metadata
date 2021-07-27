@@ -16,16 +16,16 @@ contact:
   family: Ben-Dov
   organisation: Agricultural Research Organization
   city: Bet Dagan
-  country: Israel
+  country: IL
 creator:
  -
   given: Yair
   family: Ben-Dov
   organisation: Agricultural Research Organization
   city: Bet Dagan
-  country: Israel
+  country: IL
  -
-  given: D.R.
+  given: Douglas R
   family: Miller
   department: Systematic Entomology Laboratory
   organisation: US Department of Agriculture
@@ -42,14 +42,14 @@ contributor:
 -
   department: Division of Plant Industry
   organisation: US Department of Agriculture
-  ity: Beltsville
+  city: Beltsville
   state: MD
   country: US
 geographicScope: Global
 taxonomicScope: Scale insects
 confidence: 4
 completeness: 97
-license: other
+license: cc by
 url: http://scalenet.info/catalogue/
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ScaleNet.png
 source: []

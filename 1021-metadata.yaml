@@ -19,14 +19,14 @@ creator:
   department: División Entomología
   organisation: Museo de La Plata, CEPAVE - CONICET
   city: La Plata
-  country: Argentina
+  country: AR
  -
   given: Holger
   family: Braun
   department: División Entomología
   organisation: Museo de La Plata, CEPAVE - CONICET
   city: La Plata
-  country: Argentina
+  country: AR
  -
   given: David C.
   family: Eades
@@ -48,7 +48,7 @@ geographicScope: Global
 taxonomicScope: Grasshoppers, locusts, katydids, crickets
 confidence: 5
 completeness: 100
-license: other
+license: cc by
 url: http://Orthoptera.SpeciesFile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Orthoptera.png
 source: []

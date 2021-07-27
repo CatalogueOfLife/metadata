@@ -25,12 +25,12 @@ creator:
   city: New York
   state: New York
   country: US
-contributor:
+contributor: []
 geographicScope: Global
 taxonomicScope: Zorapterans
 confidence: 5
 completeness: 99
-license: Other
+license: cc by
 url: http://zoraptera.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Zoraptera.png
 source: []

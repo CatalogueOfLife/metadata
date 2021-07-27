@@ -17,7 +17,7 @@ creator:
   department: División Entomología
   organisation: Museo de La Plata
   city: La Plata
-  country: Argentina
+  country: AR
  -
   given: Thomas J.
   family: Henry
@@ -26,11 +26,11 @@ creator:
   city: Washington D.C.
   country: US
 contributor: []
-geographocalScope: Global
+geographicScope: Global
 taxonomicScope: Seed bugs
 confidence: 2
 completeness: 90
-license: other
+license: cc by
 url: http://Lygaeoidea.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Lygaeoidea.png
 source: []

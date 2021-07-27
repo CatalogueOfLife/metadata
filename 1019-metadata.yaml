@@ -10,26 +10,31 @@ description: The World Checklist of Mosses (W3MOST) provides current information
 issued: 2004-07-19
 version: 1, Jul 2004
 contact:
-  given: Bob
-  family: Magill
+  given: John
+  family: Brinda
+  email: john.brinda@mobot.org
+  organisation: Missouri Botanical Garden
+  city: St. Louis
+  country: US
 creator:
  -
-  given: M.R.
+  given: Marshall R
   family: Crosby
- -
-  given: R.
-  family: Magill
-contributor:
- -
-  city: St. Louis
-  state: MO
-  country: US
   organisation: Missouri Botanical Garden
+  city: St. Louis
+  country: US
+ -
+  given: Robert E
+  family: Magill
+  organisation: Missouri Botanical Garden
+  city: St. Louis
+  country: US
+contributor: []
 geographicScope: Global
 taxonomicScope: Mosses
 confidence: 4
 completeness: 95
-license: other
+license: cc by
 url: http://www.mobot.org/mobot/tropicos/most/checklist.shtml
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/MOST.png
 source: []

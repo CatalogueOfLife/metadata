@@ -13,7 +13,7 @@ creator:
  -
   given: Sam W.
   family: Heads
-  departement: Illinois Natural History Survey
+  department: Illinois Natural History Survey
   organisation: University of Illinois
   city: Champaign
   state: IL
@@ -21,7 +21,7 @@ creator:
  -
   given: Michael D.
   family: Maehr
-  departement: Illinois Natural History Survey
+  department: Illinois Natural History Survey
   organisation: University of Illinois
   city: Champaign
   state: IL
@@ -31,7 +31,7 @@ geographicScope: Global
 taxonomicScope: Fossilised moss bugs
 confidence: 4
 completeness: 99
-license: other
+license: cc by
 url: http://coleorrhyncha.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Coleorrhyncha.png
 source: []

@@ -18,7 +18,7 @@ creator:
   state: NY
   country: US
  -
-  given: Michael D.
+  given: Michael D
   family: Maehr
   department: Illinois Natural History Survey
   organisation: University of Illinois
@@ -26,10 +26,13 @@ creator:
   state: IL
   country: US
  -
-  given: F.
+  given: Fabian
   family: Haas
+  organisation: African Insect Science for Food and Health (ICIPE)
+  city: Nairobi
+  country: KE
  -
-  given: L.S.
+  given: Lesley S
   family: Deem
   department: Illinois Natural History Survey
   organisation: University of Illinois
@@ -41,7 +44,7 @@ geographicScope: Global
 taxonomicScope: Earwigs
 confidence: 4
 completeness: 95
-license: Other
+license: cc by
 url: http://Dermaptera.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Dermaptera.png
 source: []

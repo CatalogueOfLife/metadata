@@ -1,5 +1,4 @@
 ---
-type: taxonomic
 identifier: {}
 title: The Integrated Taxonomic Information System
 alias: ITIS
@@ -23,6 +22,6 @@ geographicScope: Global & Regional
 taxonomicScope: Biota
 confidence: 5
 completeness: 100
-license: other
+license: cc 0
 url: https://itis.gov
 source: []

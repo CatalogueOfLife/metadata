@@ -21,36 +21,40 @@ description: FishBase is a global information system with extensive information 
 issued: 2018-02-15
 version: Feb 2018
 contact:
-  given: Rainer
-  family: Froese
+  given: Nicolas
+  family: Bailly
+  email: bailly@zoology.ubc.ca
 editor:
  -
-  given: R.
+  given: Rainer
   family: Froese
+  organisation: Helmholtz Center for Ocean Research
+  city: Kiel
+  country: DE
  -
-  given: D.
+  given: Daniel
   family: Pauly
+  department: Fisheries Centre
+  organisation: University of British Columbia
+  city: Vancouver
+  country: CA
 contributor:
  -
   organisation: Quantitative Aquatics (Q-quatics)
  -
   organisation: WorldFish
  -
-  organisation: FAO
+  organisation: Food and Agriculture Organization of the United Nations (FAO)
  -
-  organisation: IFM-GEOMAR
+  organisation: Muséum national d'histoire naturelle (MNHN)
  -
-  organisation: MNHN
+  organisation: Royal Museum for Central Africa (RMCA)
  -
-  organisation: RMCA
+  organisation: Swedish Museum of Natural History (NRM)
  -
-  organisation: NRM
+  organisation: Aristotle University of Thessaloniki (AUTH)
  -
-  organisation: FC-UBC
- -
-  organisation: AUTH
- -
-  organisation: CAFS
+  organisation: Chinese Academy of Fisheries Science (CAFS)
 taxonomicScope: Fishes
 geographicScope: Global
 confidence: 4

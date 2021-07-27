@@ -13,8 +13,12 @@ description: The Embioptera Species File is a taxonomic database of the scientif
 issued: 2018-06-01
 version: 5.0, Jun 2018
 contact:
-  given: Marilyn
-  family: Beckman
+  given: Heidi
+  family: Hopkins
+  organisation: Ithaca College
+  city: New York
+  state: NY
+  country: US
 creator:
  -
   given: Michael D.
@@ -24,12 +28,27 @@ creator:
   city: Champaign
   state: IL
   country: US
+ - 
+  given: Heidi
+  family: Hopkins
+  organisation: Ithaca College
+  city: New York
+  state: NY
+  country: US
+ - 
+  given: David C
+  family: Eades
+  department: Illinois Natural History Survey
+  organisation: University of Illinois
+  city: Champaign
+  state: IL
+  country: US
 contributor: []
-geographicalScope: Global
+geographicScope: Global
 taxonomicScope: Webspinners
 confidence: 4
 completeness: 99
-license: other
+license: cc by
 url: http://embioptera.speciesfile.org
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/SF_Embioptera.png
 source: []
