@@ -2,10 +2,8 @@
 
 Metadata.yaml files for all sources of COL. Each folder (named by the current alias or key if missing) contains the following files:
 
- - `{key}-latest.yaml`: the current metadata of the latest version imported into ChecklistBank
- - `{key}-archived.yaml` (optional): The metadata as it is currently archived for the source in the project, according to the last time the data was synced. This file will only be created when the latest version differs and is based on a newer import that is currently used in the project.
+ - `{key}-metadata.yaml`: the current metadata of the latest version imported into ChecklistBank
  - `{key}-patch.yaml` (optional): the patch if it exists
- - `attempts.txt` (optional): in case the archived.yaml exists this file lists both import attempts (latest & archived)
 
 
 ## Editing in Visual Studio Code
@@ -31,7 +29,7 @@ Copy the following yaml and suggest settings to your VSCode settings. This will 
 ```
 {
     "yaml.schemas": {
-        "https://raw.githubusercontent.com/CatalogueOfLife/coldp/master/metadata.json": ["*-latest.yaml", "*-patch.yaml", "metadata.yaml"],
+        "https://raw.githubusercontent.com/CatalogueOfLife/coldp/master/metadata.json": ["*-metadata.yaml", "*-patch.yaml", "metadata.yaml"],
     },
     "yaml.disableAdditionalProperties": true,
     "yaml.validate": true,
@@ -59,6 +57,4 @@ If everything worked as expected, when we create a new metadata.yaml file and pr
 You can also check the validity of the YAML files here by uploading or copy pasting your YAML file:
 https://data.dev.catalogueoflife.org/tools/metadata-validator
 
-## Update data in github
-Send the modified latest.yaml file with the name of the alias to Markus, who will merge it into the repository again.
 

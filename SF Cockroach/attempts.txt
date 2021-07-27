@@ -1,2 +1,0 @@
-latest=10
-archived=8
