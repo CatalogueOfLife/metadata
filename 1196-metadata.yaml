@@ -21,14 +21,14 @@ creator:
   family: Cairns
 editor:
  -
-  given: Stephen
-  family: Cairns
-  email: cairnss@si.edu
- -
   orcid: 0000-0001-8259-3783
   given: Bert
   family: Hoeksema
   email: bert.hoeksema@naturalis.nl
+  -
+  given: Stephen
+  family: Cairns
+  email: cairnss@si.edu
 contributor:
  -
   country: US
